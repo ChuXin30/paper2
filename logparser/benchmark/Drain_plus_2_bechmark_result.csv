@@ -1,5 +1,5 @@
-""
-best_st
-best_tau
-F1_measure
-Accuracy
+,HDFS_all
+best_st,0.2
+best_tau,0.7
+F1_measure,0.9991117984696095
+Accuracy,0.5284415758611887

@@ -1,0 +1,68 @@
+../TestLogs/Spark/Spark_1k_match.log
+1899
+2326
+Parsing done. [Time taken: 0:00:00.077751]
+Precision: 0.9969, Recall: 0.4365, F1_measure: 0.6071, Parsing_Accuracy: 0.4310
+../TestLogs/Spark/Spark_10k_match.log
+12376
+14424
+Parsing done. [Time taken: 0:00:00.320968]
+Precision: 1.0000, Recall: 0.2374, F1_measure: 0.3837, Parsing_Accuracy: 0.2713
+../TestLogs/Spark/Spark_100k_match.log
+103791
+116985
+Parsing done. [Time taken: 0:00:03.376568]
+Precision: 1.0000, Recall: 0.2405, F1_measure: 0.3878, Parsing_Accuracy: 0.2606
+../TestLogs/Spark/Spark_1m_match.log
+817174
+971824
+Parsing done. [Time taken: 0:00:36.253652]
+Precision: 1.0000, Recall: 0.2229, F1_measure: 0.3645, Parsing_Accuracy: 0.2141
+../TestLogs/BGL/BGL_1k.log
+(pytorch_python3) chenh@ta:/data/chenh/paper2/logram/LogAbstractionOffline$ /home/chenh/.conda/envs/pytorch_python3/bin/python /data/chenh/paper2/logram/LogAbstractionOffline/Main.py 
+../TestLogs/Spark/Spark_1k_match.log
+1899
+2326
+Parsing done. [Time taken: 0:00:00.074792]
+Precision: 0.9969, Recall: 0.4365, F1_measure: 0.6071, Parsing_Accuracy: 0.4310
+../TestLogs/Spark/Spark_10k_match.log
+12376
+14424
+Parsing done. [Time taken: 0:00:00.325271]
+Precision: 1.0000, Recall: 0.2374, F1_measure: 0.3837, Parsing_Accuracy: 0.2713
+../TestLogs/BGL/BGL_1k.log
+5
+4
+Parsing done. [Time taken: 0:00:00.022616]
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+../TestLogs/BGL/BGL_10k.log
+528
+598
+Parsing done. [Time taken: 0:00:00.145710]
+Precision: 1.0000, Recall: 0.5486, F1_measure: 0.7085, Parsing_Accuracy: 0.5029
+../TestLogs/HDFS/HDFS_1k.log
+61
+60
+Parsing done. [Time taken: 0:00:00.034008]
+Precision: 1.0000, Recall: 0.9507, F1_measure: 0.9747, Parsing_Accuracy: 0.8150
+../TestLogs/HDFS/HDFS_10k.log
+72
+68
+Parsing done. [Time taken: 0:00:00.315488]
+Precision: 1.0000, Recall: 0.9749, F1_measure: 0.9873, Parsing_Accuracy: 0.8978
+(pytorch_python3) chenh@ta:/data/chenh/paper2/logram/LogAbstractionOffline$ /home/chenh/.conda/envs/pytorch_python3/bin/python /data/chenh/paper2/logram/LogAbstractionOffline/Main.py 
+../TestLogs/Spark/Spark_100k_match.log
+103791
+116985
+Parsing done. [Time taken: 0:00:03.976948]
+Precision: 1.0000, Recall: 0.2405, F1_measure: 0.3878, Parsing_Accuracy: 0.2606
+../TestLogs/BGL/BGL_100k.log
+3461
+3731
+Parsing done. [Time taken: 0:00:01.336918]
+Precision: 1.0000, Recall: 0.9967, F1_measure: 0.9983, Parsing_Accuracy: 0.9134
+../TestLogs/HDFS/HDFS_100k.log
+113
+110
+Parsing done. [Time taken: 0:00:03.408332]
+Precision: 1.0000, Recall: 0.9847, F1_measure: 0.9923, Parsing_Accuracy: 0.9083

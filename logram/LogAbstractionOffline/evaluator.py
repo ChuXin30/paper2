@@ -4,11 +4,17 @@ Author      : LogPAI team
 License     : MIT
 """
 
+# import sys
+# import pandas as pd
+# from collections import defaultdict
+# import scipy.special
+# # import scipy.misc
 import sys
 import pandas as pd
 from collections import defaultdict
 import scipy.special
-# import scipy.misc
+from sklearn import metrics
+import numpy as np
 
 
 def evaluate(groundtruth, parsedresult):

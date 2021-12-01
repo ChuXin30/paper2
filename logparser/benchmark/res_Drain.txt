@@ -7922,3 +7922,22 @@ Parsing file: ../logs/HDFS/HDFS.log
 
 === Evaluation on HDFS1_all ===
 Parsing file: ../logs/HDFS/HDFS.log
+
+
+
+Processed 100.0% of log lines.
+Processed 100.0% of log lines.
+Processed 100.0% of log lines.
+Parsing done. [Time taken: 0:18:53.836203]
+time_use = 1269
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.8457
+  F1_measure  Accuracy      time   dataset
+0  HDFS1_all  0.999995  0.845699  0.454126
+avarage accuracy is 0.84569897587
+
+=== Overall evaluation results ===
+           F1_measure  Accuracy      time
+Dataset                                  
+HDFS1_all    0.999995  0.845699  0.454126
+../logs/HDFS/HDFS.log_structured.csv
+avarage accuracy is 0.84569897587
