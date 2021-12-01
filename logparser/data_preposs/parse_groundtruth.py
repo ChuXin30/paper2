@@ -322,10 +322,77 @@ def parse_match_file(row_log , log_template,  row_log_write ):
     print(sorted(dict_not_match.items(), key = lambda kv:(kv[1], kv[0])))     
 
 
+def parse_csv_hdfs(row_log , log_template, logformat  , save_csv ):
+    headers, regex = generate_logformat_regex(logformat)
+    df_log = log_to_dataframe(row_log , regex, headers)
+
+    dict_logkey_parse={}  
+
+    f_template = open(log_template,mode='r')
+    for line in f_template:
+        line = line.rstrip()
+        obj = re.match(r'([0-9]+).(.*)',line)
+        dict_logkey_parse[obj.group(1)] = obj.group(2)
+
+    count_match = 0
+
+    df_events = []
+    LineId = 0
+    count_line = 0
+    last_match = ""
+
+
+    dict_not_match = {}
+    LineId_not_match = {}
+    for idx, line in df_log.iterrows():
+    # for line in f_row_log.readlines():
+        line_tmp = line['Content']
+        eventid = ''
+        LineId += 1
+        count_line += 1
+
+        if(count_line%1000 == 0):
+            print("count_line={}".format(count_line))
+
+        if dict_logkey_parse.has_key(last_match):
+            # print(dict_logkey_parse[last_match])
+            obj1 = re.search(dict_logkey_parse[last_match], line_tmp) 
+            if obj1 != None:
+                count_match += 1
+                eventid = last_match
+        if eventid == '':
+            for var in dict_logkey_parse:
+                # print(dict_logkey_parse[var])
+                obj = re.search(dict_logkey_parse[var], line_tmp)
+                if obj != None:
+                    count_match += 1
+                    eventid = var
+                    break
+
+        if(eventid == ''):
+            # print(count_line)
+            print(line['Content'])
+            # df_events.append([LineId, '-1'])
+            LineId_not_match[LineId] = 1
+
+            if dict_not_match.has_key(line['Content']) :
+                dict_not_match[line['Content'] ] = dict_not_match.get( line['Content'] ) + 1
+            else:
+                dict_not_match[line['Content'] ] = 1
+
+        if eventid != '':
+            df_events.append([LineId, eventid])
+            last_match = eventid
+
+    df_event = pd.DataFrame(df_events, columns=['LineId', 'EventId'])
+    df_event.to_csv(save_csv , index=False, columns=['LineId', 'EventId'])
+    print("count_line={} count_match={}".format(count_line , count_match))
+    print(sorted(dict_not_match.items(), key = lambda kv:(kv[1], kv[0])))     
+
 
 if __name__ == "__main__":
 
-    parse_csv('../logs/HDFS/HDFS.log' ,   '../logs/HDFS/HDFS_templates.csv', '<Date> <Time> <Pid> <Level> <Component>: <Content>' , '../logs/HDFS/HDFS.log_structured.csv')
+    parse_csv_hdfs('../logs/HDFS/HDFS.log' ,   '../logs/HDFS/col_header.txt', '<Date> <Time> <Pid> <Level> <Component>: <Content>' , '../logs/HDFS/HDFS.log_structured.csv')
 
 
     # parse_match_file('../logs/OpenSSH/OpenSSH_600.log' ,   '../logs/OpenSSH/OpenSSH_2k.log_templates.csv' ,  '../logs/OpenSSH/OpenSSH_600_match.log' )
