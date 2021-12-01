@@ -1,0 +1,1076 @@
+model_path: data_noise/cnn_lstm_model/1_0.00010142020136635923_198
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:12
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+model_path: data_noise/cnn_lstm_model/1_0.00010142020136635923_198
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:11
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+model_path: data_noise/cnn_lstm_model/1_0.00010142020136635923_198
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:10
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+model_path: data_noise/cnn_lstm_model/1_0.00010142020136635923_198
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:9
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+model_path: data_noise/cnn_lstm_model/1_0.00010142020136635923_198
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:8
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+model_path: data_noise/cnn_lstm_model/1_0.00010142020136635923_198
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:7
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/drain_noise_0/WITH_S_test_normal): 546722
+Number of sessions(data_noise/drain_noise_0/WITH_S_test_abnormal): 16838
+model_path: data_noise/cnn_lstm_model/1_0.00010142020136635923_198
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:12
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/drain_noise_0/WITH_S_test_normal): 546722
+Number of sessions(data_noise/drain_noise_0/WITH_S_test_abnormal): 16838
+model_path: data_noise/cnn_lstm_model/1_0.00010142020136635923_198
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:5
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+model_path: data_noise/cnn_lstm_model/1_0.00010142020136635923_198
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:12
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/drain_noise_0/WITH_S_test_normal): 546722
+Number of sessions(data_noise/drain_noise_0/WITH_S_test_abnormal): 16838
+count=1000 TP=581
+count=2000 TP=1098
+count=3000 TP=1649
+count=4000 TP=2334
+count=5000 TP=2942
+count=6000 TP=3313
+count=7000 TP=3731
+count=8000 TP=4163
+count=9000 TP=4577
+count=10000 TP=4969
+count=11000 TP=5470
+count=12000 TP=5920
+count=13000 TP=6209
+count=14000 TP=6675
+count=15000 TP=6861
+count=16000 TP=7493
+count=10000 FP=1
+count=20000 FP=1
+count=30000 FP=2
+count=40000 FP=3
+count=50000 FP=3
+count=60000 FP=4
+count=70000 FP=5
+count=80000 FP=5
+count=90000 FP=5
+count=100000 FP=6
+count=110000 FP=8
+count=120000 FP=9
+count=130000 FP=12
+count=140000 FP=12
+count=150000 FP=14
+count=160000 FP=14
+count=170000 FP=14
+count=180000 FP=14
+count=190000 FP=14
+count=200000 FP=16
+count=210000 FP=17
+count=220000 FP=18
+count=230000 FP=19
+count=240000 FP=20
+count=250000 FP=20
+count=260000 FP=20
+count=270000 FP=20
+count=280000 FP=21
+count=290000 FP=21
+count=300000 FP=22
+count=310000 FP=22
+count=320000 FP=22
+count=330000 FP=22
+count=340000 FP=22
+count=350000 FP=23
+count=360000 FP=24
+count=370000 FP=24
+count=380000 FP=26
+count=390000 FP=28
+count=400000 FP=28
+count=410000 FP=29
+count=420000 FP=29
+count=430000 FP=29
+count=440000 FP=30
+count=450000 FP=30
+count=460000 FP=32
+count=470000 FP=33
+count=480000 FP=34
+count=490000 FP=35
+count=500000 FP=35
+count=510000 FP=35
+count=520000 FP=35
+count=530000 FP=35
+count=540000 FP=36
+false positive (FP): 36, false negative (FN): 8569, Precision: 99.567%, Recall: 49.109%, F1-measure: 65.776%
+Finished Predicting
+elapsed_time: 9129.34024643898
+model_path: data_noise/cnn_lstm_model/1_0.00010142020136635923_198
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:11
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/drain_noise_0/WITH_S_test_normal): 546722
+Number of sessions(data_noise/drain_noise_0/WITH_S_test_abnormal): 16838
+count=1000 TP=607
+count=2000 TP=1161
+count=3000 TP=1880
+count=4000 TP=2690
+count=5000 TP=3387
+count=6000 TP=3806
+count=7000 TP=4354
+count=8000 TP=4887
+count=9000 TP=5339
+count=10000 TP=5781
+count=11000 TP=6307
+count=12000 TP=6787
+count=13000 TP=7093
+count=14000 TP=7585
+count=15000 TP=7780
+count=16000 TP=8425
+count=10000 FP=1
+count=20000 FP=1
+count=30000 FP=2
+count=40000 FP=5
+count=50000 FP=7
+count=60000 FP=8
+count=70000 FP=9
+count=80000 FP=10
+count=90000 FP=11
+count=100000 FP=15
+count=110000 FP=18
+count=120000 FP=21
+count=130000 FP=25
+count=140000 FP=25
+count=150000 FP=27
+model_path: data_noise/cnn_lstm_model/1_0.00010142020136635923_198
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:9
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/drain_noise_0/WITH_S_test_normal): 546722
+Number of sessions(data_noise/drain_noise_0/WITH_S_test_abnormal): 16838
+count=1000 TP=684
+count=2000 TP=1368
+count=3000 TP=2172
+count=4000 TP=3058
+count=5000 TP=3815
+count=6000 TP=4286
+count=7000 TP=5090
+count=8000 TP=5793
+count=9000 TP=6317
+count=10000 TP=6836
+count=11000 TP=7425
+count=12000 TP=7993
+count=13000 TP=8382
+count=14000 TP=8931
+count=15000 TP=9165
+count=16000 TP=9830
+count=10000 FP=3
+count=20000 FP=3
+count=30000 FP=7
+count=40000 FP=10
+count=50000 FP=15
+count=60000 FP=20
+count=70000 FP=22
+count=80000 FP=26
+count=90000 FP=29
+count=100000 FP=33
+count=110000 FP=37
+count=120000 FP=43
+count=130000 FP=50
+count=140000 FP=50
+count=150000 FP=60
+count=160000 FP=64
+count=170000 FP=68
+count=180000 FP=71
+count=190000 FP=75
+count=200000 FP=81
+count=210000 FP=89
+count=220000 FP=93
+count=230000 FP=98
+count=240000 FP=102
+count=250000 FP=112
+count=260000 FP=117
+count=270000 FP=118
+count=280000 FP=124
+count=290000 FP=126
+count=300000 FP=132
+count=310000 FP=136
+count=320000 FP=138
+count=330000 FP=141
+count=340000 FP=148
+count=350000 FP=150
+count=360000 FP=155
+count=370000 FP=160
+count=380000 FP=163
+count=390000 FP=168
+count=400000 FP=170
+count=410000 FP=174
+count=420000 FP=176
+count=430000 FP=178
+count=440000 FP=180
+count=450000 FP=182
+count=460000 FP=186
+count=470000 FP=188
+count=480000 FP=190
+count=490000 FP=197
+count=500000 FP=200
+count=510000 FP=203
+count=520000 FP=205
+count=530000 FP=208
+count=540000 FP=213
+false positive (FP): 215, false negative (FN): 6204, Precision: 98.018%, Recall: 63.155%, F1-measure: 76.816%
+Finished Predicting
+elapsed_time: 9554.650949716568
+model_path: data_noise/cnn_lstm_model/1_0.00010142020136635923_198
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:7
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/drain_noise_0/WITH_S_test_normal): 546722
+Number of sessions(data_noise/drain_noise_0/WITH_S_test_abnormal): 16838
+count=1000 TP=708
+count=2000 TP=1409
+count=3000 TP=2216
+count=4000 TP=3127
+count=5000 TP=3919
+count=6000 TP=4461
+count=7000 TP=5298
+count=8000 TP=6011
+count=9000 TP=6566
+count=10000 TP=7128
+count=11000 TP=7727
+count=12000 TP=8590
+count=13000 TP=9294
+count=14000 TP=9957
+count=15000 TP=10368
+count=16000 TP=11115
+count=10000 FP=5
+count=20000 FP=11
+count=30000 FP=20
+count=40000 FP=25
+count=50000 FP=37
+count=60000 FP=47
+count=70000 FP=50
+count=80000 FP=58
+count=90000 FP=62
+count=100000 FP=66
+count=110000 FP=74
+count=120000 FP=85
+count=130000 FP=94
+count=140000 FP=96
+count=150000 FP=108
+count=160000 FP=116
+count=170000 FP=126
+count=180000 FP=133
+count=190000 FP=139
+count=200000 FP=146
+count=210000 FP=162
+count=220000 FP=173
+count=230000 FP=181
+count=240000 FP=190
+count=250000 FP=203
+count=260000 FP=213
+count=270000 FP=217
+count=280000 FP=227
+count=290000 FP=231
+count=300000 FP=243
+count=310000 FP=248
+count=320000 FP=255
+count=330000 FP=260
+count=340000 FP=272
+count=350000 FP=277
+count=360000 FP=283
+count=370000 FP=291
+count=380000 FP=298
+count=390000 FP=310
+count=400000 FP=313
+count=410000 FP=318
+count=420000 FP=323
+count=430000 FP=328
+count=440000 FP=332
+count=450000 FP=338
+count=460000 FP=342
+count=470000 FP=347
+count=480000 FP=351
+count=490000 FP=362
+count=500000 FP=366
+count=510000 FP=372
+count=520000 FP=378
+count=530000 FP=384
+count=540000 FP=392
+false positive (FP): 394, false negative (FN): 4911, Precision: 96.802%, Recall: 70.834%, F1-measure: 81.807%
+Finished Predicting
+elapsed_time: 14750.55076622963
+model_path: data_noise/cnn_lstm_model/1_0.00010142020136635923_198
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:6
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/drain_noise_0/WITH_S_test_normal): 546722
+Number of sessions(data_noise/drain_noise_0/WITH_S_test_abnormal): 16838
+count=1000 TP=713
+count=2000 TP=1420
+count=3000 TP=2227
+count=4000 TP=3146
+count=5000 TP=3947
+count=6000 TP=4546
+count=7000 TP=5385
+count=8000 TP=6099
+count=9000 TP=6654
+count=10000 TP=7218
+count=11000 TP=7820
+count=12000 TP=8685
+count=13000 TP=9390
+count=14000 TP=10054
+count=15000 TP=10466
+count=16000 TP=11214
+count=10000 FP=9
+count=20000 FP=19
+count=30000 FP=30
+count=40000 FP=39
+count=50000 FP=59
+count=60000 FP=75
+count=70000 FP=81
+count=80000 FP=94
+count=90000 FP=103
+count=100000 FP=114
+count=110000 FP=126
+count=120000 FP=143
+count=130000 FP=157
+count=140000 FP=166
+count=150000 FP=181
+count=160000 FP=193
+count=170000 FP=207
+count=180000 FP=220
+count=190000 FP=235
+count=200000 FP=250
+count=210000 FP=272
+count=220000 FP=287
+count=230000 FP=302
+count=240000 FP=314
+count=250000 FP=333
+count=260000 FP=345
+count=270000 FP=355
+count=280000 FP=368
+count=290000 FP=374
+count=300000 FP=393
+count=310000 FP=402
+count=320000 FP=411
+count=330000 FP=424
+count=340000 FP=439
+count=350000 FP=452
+count=360000 FP=463
+count=370000 FP=478
+count=380000 FP=4863
+count=390000 FP=506
+count=400000 FP=514
+count=410000 FP=521
+count=420000 FP=532
+count=430000 FP=541
+count=440000 FP=553
+count=450000 FP=564
+count=460000 FP=574
+count=470000 FP=580
+count=480000 FP=589
+count=490000 FP=606
+count=500000 FP=617
+count=510000 FP=628
+count=520000 FP=640
+count=530000 FP=653
+count=540000 FP=669
+false positive (FP): 673, false negative (FN): 4810, Precision: 94.701%, Recall: 71.434%, F1-measure: 81.438%
+Finished Predicting
+elapsed_time: 9180.766911268234
+model_path: data_noise/cnn_lstm_model/1_0.00010142020136635923_198
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:4
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/drain_noise_0/WITH_S_test_normal): 546722
+Number of sessions(data_noise/drain_noise_0/WITH_S_test_abnormal): 16838
+count=1000 TP=840
+count=2000 TP=1655
+count=3000 TP=2468
+count=4000 TP=3390
+count=5000 TP=4195
+count=6000 TP=4990
+count=7000 TP=5882
+count=8000 TP=6638
+count=9000 TP=7219
+count=10000 TP=7801
+count=11000 TP=8420
+count=12000 TP=9294
+count=13000 TP=10017
+count=14000 TP=10698
+count=15000 TP=11163
+count=16000 TP=11933
+count=10000 FP=34
+count=20000 FP=79
+count=30000 FP=130
+count=40000 FP=169
+count=50000 FP=211
+count=60000 FP=257
+count=70000 FP=305
+count=80000 FP=348
+count=90000 FP=395
+count=100000 FP=440
+count=110000 FP=486
+count=120000 FP=533
+count=130000 FP=574
+count=140000 FP=620
+count=150000 FP=662
+count=160000 FP=703
+count=170000 FP=756
+count=180000 FP=811
+count=190000 FP=854
+count=200000 FP=914
+count=210000 FP=973
+count=220000 FP=1021
+count=230000 FP=1076
+count=240000 FP=1124
+count=250000 FP=1178
+count=260000 FP=1217
+count=270000 FP=1250
+count=280000 FP=1309
+count=290000 FP=1348
+count=300000 FP=1402
+count=310000 FP=1440
+count=320000 FP=1477
+count=330000 FP=1531
+count=340000 FP=1579
+count=350000 FP=1635
+count=360000 FP=1682
+count=370000 FP=1735
+count=380000 FP=1775
+count=390000 FP=1827
+count=400000 FP=1862
+count=410000 FP=1905
+count=420000 FP=1954
+count=430000 FP=1995
+count=440000 FP=2033
+count=450000 FP=2086
+count=460000 FP=2130
+count=470000 FP=2163
+count=480000 FP=2217
+count=490000 FP=2274
+count=500000 FP=2313
+count=510000 FP=2354
+count=520000 FP=2407
+count=530000 FP=2463
+count=540000 FP=2510
+false positive (FP): 2542, false negative (FN): 4088, Precision: 83.377%, Recall: 75.722%, F1-measure: 79.365%
+Finished Predicting
+elapsed_time: 8874.107830047607
+model_path: data_noise/cnn_lstm_model_10/1_0.0001090760348399675_55
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:9
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/train_10/WITH_S_test_normal): 546722
+Number of sessions(data_noise/train_10/WITH_S_test_abnormal): 16838
+count=1000 TP=554
+count=2000 TP=1184
+count=3000 TP=1735
+count=4000 TP=2350
+count=5000 TP=2856
+count=6000 TP=3266
+count=7000 TP=3789
+count=8000 TP=4359
+count=9000 TP=4902
+count=10000 TP=5441
+count=11000 TP=6013
+count=12000 TP=6834
+count=13000 TP=7522
+count=14000 TP=8141
+count=15000 TP=8542
+count=16000 TP=9260
+count=10000 FP=7
+count=20000 FP=10
+count=30000 FP=14
+count=40000 FP=17
+count=50000 FP=25
+count=60000 FP=30
+count=70000 FP=34
+count=80000 FP=45
+count=90000 FP=49
+count=100000 FP=51
+count=110000 FP=55
+count=120000 FP=66
+count=130000 FP=72
+count=140000 FP=76
+count=150000 FP=82
+count=160000 FP=85
+count=170000 FP=90
+count=180000 FP=95
+count=190000 FP=99
+count=200000 FP=101
+count=210000 FP=104
+count=220000 FP=110
+count=230000 FP=116
+count=240000 FP=119
+count=250000 FP=127
+count=260000 FP=137
+count=270000 FP=138
+count=280000 FP=145
+count=290000 FP=146
+count=300000 FP=153
+count=310000 FP=160
+count=320000 FP=164
+count=330000 FP=172
+count=340000 FP=179
+count=350000 FP=186
+count=360000 FP=188
+count=370000 FP=191
+count=380000 FP=197
+count=390000 FP=201
+count=400000 FP=206
+count=410000 FP=211
+count=420000 FP=218
+count=430000 FP=222
+count=440000 FP=227
+count=450000 FP=232
+count=460000 FP=234
+count=470000 FP=239
+count=480000 FP=248
+count=490000 FP=256
+count=500000 FP=260
+count=510000 FP=264
+count=520000 FP=268
+count=530000 FP=276
+count=540000 FP=279
+false positive (FP): 282, false negative (FN): 6801, Precision: 97.267%, Recall: 59.609%, F1-measure: 73.918%
+Finished Predicting
+elapsed_time: 9070.50742816925
+model_path: data_noise/cnn_lstm_model_10/1_0.0001090760348399675_55
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:7
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/train_10/WITH_S_test_normal): 546722
+Number of sessions(data_noise/train_10/WITH_S_test_abnormal): 16838
+count=1000 TP=701
+count=2000 TP=1402
+count=3000 TP=2209
+count=4000 TP=3127
+count=5000 TP=3925
+count=6000 TP=4549
+count=7000 TP=5373
+count=8000 TP=6084
+count=9000 TP=6637
+count=10000 TP=7200
+count=11000 TP=7795
+count=12000 TP=8666
+count=13000 TP=9366
+count=14000 TP=10028
+count=15000 TP=10437
+count=16000 TP=11182
+count=10000 FP=10
+count=20000 FP=18
+count=30000 FP=28
+count=40000 FP=36
+count=50000 FP=54
+count=60000 FP=68
+count=70000 FP=78
+count=80000 FP=92
+count=90000 FP=100
+count=100000 FP=106
+count=110000 FP=115
+count=120000 FP=128
+count=130000 FP=137
+count=140000 FP=147
+count=150000 FP=156
+count=160000 FP=165
+count=170000 FP=175
+count=180000 FP=189
+count=190000 FP=205
+count=200000 FP=211
+count=210000 FP=227
+count=220000 FP=239
+count=230000 FP=250
+count=240000 FP=258
+count=250000 FP=271
+count=260000 FP=286
+count=270000 FP=292
+count=280000 FP=305
+count=290000 FP=312
+count=300000 FP=325
+count=310000 FP=335
+count=320000 FP=343
+count=330000 FP=358
+count=340000 FP=371
+count=350000 FP=382
+count=360000 FP=389
+count=370000 FP=401
+count=380000 FP=410
+count=390000 FP=421
+count=400000 FP=431
+count=410000 FP=441
+count=420000 FP=453
+count=430000 FP=461
+count=440000 FP=469
+count=450000 FP=482
+count=460000 FP=492
+count=470000 FP=499
+count=480000 FP=512
+count=490000 FP=527
+count=500000 FP=536
+count=510000 FP=542
+count=520000 FP=552
+count=530000 FP=568
+count=540000 FP=575
+false positive (FP): 579, false negative (FN): 4846, Precision: 95.394%, Recall: 71.220%, F1-measure: 81.553%
+Finished Predicting
+elapsed_time: 9072.777456998825
+model_path: data_noise/cnn_lstm_model_10/1_0.0001090760348399675_55
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:6
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/train_10/WITH_S_test_normal): 546722
+Number of sessions(data_noise/train_10/WITH_S_test_abnormal): 16838
+count=1000 TP=709
+count=2000 TP=1414
+count=3000 TP=2221
+count=4000 TP=3140
+count=5000 TP=3941
+count=6000 TP=4628
+count=7000 TP=5470
+count=8000 TP=6186
+count=9000 TP=6739
+count=10000 TP=7303
+count=11000 TP=7901
+count=12000 TP=8777
+count=13000 TP=9485
+count=14000 TP=10147
+count=15000 TP=10562
+count=16000 TP=11313
+count=10000 FP=13
+count=20000 FP=26
+count=30000 FP=45
+count=40000 FP=54
+count=50000 FP=76
+count=60000 FP=94
+count=70000 FP=108
+count=80000 FP=126
+count=90000 FP=139
+count=100000 FP=153
+count=110000 FP=169
+count=120000 FP=188
+count=130000 FP=203
+count=140000 FP=216
+count=150000 FP=230
+count=160000 FP=243
+count=170000 FP=259
+count=180000 FP=279
+count=190000 FP=300
+count=200000 FP=318
+count=210000 FP=343
+count=220000 FP=361
+count=230000 FP=383
+count=240000 FP=395
+count=250000 FP=416
+count=260000 FP=433
+count=270000 FP=446
+count=280000 FP=462
+count=290000 FP=474
+count=300000 FP=496
+count=310000 FP=510
+count=320000 FP=522
+count=330000 FP=544
+count=340000 FP=561
+count=350000 FP=576
+count=360000 FP=588
+count=370000 FP=608
+count=380000 FP=617
+count=390000 FP=635
+count=400000 FP=649
+count=410000 FP=664
+count=420000 FP=681
+count=430000 FP=694
+count=440000 FP=705
+count=450000 FP=722
+count=460000 FP=737
+count=470000 FP=747
+count=480000 FP=766
+count=490000 FP=783
+count=500000 FP=797
+count=510000 FP=807
+count=520000 FP=824
+count=530000 FP=843
+count=540000 FP=857
+false positive (FP): 863, false negative (FN): 4713, Precision: 93.355%, Recall: 72.010%, F1-measure: 81.305%
+Finished Predicting
+elapsed_time: 9189.031336307526
+model_path: data_noise/cnn_lstm_model_10/1_0.0001090760348399675_55
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:4
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/train_10/WITH_S_test_normal): 546722
+Number of sessions(data_noise/train_10/WITH_S_test_abnormal): 16838
+count=1000 TP=722
+count=2000 TP=1434
+count=3000 TP=2241
+count=4000 TP=3161
+count=5000 TP=3964
+count=6000 TP=4771
+count=7000 TP=5617
+count=8000 TP=6337
+count=9000 TP=6894
+count=10000 TP=7459
+count=11000 TP=8064
+count=12000 TP=8943
+count=13000 TP=9652
+count=14000 TP=10315
+count=15000 TP=10733
+count=16000 TP=11487
+count=10000 FP=35
+count=20000 FP=82
+count=30000 FP=131
+count=40000 FP=168
+count=50000 FP=210
+count=60000 FP=254
+count=70000 FP=297
+count=80000 FP=338
+count=90000 FP=382
+count=100000 FP=429
+count=110000 FP=471
+count=120000 FP=519
+count=130000 FP=557
+count=140000 FP=601
+count=150000 FP=640
+count=160000 FP=674
+count=170000 FP=719
+count=180000 FP=772
+count=190000 FP=816
+count=200000 FP=871
+count=210000 FP=927
+count=220000 FP=975
+count=230000 FP=1031
+count=240000 FP=1075
+count=250000 FP=1127
+count=260000 FP=1166
+count=270000 FP=1203
+count=280000 FP=1253
+count=290000 FP=1298
+count=300000 FP=1349
+count=310000 FP=1388
+count=320000 FP=1426
+count=330000 FP=1482
+count=340000 FP=1529
+count=350000 FP=1583
+count=360000 FP=1629
+count=370000 FP=1681
+count=380000 FP=1720
+count=390000 FP=1772
+count=400000 FP=1809
+count=410000 FP=1856
+count=420000 FP=1904
+count=430000 FP=1943
+count=440000 FP=1981
+count=450000 FP=2035
+count=460000 FP=2081
+count=470000 FP=2112
+count=480000 FP=2169
+count=490000 FP=2225
+count=500000 FP=2265
+count=510000 FP=2303
+count=520000 FP=2355
+count=530000 FP=2410
+count=540000 FP=2450
+false positive (FP): 2482, false negative (FN): 4534, Precision: 83.214%, Recall: 73.073%, F1-measure: 77.814%
+Finished Predicting
+elapsed_time: 8975.528797864914
+model_path: data_noise/cnn_lstm_model_10/1_0.00010779857937567032_157
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:7
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/train_10/WITH_S_test_normal): 546722
+Number of sessions(data_noise/train_10/WITH_S_test_abnormal): 16838
+count=1000 TP=688
+count=2000 TP=1370
+count=3000 TP=2177
+count=4000 TP=3095
+count=5000 TP=3894
+count=6000 TP=4433
+count=7000 TP=5260
+count=8000 TP=5969
+count=9000 TP=6516
+count=10000 TP=7068
+count=11000 TP=7652
+count=12000 TP=8405
+count=13000 TP=8960
+count=14000 TP=9602
+count=15000 TP=9922
+count=16000 TP=10621
+count=10000 FP=8
+count=20000 FP=12
+count=30000 FP=22
+count=40000 FP=27
+count=50000 FP=43
+count=60000 FP=59
+count=70000 FP=64
+count=80000 FP=71
+count=90000 FP=76
+count=100000 FP=83
+count=110000 FP=90
+count=120000 FP=106
+count=130000 FP=114
+count=140000 FP=120
+count=150000 FP=131
+count=160000 FP=142
+count=170000 FP=148
+count=180000 FP=154
+count=190000 FP=169
+count=200000 FP=177
+count=210000 FP=189
+count=220000 FP=199
+count=230000 FP=211
+count=240000 FP=221
+count=250000 FP=231
+count=260000 FP=237
+count=270000 FP=243
+count=280000 FP=255
+count=290000 FP=260
+count=300000 FP=271
+count=310000 FP=278
+count=320000 FP=285
+count=330000 FP=294
+count=340000 FP=306
+count=350000 FP=313
+count=360000 FP=322
+count=370000 FP=332
+count=380000 FP=340
+count=390000 FP=351
+count=400000 FP=356
+count=410000 FP=363
+count=420000 FP=370
+count=430000 FP=375
+count=440000 FP=381
+model_path: data_match_logkey/cnn_lstm_model_10/1_0.00010542339069050027_66
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:6
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/train_10/WITH_S_test_normal): 546722
+Number of sessions(data_noise/train_10/WITH_S_test_abnormal): 16838
+count=1000 TP=894
+count=2000 TP=1711
+count=3000 TP=2710
+count=4000 TP=3710
+count=5000 TP=4709
+count=6000 TP=5669
+count=7000 TP=6567
+count=8000 TP=7337
+count=9000 TP=7980
+count=10000 TP=8614
+count=11000 TP=9289
+count=12000 TP=10193
+count=13000 TP=10974
+count=14000 TP=11704
+count=15000 TP=12239
+count=16000 TP=13056
+count=10000 FP=3736
+count=20000 FP=7458
+count=30000 FP=11189
+count=40000 FP=15036
+count=50000 FP=18852
+count=60000 FP=22624
+count=70000 FP=26367
+count=80000 FP=30102
+count=90000 FP=33864
+count=100000 FP=37576
+count=110000 FP=41305
+count=120000 FP=45071
+count=130000 FP=48867
+count=140000 FP=52589
+count=150000 FP=56334
+count=160000 FP=59961
+count=170000 FP=63651
+count=180000 FP=67401
+count=190000 FP=71145
+count=200000 FP=74933
+count=210000 FP=78643
+count=220000 FP=82321
+count=230000 FP=86067
+count=240000 FP=89788
+count=250000 FP=93483
+count=260000 FP=97206
+count=270000 FP=100903
+count=280000 FP=104732
+count=290000 FP=108532
+count=300000 FP=112218
+count=310000 FP=115992
+count=320000 FP=119732
+count=330000 FP=123406
+count=340000 FP=127130
+count=350000 FP=130824
+count=360000 FP=134510
+count=370000 FP=138269
+count=380000 FP=141998
+count=390000 FP=145764
+count=400000 FP=149483
+count=410000 FP=153236
+count=420000 FP=156939
+count=430000 FP=160611
+count=440000 FP=164368
+count=450000 FP=168087
+count=460000 FP=171809
+count=470000 FP=175492
+count=480000 FP=179137
+count=490000 FP=182883
+count=500000 FP=186619
+count=510000 FP=190280
+count=520000 FP=194043
+count=530000 FP=197753
+count=540000 FP=201470
+false positive (FP): 203974, false negative (FN): 2962, Precision: 6.370%, Recall: 82.409%, F1-measure: 11.825%
+Finished Predicting
+elapsed_time: 15557.20716381073
+model_path: data_match_logkey/cnn_lstm_model_10/1_0.00010196785014558255_282
+window_size:10
+num_classes:29
+vocab_size:30
+num_candidates:6
+embedding_dim:400
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/train_10/WITH_S_test_normal): 546722
+Number of sessions(data_noise/train_10/WITH_S_test_abnormal): 16838
+count=1000 TP=889
+count=2000 TP=1707
+count=3000 TP=2706
+count=4000 TP=3706
+count=5000 TP=4703
+count=6000 TP=5590
+count=7000 TP=6481
+count=8000 TP=7239
+count=9000 TP=7846
+count=10000 TP=8449
+count=11000 TP=9098
+count=12000 TP=9997
+count=13000 TP=10755
+count=14000 TP=11465
+count=15000 TP=11968
+count=16000 TP=12765
+count=10000 FP=3009
+count=20000 FP=6049
+count=30000 FP=9045
+count=40000 FP=12151
+count=50000 FP=15224
+count=60000 FP=18319
+count=70000 FP=21355
+count=80000 FP=24381
+count=90000 FP=27382
+count=100000 FP=30417
+count=110000 FP=33438
+count=120000 FP=36458
+count=130000 FP=39501
+count=140000 FP=42487
+count=150000 FP=45547
+count=160000 FP=48463
+count=170000 FP=51432
+count=180000 FP=54482
+count=190000 FP=57529
+count=200000 FP=60610
+count=210000 FP=63638
+count=220000 FP=66591
+count=230000 FP=69623
+count=240000 FP=72629
+count=250000 FP=75573
+count=260000 FP=78588
+count=270000 FP=81581
+count=280000 FP=84659
+count=290000 FP=87753
+count=300000 FP=90747
+count=310000 FP=93816
+count=320000 FP=96849
+count=330000 FP=99825
+count=340000 FP=102869
+count=350000 FP=105880
+count=360000 FP=108827
+count=370000 FP=111931
+count=380000 FP=114948
+count=390000 FP=118002
+
+

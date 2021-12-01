@@ -1,0 +1,19 @@
+DeepLog-master/log
+DeepLog-master/model
+logparser/logs
+logparser/demo/*/*
+logparser/benchmark/*/*
+logram/GroundTruth
+logram/TestLogs
+logram/*/Output
+PLELog/data
+PLELog/dataset
+swisslog/log_parser/logs
+swisslog/log_parser/offline_logparser/LogParserResult
+logram/GroundTruth copy
+.idea/
+hdfs_spark/
+logdeep/logdeep-master/data
+logdeep/logdeep-master/result
+loglizer-master/*/*.npy
+loglizer-master/*/*.csv

@@ -1,0 +1,88 @@
+
+=== Evaluation on BGL10k ===
+Parsing file: ../logs/BGL/BGL_10k.log
+Parsing done. [Time taken: 0:00:00.967181]
+time_use = 0:00:00.967254
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9960
+
+=== Evaluation on Spark100k ===
+Parsing file: ../logs/Spark/Spark_100k_match.log
+Parsing done. [Time taken: 0:00:58.587777]
+time_use = 0:00:58.590017
+Precision: 1.0000, Recall: 0.9881, F1_measure: 0.9940, Parsing_Accuracy: 0.9600
+
+=== Evaluation on Spark1k ===
+Parsing file: ../logs/Spark/Spark_1k_match.log
+Parsing done. [Time taken: 0:00:00.142666]
+time_use = 0:00:00.194922
+Precision: 1.0000, Recall: 0.9846, F1_measure: 0.9922, Parsing_Accuracy: 0.9597
+
+=== Evaluation on HDFS100k ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+Parsing done. [Time taken: 0:00:11.150857]
+time_use = 0:00:11.151513
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9988
+
+=== Evaluation on Spark1m ===
+Parsing file: ../logs/Spark/Spark_1m_match.log
+Parsing done. [Time taken: 1:23:56.271072]
+time_use = 1:23:56.292806
+Precision: 1.0000, Recall: 0.9915, F1_measure: 0.9958, Parsing_Accuracy: 0.9675
+
+=== Evaluation on HDFS10k ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Parsing done. [Time taken: 0:00:01.098740]
+time_use = 0:00:01.633059
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9992
+
+=== Evaluation on Spark10k ===
+Parsing file: ../logs/Spark/Spark_10k_match.log
+Parsing done. [Time taken: 0:00:01.641135]
+time_use = 0:00:01.643259
+Precision: 1.0000, Recall: 0.9943, F1_measure: 0.9971, Parsing_Accuracy: 0.9720
+
+=== Evaluation on HDFS1m ===
+Parsing file: ../logs/HDFS/HDFS_1m.log
+Parsing done. [Time taken: 0:02:07.814883]
+time_use = 0:02:07.818698
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.8047
+
+=== Evaluation on HDFS1k ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Parsing done. [Time taken: 0:00:00.188727]
+time_use = 0:00:00.490093
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9920
+
+=== Evaluation on BGL100k ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Parsing done. [Time taken: 0:00:08.864201]
+time_use = 0:00:08.865135
+Precision: 1.0000, Recall: 0.9999, F1_measure: 1.0000, Parsing_Accuracy: 0.9863
+
+=== Evaluation on BGL1k ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Parsing done. [Time taken: 0:00:00.067727]
+time_use = 0:00:00.092135
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Evaluation on BGL1m ===
+Parsing file: ../logs/BGL/BGL_1m.log
+Parsing done. [Time taken: 0:02:00.498329]
+time_use = 0:02:00.498497
+Precision: 0.9897, Recall: 0.9954, F1_measure: 0.9925, Parsing_Accuracy: 0.8822
+
+=== Overall evaluation results ===
+           F1_measure  Accuracy  time
+Dataset                              
+BGL10k       0.999994  0.996000     0
+Spark100k    0.994025  0.959997    58
+Spark1k      0.992233  0.959718     0
+HDFS100k     1.000000  0.998840    11
+Spark1m      0.995753  0.967486  5036
+HDFS10k      1.000000  0.999200     1
+Spark10k     0.997118  0.971980     1
+HDFS1m       0.999999  0.804737   127
+HDFS1k       0.999982  0.992000     0
+BGL100k      0.999952  0.986350     8
+BGL1k        1.000000  1.000000     0
+BGL1m        0.992525  0.882159   120

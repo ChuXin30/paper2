@@ -1,0 +1,4049 @@
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau06/train_normal): 5750
+Number of seqs(../logparser/demo/paper3_Drain_2_result_tau06/train_normal): 55274
+Epoch [1/150], Train_loss: 0.001481
+Epoch [2/150], Train_loss: 0.000874
+Epoch [3/150], Train_loss: 0.000775
+Epoch [4/150], Train_loss: 0.000683
+Epoch [5/150], Train_loss: 0.000595
+Epoch [6/150], Train_loss: 0.000531
+Epoch [7/150], Train_loss: 0.000492
+Epoch [8/150], Train_loss: 0.000454
+Epoch [9/150], Train_loss: 0.000430
+Epoch [10/150], Train_loss: 0.000410
+Epoch [11/150], Train_loss: 0.000395
+Epoch [12/150], Train_loss: 0.000383
+Epoch [13/150], Train_loss: 0.000374
+Epoch [14/150], Train_loss: 0.000367
+Epoch [15/150], Train_loss: 0.000362
+Epoch [16/150], Train_loss: 0.000356
+Epoch [17/150], Train_loss: 0.000352
+Epoch [18/150], Train_loss: 0.000348
+Epoch [19/150], Train_loss: 0.000345
+Epoch [20/150], Train_loss: 0.000341
+Epoch [21/150], Train_loss: 0.000339
+Epoch [22/150], Train_loss: 0.000377
+Epoch [23/150], Train_loss: 0.000337
+Epoch [24/150], Train_loss: 0.000332
+Epoch [25/150], Train_loss: 0.000329
+Epoch [26/150], Train_loss: 0.000327
+Epoch [27/150], Train_loss: 0.000325
+Epoch [28/150], Train_loss: 0.000322
+Epoch [29/150], Train_loss: 0.000319
+Epoch [30/150], Train_loss: 0.000316
+Epoch [31/150], Train_loss: 0.000313
+Epoch [32/150], Train_loss: 0.000310
+Epoch [33/150], Train_loss: 0.000305
+Epoch [34/150], Train_loss: 0.000300
+Epoch [35/150], Train_loss: 0.000291
+Epoch [36/150], Train_loss: 0.000278
+Epoch [37/150], Train_loss: 0.000265
+Epoch [38/150], Train_loss: 0.000256
+Epoch [39/150], Train_loss: 0.000247
+Epoch [40/150], Train_loss: 0.000239
+Epoch [41/150], Train_loss: 0.000232
+Epoch [42/150], Train_loss: 0.000225
+Epoch [43/150], Train_loss: 0.000221
+Epoch [44/150], Train_loss: 0.000218
+Epoch [45/150], Train_loss: 0.000213
+Epoch [46/150], Train_loss: 0.000211
+Epoch [47/150], Train_loss: 0.000209
+Epoch [48/150], Train_loss: 0.000204
+Epoch [49/150], Train_loss: 0.000201
+Epoch [50/150], Train_loss: 0.000198
+Epoch [51/150], Train_loss: 0.000196
+Epoch [52/150], Train_loss: 0.000194
+Epoch [53/150], Train_loss: 0.000192
+Epoch [54/150], Train_loss: 0.000190
+Epoch [55/150], Train_loss: 0.000189
+Epoch [56/150], Train_loss: 0.000188
+Epoch [57/150], Train_loss: 0.000186
+Epoch [58/150], Train_loss: 0.000184
+Epoch [59/150], Train_loss: 0.000183
+Epoch [60/150], Train_loss: 0.000182
+Epoch [61/150], Train_loss: 0.000180
+Epoch [62/150], Train_loss: 0.000179
+Epoch [63/150], Train_loss: 0.000178
+Epoch [64/150], Train_loss: 0.000177
+Epoch [65/150], Train_loss: 0.000175
+Epoch [66/150], Train_loss: 0.000175
+Epoch [67/150], Train_loss: 0.000174
+Epoch [68/150], Train_loss: 0.000172
+Epoch [69/150], Train_loss: 0.000170
+Epoch [70/150], Train_loss: 0.000170
+Epoch [71/150], Train_loss: 0.000169
+Epoch [72/150], Train_loss: 0.000167
+Epoch [73/150], Train_loss: 0.000166
+Epoch [74/150], Train_loss: 0.000165
+Epoch [75/150], Train_loss: 0.000163
+Epoch [76/150], Train_loss: 0.000163
+Epoch [77/150], Train_loss: 0.000162
+Epoch [78/150], Train_loss: 0.000160
+Epoch [79/150], Train_loss: 0.000158
+Epoch [80/150], Train_loss: 0.000157
+Epoch [81/150], Train_loss: 0.000155
+Epoch [82/150], Train_loss: 0.000155
+Epoch [83/150], Train_loss: 0.000153
+Epoch [84/150], Train_loss: 0.000151
+Epoch [85/150], Train_loss: 0.000150
+Epoch [86/150], Train_loss: 0.000148
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau06/train_normal): 5750
+Number of seqs(../logparser/demo/paper3_Drain_2_result_tau06/train_normal): 55274
+Epoch [1/199], Train_loss: 0.001513
+Epoch [2/199], Train_loss: 0.000844
+Epoch [3/199], Train_loss: 0.000699
+Epoch [4/199], Train_loss: 0.000604
+Epoch [5/199], Train_loss: 0.000552
+Epoch [6/199], Train_loss: 0.000515
+Epoch [7/199], Train_loss: 0.000482
+Epoch [8/199], Train_loss: 0.000451
+Epoch [9/199], Train_loss: 0.000430
+Epoch [10/199], Train_loss: 0.000413
+Epoch [11/199], Train_loss: 0.000399
+Epoch [12/199], Train_loss: 0.000387
+Epoch [13/199], Train_loss: 0.000398
+Epoch [14/199], Train_loss: 0.000372
+Epoch [15/199], Train_loss: 0.000363
+Epoch [16/199], Train_loss: 0.000356
+Epoch [17/199], Train_loss: 0.000348
+Epoch [18/199], Train_loss: 0.000338
+Epoch [19/199], Train_loss: 0.000326
+Epoch [20/199], Train_loss: 0.000317
+Epoch [21/199], Train_loss: 0.000305
+Epoch [22/199], Train_loss: 0.000295
+Epoch [23/199], Train_loss: 0.000286
+Epoch [24/199], Train_loss: 0.000277
+Epoch [25/199], Train_loss: 0.000270
+Epoch [26/199], Train_loss: 0.000264
+Epoch [27/199], Train_loss: 0.000257
+Epoch [28/199], Train_loss: 0.000251
+Epoch [29/199], Train_loss: 0.000245
+Epoch [30/199], Train_loss: 0.000240
+Epoch [31/199], Train_loss: 0.000239
+Epoch [32/199], Train_loss: 0.000234
+Epoch [33/199], Train_loss: 0.000229
+Epoch [34/199], Train_loss: 0.000227
+Epoch [35/199], Train_loss: 0.000222
+Epoch [36/199], Train_loss: 0.000219
+Epoch [37/199], Train_loss: 0.000215
+Epoch [38/199], Train_loss: 0.000212
+Epoch [39/199], Train_loss: 0.000209
+Epoch [40/199], Train_loss: 0.000207
+Epoch [41/199], Train_loss: 0.000204
+Epoch [42/199], Train_loss: 0.000202
+Epoch [43/199], Train_loss: 0.000200
+Epoch [44/199], Train_loss: 0.000198
+Epoch [45/199], Train_loss: 0.000196
+Epoch [46/199], Train_loss: 0.000194
+Epoch [47/199], Train_loss: 0.000192
+Epoch [48/199], Train_loss: 0.000190
+Epoch [49/199], Train_loss: 0.000189
+Epoch [50/199], Train_loss: 0.000186
+Epoch [51/199], Train_loss: 0.000184
+Epoch [52/199], Train_loss: 0.000183
+Epoch [53/199], Train_loss: 0.000181
+Epoch [54/199], Train_loss: 0.000179
+Epoch [55/199], Train_loss: 0.000177
+Epoch [56/199], Train_loss: 0.000176
+Epoch [57/199], Train_loss: 0.000174
+Epoch [58/199], Train_loss: 0.000172
+Epoch [59/199], Train_loss: 0.000170
+Epoch [60/199], Train_loss: 0.000168
+Epoch [61/199], Train_loss: 0.000166
+Epoch [62/199], Train_loss: 0.000164
+Epoch [63/199], Train_loss: 0.000163
+Epoch [64/199], Train_loss: 0.000161
+Epoch [65/199], Train_loss: 0.000160
+Epoch [66/199], Train_loss: 0.000158
+Epoch [67/199], Train_loss: 0.000155
+Epoch [68/199], Train_loss: 0.000153
+Epoch [69/199], Train_loss: 0.000151
+Epoch [70/199], Train_loss: 0.000149
+Epoch [71/199], Train_loss: 0.000148
+Epoch [72/199], Train_loss: 0.000146
+Epoch [73/199], Train_loss: 0.000144
+Epoch [74/199], Train_loss: 0.000143
+Epoch [75/199], Train_loss: 0.000142
+Epoch [76/199], Train_loss: 0.000141
+Epoch [77/199], Train_loss: 0.000139
+Epoch [78/199], Train_loss: 0.000141
+Epoch [79/199], Train_loss: 0.000138
+Epoch [80/199], Train_loss: 0.000137
+Epoch [81/199], Train_loss: 0.000135
+Epoch [82/199], Train_loss: 0.000135
+Epoch [83/199], Train_loss: 0.000134
+Epoch [84/199], Train_loss: 0.000133
+Epoch [85/199], Train_loss: 0.000131
+Epoch [86/199], Train_loss: 0.000131
+Epoch [87/199], Train_loss: 0.000131
+Epoch [88/199], Train_loss: 0.000130
+Epoch [89/199], Train_loss: 0.000128
+Epoch [90/199], Train_loss: 0.000128
+Epoch [91/199], Train_loss: 0.000128
+Epoch [92/199], Train_loss: 0.000127
+Epoch [93/199], Train_loss: 0.000128
+Epoch [94/199], Train_loss: 0.000126
+Epoch [95/199], Train_loss: 0.000125
+Epoch [96/199], Train_loss: 0.000125
+Epoch [97/199], Train_loss: 0.000124
+Epoch [98/199], Train_loss: 0.000125
+Epoch [99/199], Train_loss: 0.000125
+Epoch [100/199], Train_loss: 0.000124
+Epoch [101/199], Train_loss: 0.000123
+Epoch [102/199], Train_loss: 0.000123
+Epoch [103/199], Train_loss: 0.000122
+Epoch [104/199], Train_loss: 0.000122
+Epoch [105/199], Train_loss: 0.000123
+Epoch [106/199], Train_loss: 0.000122
+Epoch [107/199], Train_loss: 0.000121
+Epoch [108/199], Train_loss: 0.000120
+Epoch [109/199], Train_loss: 0.000120
+Epoch [110/199], Train_loss: 0.000120
+Epoch [111/199], Train_loss: 0.000122
+Epoch [112/199], Train_loss: 0.000121
+Epoch [113/199], Train_loss: 0.000119
+Epoch [114/199], Train_loss: 0.000120
+Epoch [115/199], Train_loss: 0.000120
+Epoch [116/199], Train_loss: 0.000118
+Epoch [117/199], Train_loss: 0.000118
+Epoch [118/199], Train_loss: 0.000118
+Epoch [119/199], Train_loss: 0.000118
+Epoch [120/199], Train_loss: 0.000119
+Epoch [121/199], Train_loss: 0.000118
+Epoch [122/199], Train_loss: 0.000117
+Epoch [123/199], Train_loss: 0.000117
+Epoch [124/199], Train_loss: 0.000117
+Epoch [125/199], Train_loss: 0.000116
+Epoch [126/199], Train_loss: 0.000116
+Epoch [127/199], Train_loss: 0.000116
+Epoch [128/199], Train_loss: 0.000116
+Epoch [129/199], Train_loss: 0.000116
+Epoch [130/199], Train_loss: 0.000115
+Epoch [131/199], Train_loss: 0.000115
+Epoch [132/199], Train_loss: 0.000115
+Epoch [133/199], Train_loss: 0.000115
+Epoch [134/199], Train_loss: 0.000115
+Epoch [135/199], Train_loss: 0.000114
+Epoch [136/199], Train_loss: 0.000114
+Epoch [137/199], Train_loss: 0.000114
+Epoch [138/199], Train_loss: 0.000114
+Epoch [139/199], Train_loss: 0.000113
+Epoch [140/199], Train_loss: 0.000113
+Epoch [141/199], Train_loss: 0.000114
+Epoch [142/199], Train_loss: 0.000113
+Epoch [143/199], Train_loss: 0.000124
+Epoch [144/199], Train_loss: 0.000131
+Epoch [145/199], Train_loss: 0.000286
+Epoch [146/199], Train_loss: 0.000154
+Epoch [147/199], Train_loss: 0.000132
+Epoch [148/199], Train_loss: 0.000125
+Epoch [149/199], Train_loss: 0.000120
+Epoch [150/199], Train_loss: 0.000118
+Epoch [151/199], Train_loss: 0.000116
+Epoch [152/199], Train_loss: 0.000115
+Epoch [153/199], Train_loss: 0.000115
+Epoch [154/199], Train_loss: 0.000115
+Epoch [155/199], Train_loss: 0.000115
+Epoch [156/199], Train_loss: 0.000113
+Epoch [157/199], Train_loss: 0.000113
+Epoch [158/199], Train_loss: 0.000113
+Epoch [159/199], Train_loss: 0.000112
+Epoch [160/199], Train_loss: 0.000112
+Epoch [161/199], Train_loss: 0.000112
+Epoch [162/199], Train_loss: 0.000112
+Epoch [163/199], Train_loss: 0.000112
+Epoch [164/199], Train_loss: 0.000111
+Epoch [165/199], Train_loss: 0.000112
+Epoch [166/199], Train_loss: 0.000111
+Epoch [167/199], Train_loss: 0.000112
+Epoch [168/199], Train_loss: 0.000111
+Epoch [169/199], Train_loss: 0.000111
+Epoch [170/199], Train_loss: 0.000111
+Epoch [171/199], Train_loss: 0.000111
+Epoch [172/199], Train_loss: 0.000111
+Epoch [173/199], Train_loss: 0.000111
+Epoch [174/199], Train_loss: 0.000111
+Epoch [175/199], Train_loss: 0.000109
+Epoch [176/199], Train_loss: 0.000110
+Epoch [177/199], Train_loss: 0.000110
+Epoch [178/199], Train_loss: 0.000109
+Epoch [179/199], Train_loss: 0.000109
+Epoch [180/199], Train_loss: 0.000109
+Epoch [181/199], Train_loss: 0.000109
+Epoch [182/199], Train_loss: 0.000109
+Epoch [183/199], Train_loss: 0.000109
+Epoch [184/199], Train_loss: 0.000109
+Epoch [185/199], Train_loss: 0.000108
+Epoch [186/199], Train_loss: 0.000108
+Epoch [187/199], Train_loss: 0.000108
+Epoch [188/199], Train_loss: 0.000108
+Epoch [189/199], Train_loss: 0.000108
+Epoch [190/199], Train_loss: 0.000108
+Epoch [191/199], Train_loss: 0.000108
+Epoch [192/199], Train_loss: 0.000108
+Epoch [193/199], Train_loss: 0.000108
+Epoch [194/199], Train_loss: 0.000107
+Epoch [195/199], Train_loss: 0.000107
+Epoch [196/199], Train_loss: 0.000107
+Epoch [197/199], Train_loss: 0.000107
+Epoch [198/199], Train_loss: 0.000107
+Epoch [199/199], Train_loss: 0.000107
+Finished Training
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau07/train_normal): 5750
+Number of seqs(../logparser/demo/paper3_Drain_2_result_tau07/train_normal): 55274
+Epoch [1/199], Train_loss: 0.001512
+Epoch [2/199], Train_loss: 0.000889
+Epoch [3/199], Train_loss: 0.000755
+Epoch [4/199], Train_loss: 0.000645
+Epoch [5/199], Train_loss: 0.000570
+Epoch [6/199], Train_loss: 0.000515
+Epoch [7/199], Train_loss: 0.000479
+Epoch [8/199], Train_loss: 0.000436
+Epoch [9/199], Train_loss: 0.000412
+Epoch [10/199], Train_loss: 0.000398
+Epoch [11/199], Train_loss: 0.000388
+Epoch [12/199], Train_loss: 0.000380
+Epoch [13/199], Train_loss: 0.000371
+Epoch [14/199], Train_loss: 0.000364
+Epoch [15/199], Train_loss: 0.000357
+Epoch [16/199], Train_loss: 0.000351
+Epoch [17/199], Train_loss: 0.000345
+Epoch [18/199], Train_loss: 0.000340
+Epoch [19/199], Train_loss: 0.000336
+Epoch [20/199], Train_loss: 0.000332
+Epoch [21/199], Train_loss: 0.000327
+Epoch [22/199], Train_loss: 0.000325
+Epoch [23/199], Train_loss: 0.000320
+Epoch [24/199], Train_loss: 0.000316
+Epoch [25/199], Train_loss: 0.000312
+Epoch [26/199], Train_loss: 0.000308
+Epoch [27/199], Train_loss: 0.000298
+Epoch [28/199], Train_loss: 0.000291
+Epoch [29/199], Train_loss: 0.000277
+Epoch [30/199], Train_loss: 0.000267
+Epoch [31/199], Train_loss: 0.000259
+Epoch [32/199], Train_loss: 0.000249
+Epoch [33/199], Train_loss: 0.000240
+Epoch [34/199], Train_loss: 0.000236
+Epoch [35/199], Train_loss: 0.000232
+Epoch [36/199], Train_loss: 0.000226
+Epoch [37/199], Train_loss: 0.000225
+Epoch [38/199], Train_loss: 0.000222
+Epoch [39/199], Train_loss: 0.000218
+Epoch [40/199], Train_loss: 0.000216
+Epoch [41/199], Train_loss: 0.000212
+Epoch [42/199], Train_loss: 0.000209
+Epoch [43/199], Train_loss: 0.000206
+Epoch [44/199], Train_loss: 0.000204
+Epoch [45/199], Train_loss: 0.000200
+Epoch [46/199], Train_loss: 0.000199
+Epoch [47/199], Train_loss: 0.000195
+Epoch [48/199], Train_loss: 0.000191
+Epoch [49/199], Train_loss: 0.000190
+Epoch [50/199], Train_loss: 0.000186
+Epoch [51/199], Train_loss: 0.000184
+Epoch [52/199], Train_loss: 0.000181
+Epoch [53/199], Train_loss: 0.000178
+Epoch [54/199], Train_loss: 0.000175
+Epoch [55/199], Train_loss: 0.000173
+Epoch [56/199], Train_loss: 0.000170
+Epoch [57/199], Train_loss: 0.000168
+Epoch [58/199], Train_loss: 0.000166
+Epoch [59/199], Train_loss: 0.000165
+Epoch [60/199], Train_loss: 0.000162
+Epoch [61/199], Train_loss: 0.000161
+Epoch [62/199], Train_loss: 0.000159
+Epoch [63/199], Train_loss: 0.000158
+Epoch [64/199], Train_loss: 0.000157
+Epoch [65/199], Train_loss: 0.000156
+Epoch [66/199], Train_loss: 0.000154
+Epoch [67/199], Train_loss: 0.000152
+Epoch [68/199], Train_loss: 0.000151
+Epoch [69/199], Train_loss: 0.000150
+Epoch [70/199], Train_loss: 0.000149
+Epoch [71/199], Train_loss: 0.000146
+Epoch [72/199], Train_loss: 0.000146
+Epoch [73/199], Train_loss: 0.000144
+Epoch [74/199], Train_loss: 0.000145
+Epoch [75/199], Train_loss: 0.000142
+Epoch [76/199], Train_loss: 0.000141
+Epoch [77/199], Train_loss: 0.000141
+Epoch [78/199], Train_loss: 0.000141
+Epoch [79/199], Train_loss: 0.000139
+Epoch [80/199], Train_loss: 0.000138
+Epoch [81/199], Train_loss: 0.000137
+Epoch [82/199], Train_loss: 0.000136
+Epoch [83/199], Train_loss: 0.000135
+Epoch [84/199], Train_loss: 0.000134
+Epoch [85/199], Train_loss: 0.000134
+Epoch [86/199], Train_loss: 0.000133
+Epoch [87/199], Train_loss: 0.000132
+Epoch [88/199], Train_loss: 0.000133
+Epoch [89/199], Train_loss: 0.000131
+Epoch [90/199], Train_loss: 0.000131
+Epoch [91/199], Train_loss: 0.000129
+Epoch [92/199], Train_loss: 0.000129
+Epoch [93/199], Train_loss: 0.000128
+Epoch [94/199], Train_loss: 0.000128
+Epoch [95/199], Train_loss: 0.000128
+Epoch [96/199], Train_loss: 0.000127
+Epoch [97/199], Train_loss: 0.000126
+Epoch [98/199], Train_loss: 0.000126
+Epoch [99/199], Train_loss: 0.000126
+Epoch [100/199], Train_loss: 0.000126
+Epoch [101/199], Train_loss: 0.000127
+Epoch [102/199], Train_loss: 0.000125
+Epoch [103/199], Train_loss: 0.000125
+Epoch [104/199], Train_loss: 0.000124
+Epoch [105/199], Train_loss: 0.000123
+Epoch [106/199], Train_loss: 0.000123
+Epoch [107/199], Train_loss: 0.000123
+Epoch [108/199], Train_loss: 0.000122
+Epoch [109/199], Train_loss: 0.000121
+Epoch [110/199], Train_loss: 0.000122
+Epoch [111/199], Train_loss: 0.000122
+Epoch [112/199], Train_loss: 0.000122
+Epoch [113/199], Train_loss: 0.000122
+Epoch [114/199], Train_loss: 0.000122
+Epoch [115/199], Train_loss: 0.000120
+Epoch [116/199], Train_loss: 0.000120
+Epoch [117/199], Train_loss: 0.000120
+Epoch [118/199], Train_loss: 0.000120
+Epoch [119/199], Train_loss: 0.000120
+Epoch [120/199], Train_loss: 0.000119
+Epoch [121/199], Train_loss: 0.000119
+Epoch [122/199], Train_loss: 0.000118
+Epoch [123/199], Train_loss: 0.000118
+Epoch [124/199], Train_loss: 0.000118
+Epoch [125/199], Train_loss: 0.000117
+Epoch [126/199], Train_loss: 0.000118
+Epoch [127/199], Train_loss: 0.000118
+Epoch [128/199], Train_loss: 0.000117
+Epoch [129/199], Train_loss: 0.000117
+Epoch [130/199], Train_loss: 0.000117
+Epoch [131/199], Train_loss: 0.000117
+Epoch [132/199], Train_loss: 0.000116
+Epoch [133/199], Train_loss: 0.000116
+Epoch [134/199], Train_loss: 0.000120
+Epoch [135/199], Train_loss: 0.000116
+Epoch [136/199], Train_loss: 0.000116
+Epoch [137/199], Train_loss: 0.000115
+Epoch [138/199], Train_loss: 0.000115
+Epoch [139/199], Train_loss: 0.000115
+Epoch [140/199], Train_loss: 0.000115
+Epoch [141/199], Train_loss: 0.000114
+Epoch [142/199], Train_loss: 0.000114
+Epoch [143/199], Train_loss: 0.000114
+Epoch [144/199], Train_loss: 0.000114
+Epoch [145/199], Train_loss: 0.000114
+Epoch [146/199], Train_loss: 0.000114
+Epoch [147/199], Train_loss: 0.000113
+Epoch [148/199], Train_loss: 0.000113
+Epoch [149/199], Train_loss: 0.000112
+Epoch [150/199], Train_loss: 0.000121
+Epoch [151/199], Train_loss: 0.000179
+Epoch [152/199], Train_loss: 0.000134
+Epoch [153/199], Train_loss: 0.000118
+Epoch [154/199], Train_loss: 0.000116
+Epoch [155/199], Train_loss: 0.000114
+Epoch [156/199], Train_loss: 0.000114
+Epoch [157/199], Train_loss: 0.000113
+Epoch [158/199], Train_loss: 0.000113
+Epoch [159/199], Train_loss: 0.000113
+Epoch [160/199], Train_loss: 0.000112
+Epoch [161/199], Train_loss: 0.000114
+Epoch [162/199], Train_loss: 0.000113
+Epoch [163/199], Train_loss: 0.000112
+Epoch [164/199], Train_loss: 0.000112
+Epoch [165/199], Train_loss: 0.000112
+Epoch [166/199], Train_loss: 0.000112
+Epoch [167/199], Train_loss: 0.000112
+Epoch [168/199], Train_loss: 0.000112
+Epoch [169/199], Train_loss: 0.000111
+Epoch [170/199], Train_loss: 0.000111
+Epoch [171/199], Train_loss: 0.000112
+Epoch [172/199], Train_loss: 0.000111
+Epoch [173/199], Train_loss: 0.000111
+Epoch [174/199], Train_loss: 0.000111
+Epoch [175/199], Train_loss: 0.000110
+Epoch [176/199], Train_loss: 0.000110
+Epoch [177/199], Train_loss: 0.000110
+Epoch [178/199], Train_loss: 0.000110
+Epoch [179/199], Train_loss: 0.000110
+Epoch [180/199], Train_loss: 0.000110
+Epoch [181/199], Train_loss: 0.000109
+Epoch [182/199], Train_loss: 0.000109
+Epoch [183/199], Train_loss: 0.000109
+Epoch [184/199], Train_loss: 0.000110
+Epoch [185/199], Train_loss: 0.000109
+Epoch [186/199], Train_loss: 0.000109
+Epoch [187/199], Train_loss: 0.000109
+Epoch [188/199], Train_loss: 0.000109
+Epoch [189/199], Train_loss: 0.000110
+Epoch [190/199], Train_loss: 0.000109
+Epoch [191/199], Train_loss: 0.000108
+Epoch [192/199], Train_loss: 0.000108
+Epoch [193/199], Train_loss: 0.000108
+Epoch [194/199], Train_loss: 0.000108
+Epoch [195/199], Train_loss: 0.000108
+Epoch [196/199], Train_loss: 0.000108
+Epoch [197/199], Train_loss: 0.000108
+Epoch [198/199], Train_loss: 0.000108
+Epoch [199/199], Train_loss: 0.000108
+Finished Training
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau09/train_normal): 5750
+Number of seqs(../logparser/demo/paper3_Drain_2_result_tau09/train_normal): 55274
+Epoch [1/199], Train_loss: 0.001458
+Epoch [2/199], Train_loss: 0.000800
+Epoch [3/199], Train_loss: 0.000647
+Epoch [4/199], Train_loss: 0.000570
+Epoch [5/199], Train_loss: 0.000535
+Epoch [6/199], Train_loss: 0.000506
+Epoch [7/199], Train_loss: 0.000483
+Epoch [8/199], Train_loss: 0.000436
+Epoch [9/199], Train_loss: 0.000410
+Epoch [10/199], Train_loss: 0.000394
+Epoch [11/199], Train_loss: 0.000381
+Epoch [12/199], Train_loss: 0.000372
+Epoch [13/199], Train_loss: 0.000363
+Epoch [14/199], Train_loss: 0.000354
+Epoch [15/199], Train_loss: 0.000347
+Epoch [16/199], Train_loss: 0.000341
+Epoch [17/199], Train_loss: 0.000335
+Epoch [18/199], Train_loss: 0.000332
+Epoch [19/199], Train_loss: 0.000327
+Epoch [20/199], Train_loss: 0.000382
+Epoch [21/199], Train_loss: 0.000334
+Epoch [22/199], Train_loss: 0.000317
+Epoch [23/199], Train_loss: 0.000313
+Epoch [24/199], Train_loss: 0.000309
+Epoch [25/199], Train_loss: 0.000307
+Epoch [26/199], Train_loss: 0.000304
+Epoch [27/199], Train_loss: 0.000300
+Epoch [28/199], Train_loss: 0.000297
+Epoch [29/199], Train_loss: 0.000292
+Epoch [30/199], Train_loss: 0.000289
+Epoch [31/199], Train_loss: 0.000283
+Epoch [32/199], Train_loss: 0.000278
+Epoch [33/199], Train_loss: 0.000271
+Epoch [34/199], Train_loss: 0.000263
+Epoch [35/199], Train_loss: 0.000250
+Epoch [36/199], Train_loss: 0.000237
+Epoch [37/199], Train_loss: 0.000228
+Epoch [38/199], Train_loss: 0.000221
+Epoch [39/199], Train_loss: 0.000215
+Epoch [40/199], Train_loss: 0.000211
+Epoch [41/199], Train_loss: 0.000207
+Epoch [42/199], Train_loss: 0.000203
+Epoch [43/199], Train_loss: 0.000199
+Epoch [44/199], Train_loss: 0.000194
+Epoch [45/199], Train_loss: 0.000191
+Epoch [46/199], Train_loss: 0.000187
+Epoch [47/199], Train_loss: 0.000183
+Epoch [48/199], Train_loss: 0.000179
+Epoch [49/199], Train_loss: 0.000176
+Epoch [50/199], Train_loss: 0.000173
+Epoch [51/199], Train_loss: 0.000171
+Epoch [52/199], Train_loss: 0.000167
+Epoch [53/199], Train_loss: 0.000165
+Epoch [54/199], Train_loss: 0.000162
+Epoch [55/199], Train_loss: 0.000160
+Epoch [56/199], Train_loss: 0.000157
+Epoch [57/199], Train_loss: 0.000155
+Epoch [58/199], Train_loss: 0.000153
+Epoch [59/199], Train_loss: 0.000150
+Epoch [60/199], Train_loss: 0.000148
+Epoch [61/199], Train_loss: 0.000146
+Epoch [62/199], Train_loss: 0.000145
+Epoch [63/199], Train_loss: 0.000144
+Epoch [64/199], Train_loss: 0.000143
+Epoch [65/199], Train_loss: 0.000141
+Epoch [66/199], Train_loss: 0.000139
+Epoch [67/199], Train_loss: 0.000139
+Epoch [68/199], Train_loss: 0.000137
+Epoch [69/199], Train_loss: 0.000136
+Epoch [70/199], Train_loss: 0.000135
+Epoch [71/199], Train_loss: 0.000134
+Epoch [72/199], Train_loss: 0.000134
+Epoch [73/199], Train_loss: 0.000133
+Epoch [74/199], Train_loss: 0.000133
+Epoch [75/199], Train_loss: 0.000132
+Epoch [76/199], Train_loss: 0.000132
+Epoch [77/199], Train_loss: 0.000132
+Epoch [78/199], Train_loss: 0.000131
+Epoch [79/199], Train_loss: 0.000129
+Epoch [80/199], Train_loss: 0.000129
+Epoch [81/199], Train_loss: 0.000128
+Epoch [82/199], Train_loss: 0.000128
+Epoch [83/199], Train_loss: 0.000128
+Epoch [84/199], Train_loss: 0.000128
+Epoch [85/199], Train_loss: 0.000127
+Epoch [86/199], Train_loss: 0.000127
+Epoch [87/199], Train_loss: 0.000127
+Epoch [88/199], Train_loss: 0.000128
+Epoch [89/199], Train_loss: 0.000125
+Epoch [90/199], Train_loss: 0.000125
+Epoch [91/199], Train_loss: 0.000126
+Epoch [92/199], Train_loss: 0.000125
+Epoch [93/199], Train_loss: 0.000124
+Epoch [94/199], Train_loss: 0.000124
+Epoch [95/199], Train_loss: 0.000124
+Epoch [96/199], Train_loss: 0.000124
+Epoch [97/199], Train_loss: 0.000123
+Epoch [98/199], Train_loss: 0.000123
+Epoch [99/199], Train_loss: 0.000122
+Epoch [100/199], Train_loss: 0.000122
+Epoch [101/199], Train_loss: 0.000122
+Epoch [102/199], Train_loss: 0.000121
+Epoch [103/199], Train_loss: 0.000121
+Epoch [104/199], Train_loss: 0.000121
+Epoch [105/199], Train_loss: 0.000122
+Epoch [106/199], Train_loss: 0.000121
+Epoch [107/199], Train_loss: 0.000120
+Epoch [108/199], Train_loss: 0.000120
+Epoch [109/199], Train_loss: 0.000121
+Epoch [110/199], Train_loss: 0.000121
+Epoch [111/199], Train_loss: 0.000120
+Epoch [112/199], Train_loss: 0.000119
+Epoch [113/199], Train_loss: 0.000119
+Epoch [114/199], Train_loss: 0.000118
+Epoch [115/199], Train_loss: 0.000119
+Epoch [116/199], Train_loss: 0.000118
+Epoch [117/199], Train_loss: 0.000118
+Epoch [118/199], Train_loss: 0.000118
+Epoch [119/199], Train_loss: 0.000118
+Epoch [120/199], Train_loss: 0.000118
+Epoch [121/199], Train_loss: 0.000118
+Epoch [122/199], Train_loss: 0.000118
+Epoch [123/199], Train_loss: 0.000116
+Epoch [124/199], Train_loss: 0.000117
+Epoch [125/199], Train_loss: 0.000117
+Epoch [126/199], Train_loss: 0.000117
+Epoch [127/199], Train_loss: 0.000116
+Epoch [128/199], Train_loss: 0.000116
+Epoch [129/199], Train_loss: 0.000116
+Epoch [130/199], Train_loss: 0.000116
+Epoch [131/199], Train_loss: 0.000115
+Epoch [132/199], Train_loss: 0.000116
+Epoch [133/199], Train_loss: 0.000116
+Epoch [134/199], Train_loss: 0.000115
+Epoch [135/199], Train_loss: 0.000116
+Epoch [136/199], Train_loss: 0.000116
+Epoch [137/199], Train_loss: 0.000115
+Epoch [138/199], Train_loss: 0.000114
+Epoch [139/199], Train_loss: 0.000115
+Epoch [140/199], Train_loss: 0.000115
+Epoch [141/199], Train_loss: 0.000114
+Epoch [142/199], Train_loss: 0.000114
+Epoch [143/199], Train_loss: 0.000113
+Epoch [144/199], Train_loss: 0.000114
+Epoch [145/199], Train_loss: 0.000114
+Epoch [146/199], Train_loss: 0.000114
+Epoch [147/199], Train_loss: 0.000115
+Epoch [148/199], Train_loss: 0.000113
+Epoch [149/199], Train_loss: 0.000113
+Epoch [150/199], Train_loss: 0.000113
+Epoch [151/199], Train_loss: 0.000113
+Epoch [152/199], Train_loss: 0.000139
+Epoch [153/199], Train_loss: 0.000173
+Epoch [154/199], Train_loss: 0.000125
+Epoch [155/199], Train_loss: 0.000119
+Epoch [156/199], Train_loss: 0.000117
+Epoch [157/199], Train_loss: 0.000116
+Epoch [158/199], Train_loss: 0.000115
+Epoch [159/199], Train_loss: 0.000115
+Epoch [160/199], Train_loss: 0.000114
+Epoch [161/199], Train_loss: 0.000113
+Epoch [162/199], Train_loss: 0.000113
+Epoch [163/199], Train_loss: 0.000113
+Epoch [164/199], Train_loss: 0.000113
+Epoch [165/199], Train_loss: 0.000112
+Epoch [166/199], Train_loss: 0.000112
+Epoch [167/199], Train_loss: 0.000112
+Epoch [168/199], Train_loss: 0.000112
+Epoch [169/199], Train_loss: 0.000112
+Epoch [170/199], Train_loss: 0.000111
+Epoch [171/199], Train_loss: 0.000112
+Epoch [172/199], Train_loss: 0.000111
+Epoch [173/199], Train_loss: 0.000111
+Epoch [174/199], Train_loss: 0.000111
+Epoch [175/199], Train_loss: 0.000111
+Epoch [176/199], Train_loss: 0.000111
+Epoch [177/199], Train_loss: 0.000111
+Epoch [178/199], Train_loss: 0.000111
+Epoch [179/199], Train_loss: 0.000110
+Epoch [180/199], Train_loss: 0.000111
+Epoch [181/199], Train_loss: 0.000111
+Epoch [182/199], Train_loss: 0.000110
+Epoch [183/199], Train_loss: 0.000110
+Epoch [184/199], Train_loss: 0.000110
+Epoch [185/199], Train_loss: 0.000110
+Epoch [186/199], Train_loss: 0.000110
+Epoch [187/199], Train_loss: 0.000110
+Epoch [188/199], Train_loss: 0.000110
+Epoch [189/199], Train_loss: 0.000110
+Epoch [190/199], Train_loss: 0.000109
+Epoch [191/199], Train_loss: 0.000109
+Epoch [192/199], Train_loss: 0.000109
+Epoch [193/199], Train_loss: 0.000109
+Epoch [194/199], Train_loss: 0.000109
+Epoch [195/199], Train_loss: 0.000110
+Epoch [196/199], Train_loss: 0.000109
+Epoch [197/199], Train_loss: 0.000109
+Epoch [198/199], Train_loss: 0.000109
+Epoch [199/199], Train_loss: 0.000109
+Finished Training
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau075/train_normal): 5750
+Number of seqs(../logparser/demo/paper3_Drain_2_result_tau075/train_normal): 55274
+Epoch [1/199], Train_loss: 0.001513
+Epoch [2/199], Train_loss: 0.000847
+Epoch [3/199], Train_loss: 0.000726
+Epoch [4/199], Train_loss: 0.000638
+Epoch [5/199], Train_loss: 0.000572
+Epoch [6/199], Train_loss: 0.000537
+Epoch [7/199], Train_loss: 0.000511
+Epoch [8/199], Train_loss: 0.000470
+Epoch [9/199], Train_loss: 0.000435
+Epoch [10/199], Train_loss: 0.000410
+Epoch [11/199], Train_loss: 0.000394
+Epoch [12/199], Train_loss: 0.000382
+Epoch [13/199], Train_loss: 0.000381
+Epoch [14/199], Train_loss: 0.000368
+Epoch [15/199], Train_loss: 0.000361
+Epoch [16/199], Train_loss: 0.000356
+Epoch [17/199], Train_loss: 0.000351
+Epoch [18/199], Train_loss: 0.000347
+Epoch [19/199], Train_loss: 0.000343
+Epoch [20/199], Train_loss: 0.000339
+Epoch [21/199], Train_loss: 0.000334
+Epoch [22/199], Train_loss: 0.000329
+Epoch [23/199], Train_loss: 0.000323
+Epoch [24/199], Train_loss: 0.000316
+Epoch [25/199], Train_loss: 0.000309
+Epoch [26/199], Train_loss: 0.000300
+Epoch [27/199], Train_loss: 0.000286
+Epoch [28/199], Train_loss: 0.000270
+Epoch [29/199], Train_loss: 0.000260
+Epoch [30/199], Train_loss: 0.000252
+Epoch [31/199], Train_loss: 0.000246
+Epoch [32/199], Train_loss: 0.000242
+Epoch [33/199], Train_loss: 0.000238
+Epoch [34/199], Train_loss: 0.000234
+Epoch [35/199], Train_loss: 0.000232
+Epoch [36/199], Train_loss: 0.000223
+Epoch [37/199], Train_loss: 0.000219
+Epoch [38/199], Train_loss: 0.000214
+Epoch [39/199], Train_loss: 0.000210
+Epoch [40/199], Train_loss: 0.000206
+Epoch [41/199], Train_loss: 0.000203
+Epoch [42/199], Train_loss: 0.000200
+Epoch [43/199], Train_loss: 0.000196
+Epoch [44/199], Train_loss: 0.000192
+Epoch [45/199], Train_loss: 0.000190
+Epoch [46/199], Train_loss: 0.000186
+Epoch [47/199], Train_loss: 0.000183
+Epoch [48/199], Train_loss: 0.000179
+Epoch [49/199], Train_loss: 0.000177
+Epoch [50/199], Train_loss: 0.000173
+Epoch [51/199], Train_loss: 0.000170
+Epoch [52/199], Train_loss: 0.000168
+Epoch [53/199], Train_loss: 0.000166
+Epoch [54/199], Train_loss: 0.000163
+Epoch [55/199], Train_loss: 0.000160
+Epoch [56/199], Train_loss: 0.000159
+Epoch [57/199], Train_loss: 0.000157
+Epoch [58/199], Train_loss: 0.000155
+Epoch [59/199], Train_loss: 0.000156
+Epoch [60/199], Train_loss: 0.000153
+Epoch [61/199], Train_loss: 0.000152
+Epoch [62/199], Train_loss: 0.000151
+Epoch [63/199], Train_loss: 0.000151
+Epoch [64/199], Train_loss: 0.000148
+Epoch [65/199], Train_loss: 0.000147
+Epoch [66/199], Train_loss: 0.000146
+Epoch [67/199], Train_loss: 0.000145
+Epoch [68/199], Train_loss: 0.000144
+Epoch [69/199], Train_loss: 0.000143
+Epoch [70/199], Train_loss: 0.000142
+Epoch [71/199], Train_loss: 0.000142
+Epoch [72/199], Train_loss: 0.000142
+Epoch [73/199], Train_loss: 0.000140
+Epoch [74/199], Train_loss: 0.000139
+Epoch [75/199], Train_loss: 0.000138
+Epoch [76/199], Train_loss: 0.000138
+Epoch [77/199], Train_loss: 0.000137
+Epoch [78/199], Train_loss: 0.000136
+Epoch [79/199], Train_loss: 0.000135
+Epoch [80/199], Train_loss: 0.000137
+Epoch [81/199], Train_loss: 0.000135
+Epoch [82/199], Train_loss: 0.000134
+Epoch [83/199], Train_loss: 0.000134
+Epoch [84/199], Train_loss: 0.000134
+Epoch [85/199], Train_loss: 0.000133
+Epoch [86/199], Train_loss: 0.000132
+Epoch [87/199], Train_loss: 0.000131
+Epoch [88/199], Train_loss: 0.000132
+Epoch [89/199], Train_loss: 0.000165
+Epoch [90/199], Train_loss: 0.000136
+Epoch [91/199], Train_loss: 0.000132
+Epoch [92/199], Train_loss: 0.000131
+Epoch [93/199], Train_loss: 0.000130
+Epoch [94/199], Train_loss: 0.000130
+Epoch [95/199], Train_loss: 0.000130
+Epoch [96/199], Train_loss: 0.000129
+Epoch [97/199], Train_loss: 0.000128
+Epoch [98/199], Train_loss: 0.000128
+Epoch [99/199], Train_loss: 0.000127
+Epoch [100/199], Train_loss: 0.000128
+Epoch [101/199], Train_loss: 0.000127
+Epoch [102/199], Train_loss: 0.000126
+Epoch [103/199], Train_loss: 0.000126
+Epoch [104/199], Train_loss: 0.000126
+Epoch [105/199], Train_loss: 0.000125
+Epoch [106/199], Train_loss: 0.000125
+Epoch [107/199], Train_loss: 0.000125
+Epoch [108/199], Train_loss: 0.000125
+Epoch [109/199], Train_loss: 0.000125
+Epoch [110/199], Train_loss: 0.000124
+Epoch [111/199], Train_loss: 0.000124
+Epoch [112/199], Train_loss: 0.000124
+Epoch [113/199], Train_loss: 0.000124
+Epoch [114/199], Train_loss: 0.000123
+Epoch [115/199], Train_loss: 0.000122
+Epoch [116/199], Train_loss: 0.000122
+Epoch [117/199], Train_loss: 0.000122
+Epoch [118/199], Train_loss: 0.000123
+Epoch [119/199], Train_loss: 0.000121
+Epoch [120/199], Train_loss: 0.000121
+Epoch [121/199], Train_loss: 0.000121
+Epoch [122/199], Train_loss: 0.000121
+Epoch [123/199], Train_loss: 0.000121
+Epoch [124/199], Train_loss: 0.000120
+Epoch [125/199], Train_loss: 0.000120
+Epoch [126/199], Train_loss: 0.000120
+Epoch [127/199], Train_loss: 0.000119
+Epoch [128/199], Train_loss: 0.000119
+Epoch [129/199], Train_loss: 0.000119
+Epoch [130/199], Train_loss: 0.000119
+Epoch [131/199], Train_loss: 0.000118
+Epoch [132/199], Train_loss: 0.000119
+Epoch [133/199], Train_loss: 0.000118
+Epoch [134/199], Train_loss: 0.000118
+Epoch [135/199], Train_loss: 0.000118
+Epoch [136/199], Train_loss: 0.000118
+Epoch [137/199], Train_loss: 0.000117
+Epoch [138/199], Train_loss: 0.000117
+Epoch [139/199], Train_loss: 0.000117
+Epoch [140/199], Train_loss: 0.000117
+Epoch [141/199], Train_loss: 0.000116
+Epoch [142/199], Train_loss: 0.000116
+Epoch [143/199], Train_loss: 0.000116
+Epoch [144/199], Train_loss: 0.000116
+Epoch [145/199], Train_loss: 0.000115
+Epoch [146/199], Train_loss: 0.000116
+Epoch [147/199], Train_loss: 0.000115
+Epoch [148/199], Train_loss: 0.000115
+Epoch [149/199], Train_loss: 0.000115
+Epoch [150/199], Train_loss: 0.000114
+Epoch [151/199], Train_loss: 0.000115
+Epoch [152/199], Train_loss: 0.000115
+Epoch [153/199], Train_loss: 0.000115
+Epoch [154/199], Train_loss: 0.000114
+Epoch [155/199], Train_loss: 0.000114
+Epoch [156/199], Train_loss: 0.000114
+Epoch [157/199], Train_loss: 0.000113
+Epoch [158/199], Train_loss: 0.000113
+Epoch [159/199], Train_loss: 0.000113
+Epoch [160/199], Train_loss: 0.000113
+Epoch [161/199], Train_loss: 0.000113
+Epoch [162/199], Train_loss: 0.000112
+Epoch [163/199], Train_loss: 0.000112
+Epoch [164/199], Train_loss: 0.000112
+Epoch [165/199], Train_loss: 0.000112
+Epoch [166/199], Train_loss: 0.000112
+Epoch [167/199], Train_loss: 0.000111
+Epoch [168/199], Train_loss: 0.000111
+Epoch [169/199], Train_loss: 0.000111
+Epoch [170/199], Train_loss: 0.000111
+Epoch [171/199], Train_loss: 0.000111
+Epoch [172/199], Train_loss: 0.000111
+Epoch [173/199], Train_loss: 0.000110
+Epoch [174/199], Train_loss: 0.000111
+Epoch [175/199], Train_loss: 0.000110
+Epoch [176/199], Train_loss: 0.000110
+Epoch [177/199], Train_loss: 0.000110
+Epoch [178/199], Train_loss: 0.000110
+Epoch [179/199], Train_loss: 0.000110
+Epoch [180/199], Train_loss: 0.000111
+Epoch [181/199], Train_loss: 0.000110
+Epoch [182/199], Train_loss: 0.000109
+Epoch [183/199], Train_loss: 0.000109
+Epoch [184/199], Train_loss: 0.000109
+Epoch [185/199], Train_loss: 0.000109
+Epoch [186/199], Train_loss: 0.000110
+Epoch [187/199], Train_loss: 0.000109
+Epoch [188/199], Train_loss: 0.000109
+Epoch [189/199], Train_loss: 0.000109
+Epoch [190/199], Train_loss: 0.000108
+Epoch [191/199], Train_loss: 0.000108
+Epoch [192/199], Train_loss: 0.000109
+Epoch [193/199], Train_loss: 0.000109
+Epoch [194/199], Train_loss: 0.000108
+Epoch [195/199], Train_loss: 0.000109
+Epoch [196/199], Train_loss: 0.000110
+Epoch [197/199], Train_loss: 0.000108
+Epoch [198/199], Train_loss: 0.000107
+Epoch [199/199], Train_loss: 0.000108
+Finished Training
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau085/train_normal): 5750
+Number of seqs(../logparser/demo/paper3_Drain_2_result_tau085/train_normal): 55274
+Epoch [1/199], Train_loss: 0.001406
+Epoch [2/199], Train_loss: 0.000838
+Epoch [3/199], Train_loss: 0.000725
+Epoch [4/199], Train_loss: 0.000632
+Epoch [5/199], Train_loss: 0.000573
+Epoch [6/199], Train_loss: 0.000544
+Epoch [7/199], Train_loss: 0.000528
+Epoch [8/199], Train_loss: 0.000496
+Epoch [9/199], Train_loss: 0.000474
+Epoch [10/199], Train_loss: 0.000451
+Epoch [11/199], Train_loss: 0.000425
+Epoch [12/199], Train_loss: 0.000403
+Epoch [13/199], Train_loss: 0.000387
+Epoch [14/199], Train_loss: 0.000376
+Epoch [15/199], Train_loss: 0.000365
+Epoch [16/199], Train_loss: 0.000359
+Epoch [17/199], Train_loss: 0.000353
+Epoch [18/199], Train_loss: 0.000349
+Epoch [19/199], Train_loss: 0.000344
+Epoch [20/199], Train_loss: 0.000365
+Epoch [21/199], Train_loss: 0.000348
+Epoch [22/199], Train_loss: 0.000334
+Epoch [23/199], Train_loss: 0.000329
+Epoch [24/199], Train_loss: 0.000325
+Epoch [25/199], Train_loss: 0.000320
+Epoch [26/199], Train_loss: 0.000316
+Epoch [27/199], Train_loss: 0.000312
+Epoch [28/199], Train_loss: 0.000309
+Epoch [29/199], Train_loss: 0.000302
+Epoch [30/199], Train_loss: 0.000296
+Epoch [31/199], Train_loss: 0.000285
+Epoch [32/199], Train_loss: 0.000276
+Epoch [33/199], Train_loss: 0.000266
+Epoch [34/199], Train_loss: 0.000257
+Epoch [35/199], Train_loss: 0.000250
+Epoch [36/199], Train_loss: 0.000240
+Epoch [37/199], Train_loss: 0.000233
+Epoch [38/199], Train_loss: 0.000228
+Epoch [39/199], Train_loss: 0.000224
+Epoch [40/199], Train_loss: 0.000218
+Epoch [41/199], Train_loss: 0.000212
+Epoch [42/199], Train_loss: 0.000208
+Epoch [43/199], Train_loss: 0.000204
+Epoch [44/199], Train_loss: 0.000200
+Epoch [45/199], Train_loss: 0.000197
+Epoch [46/199], Train_loss: 0.000194
+Epoch [47/199], Train_loss: 0.000191
+Epoch [48/199], Train_loss: 0.000187
+Epoch [49/199], Train_loss: 0.000184
+Epoch [50/199], Train_loss: 0.000183
+Epoch [51/199], Train_loss: 0.000180
+Epoch [52/199], Train_loss: 0.000178
+Epoch [53/199], Train_loss: 0.000176
+Epoch [54/199], Train_loss: 0.000172
+Epoch [55/199], Train_loss: 0.000170
+Epoch [56/199], Train_loss: 0.000167
+Epoch [57/199], Train_loss: 0.000165
+Epoch [58/199], Train_loss: 0.000163
+Epoch [59/199], Train_loss: 0.000161
+Epoch [60/199], Train_loss: 0.000160
+Epoch [61/199], Train_loss: 0.000156
+Epoch [62/199], Train_loss: 0.000155
+Epoch [63/199], Train_loss: 0.000153
+Epoch [64/199], Train_loss: 0.000152
+Epoch [65/199], Train_loss: 0.000150
+Epoch [66/199], Train_loss: 0.000149
+Epoch [67/199], Train_loss: 0.000148
+Epoch [68/199], Train_loss: 0.000148
+Epoch [69/199], Train_loss: 0.000146
+Epoch [70/199], Train_loss: 0.000144
+Epoch [71/199], Train_loss: 0.000143
+Epoch [72/199], Train_loss: 0.000142
+Epoch [73/199], Train_loss: 0.000141
+Epoch [74/199], Train_loss: 0.000140
+Epoch [75/199], Train_loss: 0.000139
+Epoch [76/199], Train_loss: 0.000139
+Epoch [77/199], Train_loss: 0.000138
+Epoch [78/199], Train_loss: 0.000139
+Epoch [79/199], Train_loss: 0.000136
+Epoch [80/199], Train_loss: 0.000135
+Epoch [81/199], Train_loss: 0.000135
+Epoch [82/199], Train_loss: 0.000133
+Epoch [83/199], Train_loss: 0.000133
+Epoch [84/199], Train_loss: 0.000133
+Epoch [85/199], Train_loss: 0.000131
+Epoch [86/199], Train_loss: 0.000132
+Epoch [87/199], Train_loss: 0.000131
+Epoch [88/199], Train_loss: 0.000130
+Epoch [89/199], Train_loss: 0.000130
+Epoch [90/199], Train_loss: 0.000130
+Epoch [91/199], Train_loss: 0.000130
+Epoch [92/199], Train_loss: 0.000128
+Epoch [93/199], Train_loss: 0.000128
+Epoch [94/199], Train_loss: 0.000128
+Epoch [95/199], Train_loss: 0.000127
+Epoch [96/199], Train_loss: 0.000126
+Epoch [97/199], Train_loss: 0.000126
+Epoch [98/199], Train_loss: 0.000127
+Epoch [99/199], Train_loss: 0.000127
+Epoch [100/199], Train_loss: 0.000125
+Epoch [101/199], Train_loss: 0.000125
+Epoch [102/199], Train_loss: 0.000124
+Epoch [103/199], Train_loss: 0.000126
+Epoch [104/199], Train_loss: 0.000124
+Epoch [105/199], Train_loss: 0.000123
+Epoch [106/199], Train_loss: 0.000123
+Epoch [107/199], Train_loss: 0.000123
+Epoch [108/199], Train_loss: 0.000123
+Epoch [109/199], Train_loss: 0.000122
+Epoch [110/199], Train_loss: 0.000122
+Epoch [111/199], Train_loss: 0.000122
+Epoch [112/199], Train_loss: 0.000122
+Epoch [113/199], Train_loss: 0.000122
+Epoch [114/199], Train_loss: 0.000122
+Epoch [115/199], Train_loss: 0.000121
+Epoch [116/199], Train_loss: 0.000121
+Epoch [117/199], Train_loss: 0.000120
+Epoch [118/199], Train_loss: 0.000121
+Epoch [119/199], Train_loss: 0.000121
+Epoch [120/199], Train_loss: 0.000119
+Epoch [121/199], Train_loss: 0.000120
+Epoch [122/199], Train_loss: 0.000119
+Epoch [123/199], Train_loss: 0.000119
+Epoch [124/199], Train_loss: 0.000119
+Epoch [125/199], Train_loss: 0.000118
+Epoch [126/199], Train_loss: 0.000118
+Epoch [127/199], Train_loss: 0.000118
+Epoch [128/199], Train_loss: 0.000118
+Epoch [129/199], Train_loss: 0.000118
+Epoch [130/199], Train_loss: 0.000117
+Epoch [131/199], Train_loss: 0.000118
+Epoch [132/199], Train_loss: 0.000118
+Epoch [133/199], Train_loss: 0.000117
+Epoch [134/199], Train_loss: 0.000117
+Epoch [135/199], Train_loss: 0.000117
+Epoch [136/199], Train_loss: 0.000117
+Epoch [137/199], Train_loss: 0.000117
+Epoch [138/199], Train_loss: 0.000117
+Epoch [139/199], Train_loss: 0.000117
+Epoch [140/199], Train_loss: 0.000116
+Epoch [141/199], Train_loss: 0.000117
+Epoch [142/199], Train_loss: 0.000116
+Epoch [143/199], Train_loss: 0.000115
+Epoch [144/199], Train_loss: 0.000116
+Epoch [145/199], Train_loss: 0.000115
+Epoch [146/199], Train_loss: 0.000115
+Epoch [147/199], Train_loss: 0.000115
+Epoch [148/199], Train_loss: 0.000114
+Epoch [149/199], Train_loss: 0.000115
+Epoch [150/199], Train_loss: 0.000115
+Epoch [151/199], Train_loss: 0.000114
+Epoch [152/199], Train_loss: 0.000114
+Epoch [153/199], Train_loss: 0.000114
+Epoch [154/199], Train_loss: 0.000114
+Epoch [155/199], Train_loss: 0.000115
+Epoch [156/199], Train_loss: 0.000114
+Epoch [157/199], Train_loss: 0.000114
+Epoch [158/199], Train_loss: 0.000114
+Epoch [159/199], Train_loss: 0.000114
+Epoch [160/199], Train_loss: 0.000114
+Epoch [161/199], Train_loss: 0.000113
+Epoch [162/199], Train_loss: 0.000113
+Epoch [163/199], Train_loss: 0.000112
+Epoch [164/199], Train_loss: 0.000112
+Epoch [165/199], Train_loss: 0.000112
+Epoch [166/199], Train_loss: 0.000112
+Epoch [167/199], Train_loss: 0.000113
+Epoch [168/199], Train_loss: 0.000112
+Epoch [169/199], Train_loss: 0.000112
+Epoch [170/199], Train_loss: 0.000112
+Epoch [171/199], Train_loss: 0.000112
+Epoch [172/199], Train_loss: 0.000111
+Epoch [173/199], Train_loss: 0.000111
+Epoch [174/199], Train_loss: 0.000112
+Epoch [175/199], Train_loss: 0.000111
+Epoch [176/199], Train_loss: 0.000111
+Epoch [177/199], Train_loss: 0.000111
+Epoch [178/199], Train_loss: 0.000111
+Epoch [179/199], Train_loss: 0.000111
+Epoch [180/199], Train_loss: 0.000111
+Epoch [181/199], Train_loss: 0.000111
+Epoch [182/199], Train_loss: 0.000111
+Epoch [183/199], Train_loss: 0.000131
+Epoch [184/199], Train_loss: 0.000114
+Epoch [185/199], Train_loss: 0.000111
+Epoch [186/199], Train_loss: 0.000110
+Epoch [187/199], Train_loss: 0.000110
+Epoch [188/199], Train_loss: 0.000110
+Epoch [189/199], Train_loss: 0.000109
+Epoch [190/199], Train_loss: 0.000110
+Epoch [191/199], Train_loss: 0.000110
+Epoch [192/199], Train_loss: 0.000110
+Epoch [193/199], Train_loss: 0.000109
+Epoch [194/199], Train_loss: 0.000108
+Epoch [195/199], Train_loss: 0.000110
+Epoch [196/199], Train_loss: 0.000110
+Epoch [197/199], Train_loss: 0.000108
+Epoch [198/199], Train_loss: 0.000109
+Epoch [199/199], Train_loss: 0.000108
+Finished Training
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau095/train_normal): 5750
+Number of seqs(../logparser/demo/paper3_Drain_2_result_tau095/train_normal): 55274
+Epoch [1/199], Train_loss: 0.001479
+Epoch [2/199], Train_loss: 0.000794
+Epoch [3/199], Train_loss: 0.000662
+Epoch [4/199], Train_loss: 0.000586
+Epoch [5/199], Train_loss: 0.000541
+Epoch [6/199], Train_loss: 0.000510
+Epoch [7/199], Train_loss: 0.000467
+Epoch [8/199], Train_loss: 0.000441
+Epoch [9/199], Train_loss: 0.000422
+Epoch [10/199], Train_loss: 0.000406
+Epoch [11/199], Train_loss: 0.000407
+Epoch [12/199], Train_loss: 0.000389
+Epoch [13/199], Train_loss: 0.000374
+Epoch [14/199], Train_loss: 0.000364
+Epoch [15/199], Train_loss: 0.000355
+Epoch [16/199], Train_loss: 0.000346
+Epoch [17/199], Train_loss: 0.000337
+Epoch [18/199], Train_loss: 0.000327
+Epoch [19/199], Train_loss: 0.000320
+Epoch [20/199], Train_loss: 0.000311
+Epoch [21/199], Train_loss: 0.000304
+Epoch [22/199], Train_loss: 0.000296
+Epoch [23/199], Train_loss: 0.000291
+Epoch [24/199], Train_loss: 0.000286
+Epoch [25/199], Train_loss: 0.000283
+Epoch [26/199], Train_loss: 0.000278
+Epoch [27/199], Train_loss: 0.000275
+Epoch [28/199], Train_loss: 0.000272
+Epoch [29/199], Train_loss: 0.000270
+Epoch [30/199], Train_loss: 0.000266
+Epoch [31/199], Train_loss: 0.000264
+Epoch [32/199], Train_loss: 0.000262
+Epoch [33/199], Train_loss: 0.000261
+Epoch [34/199], Train_loss: 0.000257
+Epoch [35/199], Train_loss: 0.000254
+Epoch [36/199], Train_loss: 0.000250
+Epoch [37/199], Train_loss: 0.000247
+Epoch [38/199], Train_loss: 0.000245
+Epoch [39/199], Train_loss: 0.000241
+Epoch [40/199], Train_loss: 0.000239
+Epoch [41/199], Train_loss: 0.000233
+Epoch [42/199], Train_loss: 0.000229
+Epoch [43/199], Train_loss: 0.000226
+Epoch [44/199], Train_loss: 0.000221
+Epoch [45/199], Train_loss: 0.000217
+Epoch [46/199], Train_loss: 0.000213
+Epoch [47/199], Train_loss: 0.000209
+Epoch [48/199], Train_loss: 0.000206
+Epoch [49/199], Train_loss: 0.000203
+Epoch [50/199], Train_loss: 0.000199
+Epoch [51/199], Train_loss: 0.000197
+Epoch [52/199], Train_loss: 0.000194
+Epoch [53/199], Train_loss: 0.000192
+Epoch [54/199], Train_loss: 0.000190
+Epoch [55/199], Train_loss: 0.000187
+Epoch [56/199], Train_loss: 0.000184
+Epoch [57/199], Train_loss: 0.000183
+Epoch [58/199], Train_loss: 0.000179
+Epoch [59/199], Train_loss: 0.000176
+Epoch [60/199], Train_loss: 0.000173
+Epoch [61/199], Train_loss: 0.000171
+Epoch [62/199], Train_loss: 0.000169
+Epoch [63/199], Train_loss: 0.000166
+Epoch [64/199], Train_loss: 0.000164
+Epoch [65/199], Train_loss: 0.000161
+Epoch [66/199], Train_loss: 0.000160
+Epoch [67/199], Train_loss: 0.000158
+Epoch [68/199], Train_loss: 0.000155
+Epoch [69/199], Train_loss: 0.000154
+Epoch [70/199], Train_loss: 0.000151
+Epoch [71/199], Train_loss: 0.000149
+Epoch [72/199], Train_loss: 0.000147
+Epoch [73/199], Train_loss: 0.000146
+Epoch [74/199], Train_loss: 0.000144
+Epoch [75/199], Train_loss: 0.000143
+Epoch [76/199], Train_loss: 0.000142
+Epoch [77/199], Train_loss: 0.000141
+Epoch [78/199], Train_loss: 0.000140
+Epoch [79/199], Train_loss: 0.000138
+Epoch [80/199], Train_loss: 0.000137
+Epoch [81/199], Train_loss: 0.000136
+Epoch [82/199], Train_loss: 0.000135
+Epoch [83/199], Train_loss: 0.000134
+Epoch [84/199], Train_loss: 0.000135
+Epoch [85/199], Train_loss: 0.000133
+Epoch [86/199], Train_loss: 0.000132
+Epoch [87/199], Train_loss: 0.000131
+Epoch [88/199], Train_loss: 0.000131
+Epoch [89/199], Train_loss: 0.000130
+Epoch [90/199], Train_loss: 0.000130
+Epoch [91/199], Train_loss: 0.000129
+Epoch [92/199], Train_loss: 0.000128
+Epoch [93/199], Train_loss: 0.000129
+Epoch [94/199], Train_loss: 0.000128
+Epoch [95/199], Train_loss: 0.000128
+Epoch [96/199], Train_loss: 0.000127
+Epoch [97/199], Train_loss: 0.000126
+Epoch [98/199], Train_loss: 0.000127
+Epoch [99/199], Train_loss: 0.000126
+Epoch [100/199], Train_loss: 0.000126
+Epoch [101/199], Train_loss: 0.000125
+Epoch [102/199], Train_loss: 0.000125
+Epoch [103/199], Train_loss: 0.000125
+Epoch [104/199], Train_loss: 0.000124
+Epoch [105/199], Train_loss: 0.000124
+Epoch [106/199], Train_loss: 0.000124
+Epoch [107/199], Train_loss: 0.000123
+Epoch [108/199], Train_loss: 0.000123
+Epoch [109/199], Train_loss: 0.000122
+Epoch [110/199], Train_loss: 0.000122
+Epoch [111/199], Train_loss: 0.000123
+Epoch [112/199], Train_loss: 0.000122
+Epoch [113/199], Train_loss: 0.000121
+Epoch [114/199], Train_loss: 0.000122
+Epoch [115/199], Train_loss: 0.000121
+Epoch [116/199], Train_loss: 0.000120
+Epoch [117/199], Train_loss: 0.000120
+Epoch [118/199], Train_loss: 0.000120
+Epoch [119/199], Train_loss: 0.000120
+Epoch [120/199], Train_loss: 0.000120
+Epoch [121/199], Train_loss: 0.000120
+Epoch [122/199], Train_loss: 0.000119
+Epoch [123/199], Train_loss: 0.000118
+Epoch [124/199], Train_loss: 0.000119
+Epoch [125/199], Train_loss: 0.000119
+Epoch [126/199], Train_loss: 0.000118
+Epoch [127/199], Train_loss: 0.000118
+Epoch [128/199], Train_loss: 0.000118
+Epoch [129/199], Train_loss: 0.000118
+Epoch [130/199], Train_loss: 0.000118
+Epoch [131/199], Train_loss: 0.000118
+Epoch [132/199], Train_loss: 0.000117
+Epoch [133/199], Train_loss: 0.000118
+Epoch [134/199], Train_loss: 0.000118
+Epoch [135/199], Train_loss: 0.000117
+Epoch [136/199], Train_loss: 0.000116
+Epoch [137/199], Train_loss: 0.000116
+Epoch [138/199], Train_loss: 0.000116
+Epoch [139/199], Train_loss: 0.000116
+Epoch [140/199], Train_loss: 0.000116
+Epoch [141/199], Train_loss: 0.000116
+Epoch [142/199], Train_loss: 0.000116
+Epoch [143/199], Train_loss: 0.000117
+Epoch [144/199], Train_loss: 0.000115
+Epoch [145/199], Train_loss: 0.000115
+Epoch [146/199], Train_loss: 0.000115
+Epoch [147/199], Train_loss: 0.000114
+Epoch [148/199], Train_loss: 0.000115
+Epoch [149/199], Train_loss: 0.000114
+Epoch [150/199], Train_loss: 0.000114
+Epoch [151/199], Train_loss: 0.000114
+Epoch [152/199], Train_loss: 0.000114
+Epoch [153/199], Train_loss: 0.000115
+Epoch [154/199], Train_loss: 0.000113
+Epoch [155/199], Train_loss: 0.000114
+Epoch [156/199], Train_loss: 0.000114
+Epoch [157/199], Train_loss: 0.000114
+Epoch [158/199], Train_loss: 0.000114
+Epoch [159/199], Train_loss: 0.000113
+Epoch [160/199], Train_loss: 0.000113
+Epoch [161/199], Train_loss: 0.000113
+Epoch [162/199], Train_loss: 0.000113
+Epoch [163/199], Train_loss: 0.000113
+Epoch [164/199], Train_loss: 0.000113
+Epoch [165/199], Train_loss: 0.000113
+Epoch [166/199], Train_loss: 0.000113
+Epoch [167/199], Train_loss: 0.000135
+Epoch [168/199], Train_loss: 0.000117
+Epoch [169/199], Train_loss: 0.000113
+Epoch [170/199], Train_loss: 0.000112
+Epoch [171/199], Train_loss: 0.000113
+Epoch [172/199], Train_loss: 0.000112
+Epoch [173/199], Train_loss: 0.000111
+Epoch [174/199], Train_loss: 0.000111
+Epoch [175/199], Train_loss: 0.000111
+Epoch [176/199], Train_loss: 0.000111
+Epoch [177/199], Train_loss: 0.000111
+Epoch [178/199], Train_loss: 0.000111
+Epoch [179/199], Train_loss: 0.000111
+Epoch [180/199], Train_loss: 0.000111
+Epoch [181/199], Train_loss: 0.000110
+Epoch [182/199], Train_loss: 0.000110
+Epoch [183/199], Train_loss: 0.000111
+Epoch [184/199], Train_loss: 0.000110
+Epoch [185/199], Train_loss: 0.000110
+Epoch [186/199], Train_loss: 0.000110
+Epoch [187/199], Train_loss: 0.000110
+Epoch [188/199], Train_loss: 0.000109
+Epoch [189/199], Train_loss: 0.000110
+Epoch [190/199], Train_loss: 0.000110
+Epoch [191/199], Train_loss: 0.000109
+Epoch [192/199], Train_loss: 0.000110
+Epoch [193/199], Train_loss: 0.000109
+Epoch [194/199], Train_loss: 0.000109
+Epoch [195/199], Train_loss: 0.000109
+Epoch [196/199], Train_loss: 0.000110
+Epoch [197/199], Train_loss: 0.000109
+Epoch [198/199], Train_loss: 0.000109
+Epoch [199/199], Train_loss: 0.000109
+Finished Training
+Number of sessions(../logparser/demo/paper3_SHISO_result/train_normal): 5750
+Number of seqs(../logparser/demo/paper3_SHISO_result/train_normal): 55274
+Epoch [1/199], Train_loss: 0.001476
+Epoch [2/199], Train_loss: 0.000756
+Epoch [3/199], Train_loss: 0.000585
+Epoch [4/199], Train_loss: 0.000500
+Epoch [5/199], Train_loss: 0.000450
+Epoch [6/199], Train_loss: 0.000405
+Epoch [7/199], Train_loss: 0.000368
+Epoch [8/199], Train_loss: 0.000337
+Epoch [9/199], Train_loss: 0.000312
+Epoch [10/199], Train_loss: 0.000289
+Epoch [11/199], Train_loss: 0.000268
+Epoch [12/199], Train_loss: 0.000247
+Epoch [13/199], Train_loss: 0.000232
+Epoch [14/199], Train_loss: 0.000221
+Epoch [15/199], Train_loss: 0.000213
+Epoch [16/199], Train_loss: 0.000207
+Epoch [17/199], Train_loss: 0.000202
+Epoch [18/199], Train_loss: 0.000197
+Epoch [19/199], Train_loss: 0.000194
+Epoch [20/199], Train_loss: 0.000190
+Epoch [21/199], Train_loss: 0.000186
+Epoch [22/199], Train_loss: 0.000183
+Epoch [23/199], Train_loss: 0.000181
+Epoch [24/199], Train_loss: 0.000178
+Epoch [25/199], Train_loss: 0.000176
+Epoch [26/199], Train_loss: 0.000173
+Epoch [27/199], Train_loss: 0.000171
+Epoch [28/199], Train_loss: 0.000169
+Epoch [29/199], Train_loss: 0.000167
+Epoch [30/199], Train_loss: 0.000165
+Epoch [31/199], Train_loss: 0.000163
+Epoch [32/199], Train_loss: 0.000161
+Epoch [33/199], Train_loss: 0.000159
+Epoch [34/199], Train_loss: 0.000158
+Epoch [35/199], Train_loss: 0.000156
+Epoch [36/199], Train_loss: 0.000155
+Epoch [37/199], Train_loss: 0.000153
+Epoch [38/199], Train_loss: 0.000152
+Epoch [39/199], Train_loss: 0.000152
+Epoch [40/199], Train_loss: 0.000150
+Epoch [41/199], Train_loss: 0.000149
+Epoch [42/199], Train_loss: 0.000147
+Epoch [43/199], Train_loss: 0.000147
+Epoch [44/199], Train_loss: 0.000146
+Epoch [45/199], Train_loss: 0.000146
+Epoch [46/199], Train_loss: 0.000144
+Epoch [47/199], Train_loss: 0.000143
+Epoch [48/199], Train_loss: 0.000143
+Epoch [49/199], Train_loss: 0.000142
+Epoch [50/199], Train_loss: 0.000141
+Epoch [51/199], Train_loss: 0.000141
+Epoch [52/199], Train_loss: 0.000140
+Epoch [53/199], Train_loss: 0.000140
+Epoch [54/199], Train_loss: 0.000138
+Epoch [55/199], Train_loss: 0.000138
+Epoch [56/199], Train_loss: 0.000138
+Epoch [57/199], Train_loss: 0.000137
+Epoch [58/199], Train_loss: 0.000136
+Epoch [59/199], Train_loss: 0.000136
+Epoch [60/199], Train_loss: 0.000135
+Epoch [61/199], Train_loss: 0.000134
+Epoch [62/199], Train_loss: 0.000134
+Epoch [63/199], Train_loss: 0.000134
+Epoch [64/199], Train_loss: 0.000134
+Epoch [65/199], Train_loss: 0.000133
+Epoch [66/199], Train_loss: 0.000132
+Epoch [67/199], Train_loss: 0.000131
+Epoch [68/199], Train_loss: 0.000132
+Epoch [69/199], Train_loss: 0.000131
+Epoch [70/199], Train_loss: 0.000130
+Epoch [71/199], Train_loss: 0.000129
+Epoch [72/199], Train_loss: 0.000129
+Epoch [73/199], Train_loss: 0.000129
+Epoch [74/199], Train_loss: 0.000129
+Epoch [75/199], Train_loss: 0.000128
+Epoch [76/199], Train_loss: 0.000127
+Epoch [77/199], Train_loss: 0.000129
+Epoch [78/199], Train_loss: 0.000214
+Epoch [79/199], Train_loss: 0.000142
+Epoch [80/199], Train_loss: 0.000134
+Epoch [81/199], Train_loss: 0.000132
+Epoch [82/199], Train_loss: 0.000130
+Epoch [83/199], Train_loss: 0.000129
+Epoch [84/199], Train_loss: 0.000128
+Epoch [85/199], Train_loss: 0.000127
+Epoch [86/199], Train_loss: 0.000127
+Epoch [87/199], Train_loss: 0.000126
+Epoch [88/199], Train_loss: 0.000126
+Epoch [89/199], Train_loss: 0.000125
+Epoch [90/199], Train_loss: 0.000125
+Epoch [91/199], Train_loss: 0.000125
+Epoch [92/199], Train_loss: 0.000124
+Epoch [93/199], Train_loss: 0.000124
+Epoch [94/199], Train_loss: 0.000124
+Epoch [95/199], Train_loss: 0.000123
+Epoch [96/199], Train_loss: 0.000123
+Epoch [97/199], Train_loss: 0.000123
+Epoch [98/199], Train_loss: 0.000123
+Epoch [99/199], Train_loss: 0.000123
+Epoch [100/199], Train_loss: 0.000123
+Epoch [101/199], Train_loss: 0.000122
+Epoch [102/199], Train_loss: 0.000122
+Epoch [103/199], Train_loss: 0.000121
+Epoch [104/199], Train_loss: 0.000121
+Epoch [105/199], Train_loss: 0.000121
+Epoch [106/199], Train_loss: 0.000120
+Epoch [107/199], Train_loss: 0.000121
+Epoch [108/199], Train_loss: 0.000120
+Epoch [109/199], Train_loss: 0.000120
+Epoch [110/199], Train_loss: 0.000120
+Epoch [111/199], Train_loss: 0.000119
+Epoch [112/199], Train_loss: 0.000119
+Epoch [113/199], Train_loss: 0.000119
+Epoch [114/199], Train_loss: 0.000119
+Epoch [115/199], Train_loss: 0.000118
+Epoch [116/199], Train_loss: 0.000118
+Epoch [117/199], Train_loss: 0.000119
+Epoch [118/199], Train_loss: 0.000118
+Epoch [119/199], Train_loss: 0.000118
+Epoch [120/199], Train_loss: 0.000118
+Epoch [121/199], Train_loss: 0.000117
+Epoch [122/199], Train_loss: 0.000117
+Epoch [123/199], Train_loss: 0.000117
+Epoch [124/199], Train_loss: 0.000117
+Epoch [125/199], Train_loss: 0.000117
+Epoch [126/199], Train_loss: 0.000116
+Epoch [127/199], Train_loss: 0.000117
+Epoch [128/199], Train_loss: 0.000116
+Epoch [129/199], Train_loss: 0.000116
+Epoch [130/199], Train_loss: 0.000115
+Epoch [131/199], Train_loss: 0.000115
+Epoch [132/199], Train_loss: 0.000115
+Epoch [133/199], Train_loss: 0.000115
+Epoch [134/199], Train_loss: 0.000116
+Epoch [135/199], Train_loss: 0.000115
+Epoch [136/199], Train_loss: 0.000114
+Epoch [137/199], Train_loss: 0.000114
+Epoch [138/199], Train_loss: 0.000114
+Epoch [139/199], Train_loss: 0.000114
+Epoch [140/199], Train_loss: 0.000114
+Epoch [141/199], Train_loss: 0.000114
+Epoch [142/199], Train_loss: 0.000113
+Epoch [143/199], Train_loss: 0.000114
+Epoch [144/199], Train_loss: 0.000114
+Epoch [145/199], Train_loss: 0.000113
+Epoch [146/199], Train_loss: 0.000113
+Epoch [147/199], Train_loss: 0.000114
+Epoch [148/199], Train_loss: 0.000113
+Epoch [149/199], Train_loss: 0.000113
+Epoch [150/199], Train_loss: 0.000113
+Epoch [151/199], Train_loss: 0.000113
+Epoch [152/199], Train_loss: 0.000112
+Epoch [153/199], Train_loss: 0.000112
+Epoch [154/199], Train_loss: 0.000111
+Epoch [155/199], Train_loss: 0.000111
+Epoch [156/199], Train_loss: 0.000112
+Epoch [157/199], Train_loss: 0.000111
+Epoch [158/199], Train_loss: 0.000111
+Epoch [159/199], Train_loss: 0.000111
+Epoch [160/199], Train_loss: 0.000111
+Epoch [161/199], Train_loss: 0.000111
+Epoch [162/199], Train_loss: 0.000111
+Epoch [163/199], Train_loss: 0.000111
+Epoch [164/199], Train_loss: 0.000111
+Epoch [165/199], Train_loss: 0.000111
+Epoch [166/199], Train_loss: 0.000110
+Epoch [167/199], Train_loss: 0.000110
+Epoch [168/199], Train_loss: 0.000110
+Epoch [169/199], Train_loss: 0.000110
+Epoch [170/199], Train_loss: 0.000109
+Epoch [171/199], Train_loss: 0.000110
+Epoch [172/199], Train_loss: 0.000109
+Epoch [173/199], Train_loss: 0.000109
+Epoch [174/199], Train_loss: 0.000109
+Epoch [175/199], Train_loss: 0.000109
+Epoch [176/199], Train_loss: 0.000109
+Epoch [177/199], Train_loss: 0.000109
+Epoch [178/199], Train_loss: 0.000108
+Epoch [179/199], Train_loss: 0.000108
+Epoch [180/199], Train_loss: 0.000108
+Epoch [181/199], Train_loss: 0.000108
+Epoch [182/199], Train_loss: 0.000108
+Epoch [183/199], Train_loss: 0.000108
+Epoch [184/199], Train_loss: 0.000108
+Epoch [185/199], Train_loss: 0.000108
+Epoch [186/199], Train_loss: 0.000108
+Epoch [187/199], Train_loss: 0.000107
+Epoch [188/199], Train_loss: 0.000107
+Epoch [189/199], Train_loss: 0.000107
+Epoch [190/199], Train_loss: 0.000107
+Epoch [191/199], Train_loss: 0.000107
+Epoch [192/199], Train_loss: 0.000107
+Epoch [193/199], Train_loss: 0.000107
+Epoch [194/199], Train_loss: 0.000107
+Epoch [195/199], Train_loss: 0.000108
+Epoch [196/199], Train_loss: 0.000107
+Epoch [197/199], Train_loss: 0.000107
+Epoch [198/199], Train_loss: 0.000106
+Epoch [199/199], Train_loss: 0.000106
+Finished Training
+Number of sessions(../logparser/demo/paper3_Spell_result/train_normal): 5750
+Number of seqs(../logparser/demo/paper3_Spell_result/train_normal): 55274
+Epoch [1/199], Train_loss: 0.001405
+Epoch [2/199], Train_loss: 0.000825
+Epoch [3/199], Train_loss: 0.000659
+Epoch [4/199], Train_loss: 0.000572
+Epoch [5/199], Train_loss: 0.000531
+Epoch [6/199], Train_loss: 0.000492
+Epoch [7/199], Train_loss: 0.000456
+Epoch [8/199], Train_loss: 0.000434
+Epoch [9/199], Train_loss: 0.000415
+Epoch [10/199], Train_loss: 0.000399
+Epoch [11/199], Train_loss: 0.000387
+Epoch [12/199], Train_loss: 0.000376
+Epoch [13/199], Train_loss: 0.000367
+Epoch [14/199], Train_loss: 0.000359
+Epoch [15/199], Train_loss: 0.000350
+Epoch [16/199], Train_loss: 0.000336
+Epoch [17/199], Train_loss: 0.000341
+Epoch [18/199], Train_loss: 0.000356
+Epoch [19/199], Train_loss: 0.000301
+Epoch [20/199], Train_loss: 0.000286
+Epoch [21/199], Train_loss: 0.000278
+Epoch [22/199], Train_loss: 0.000272
+Epoch [23/199], Train_loss: 0.000267
+Epoch [24/199], Train_loss: 0.000263
+Epoch [25/199], Train_loss: 0.000258
+Epoch [26/199], Train_loss: 0.000255
+Epoch [27/199], Train_loss: 0.000252
+Epoch [28/199], Train_loss: 0.000249
+Epoch [29/199], Train_loss: 0.000247
+Epoch [30/199], Train_loss: 0.000244
+Epoch [31/199], Train_loss: 0.000241
+Epoch [32/199], Train_loss: 0.000238
+Epoch [33/199], Train_loss: 0.000236
+Epoch [34/199], Train_loss: 0.000233
+Epoch [35/199], Train_loss: 0.000231
+Epoch [36/199], Train_loss: 0.000228
+Epoch [37/199], Train_loss: 0.000224
+Epoch [38/199], Train_loss: 0.000221
+Epoch [39/199], Train_loss: 0.000216
+Epoch [40/199], Train_loss: 0.000211
+Epoch [41/199], Train_loss: 0.000208
+Epoch [42/199], Train_loss: 0.000205
+Epoch [43/199], Train_loss: 0.000202
+Epoch [44/199], Train_loss: 0.000199
+Epoch [45/199], Train_loss: 0.000194
+Epoch [46/199], Train_loss: 0.000191
+Epoch [47/199], Train_loss: 0.000188
+Epoch [48/199], Train_loss: 0.000185
+Epoch [49/199], Train_loss: 0.000184
+Epoch [50/199], Train_loss: 0.000181
+Epoch [51/199], Train_loss: 0.000180
+Epoch [52/199], Train_loss: 0.000177
+Epoch [53/199], Train_loss: 0.000175
+Epoch [54/199], Train_loss: 0.000173
+Epoch [55/199], Train_loss: 0.000171
+Epoch [56/199], Train_loss: 0.000170
+Epoch [57/199], Train_loss: 0.000168
+Epoch [58/199], Train_loss: 0.000164
+Epoch [59/199], Train_loss: 0.000162
+Epoch [60/199], Train_loss: 0.000159
+Epoch [61/199], Train_loss: 0.000157
+Epoch [62/199], Train_loss: 0.000158
+Epoch [63/199], Train_loss: 0.000154
+Epoch [64/199], Train_loss: 0.000151
+Epoch [65/199], Train_loss: 0.000149
+Epoch [66/199], Train_loss: 0.000146
+Epoch [67/199], Train_loss: 0.000145
+Epoch [68/199], Train_loss: 0.000143
+Epoch [69/199], Train_loss: 0.000141
+Epoch [70/199], Train_loss: 0.000140
+Epoch [71/199], Train_loss: 0.000139
+Epoch [72/199], Train_loss: 0.000137
+Epoch [73/199], Train_loss: 0.000136
+Epoch [74/199], Train_loss: 0.000136
+Epoch [75/199], Train_loss: 0.000134
+Epoch [76/199], Train_loss: 0.000133
+Epoch [77/199], Train_loss: 0.000132
+Epoch [78/199], Train_loss: 0.000130
+Epoch [79/199], Train_loss: 0.000130
+Epoch [80/199], Train_loss: 0.000129
+Epoch [81/199], Train_loss: 0.000129
+Epoch [82/199], Train_loss: 0.000128
+Epoch [83/199], Train_loss: 0.000127
+Epoch [84/199], Train_loss: 0.000126
+Epoch [85/199], Train_loss: 0.000126
+Epoch [86/199], Train_loss: 0.000125
+Epoch [87/199], Train_loss: 0.000124
+Epoch [88/199], Train_loss: 0.000124
+Epoch [89/199], Train_loss: 0.000123
+Epoch [90/199], Train_loss: 0.000123
+Epoch [91/199], Train_loss: 0.000123
+Epoch [92/199], Train_loss: 0.000122
+Epoch [93/199], Train_loss: 0.000122
+Epoch [94/199], Train_loss: 0.000121
+Epoch [95/199], Train_loss: 0.000121
+Epoch [96/199], Train_loss: 0.000121
+Epoch [97/199], Train_loss: 0.000120
+Epoch [98/199], Train_loss: 0.000120
+Epoch [99/199], Train_loss: 0.000120
+Epoch [100/199], Train_loss: 0.000120
+Epoch [101/199], Train_loss: 0.000119
+Epoch [102/199], Train_loss: 0.000119
+Epoch [103/199], Train_loss: 0.000118
+Epoch [104/199], Train_loss: 0.000118
+Epoch [105/199], Train_loss: 0.000119
+Epoch [106/199], Train_loss: 0.000118
+Epoch [107/199], Train_loss: 0.000117
+Epoch [108/199], Train_loss: 0.000117
+Epoch [109/199], Train_loss: 0.000116
+Epoch [110/199], Train_loss: 0.000162
+Epoch [111/199], Train_loss: 0.000133
+Epoch [112/199], Train_loss: 0.000122
+Epoch [113/199], Train_loss: 0.000120
+Epoch [114/199], Train_loss: 0.000119
+Epoch [115/199], Train_loss: 0.000118
+Epoch [116/199], Train_loss: 0.000117
+Epoch [117/199], Train_loss: 0.000117
+Epoch [118/199], Train_loss: 0.000116
+Epoch [119/199], Train_loss: 0.000116
+Epoch [120/199], Train_loss: 0.000116
+Epoch [121/199], Train_loss: 0.000116
+Epoch [122/199], Train_loss: 0.000115
+Epoch [123/199], Train_loss: 0.000115
+Epoch [124/199], Train_loss: 0.000114
+Epoch [125/199], Train_loss: 0.000114
+Epoch [126/199], Train_loss: 0.000114
+Epoch [127/199], Train_loss: 0.000114
+Epoch [128/199], Train_loss: 0.000114
+Epoch [129/199], Train_loss: 0.000114
+Epoch [130/199], Train_loss: 0.000114
+Epoch [131/199], Train_loss: 0.000113
+Epoch [132/199], Train_loss: 0.000113
+Epoch [133/199], Train_loss: 0.000114
+Epoch [134/199], Train_loss: 0.000113
+Epoch [135/199], Train_loss: 0.000113
+Epoch [136/199], Train_loss: 0.000114
+Epoch [137/199], Train_loss: 0.000112
+Epoch [138/199], Train_loss: 0.000112
+Epoch [139/199], Train_loss: 0.000112
+Epoch [140/199], Train_loss: 0.000112
+Epoch [141/199], Train_loss: 0.000111
+Epoch [142/199], Train_loss: 0.000112
+Epoch [143/199], Train_loss: 0.000112
+Epoch [144/199], Train_loss: 0.000111
+Epoch [145/199], Train_loss: 0.000111
+Epoch [146/199], Train_loss: 0.000110
+Epoch [147/199], Train_loss: 0.000110
+Epoch [148/199], Train_loss: 0.000111
+Epoch [149/199], Train_loss: 0.000111
+Epoch [150/199], Train_loss: 0.000110
+Epoch [151/199], Train_loss: 0.000110
+Epoch [152/199], Train_loss: 0.000110
+Epoch [153/199], Train_loss: 0.000110
+Epoch [154/199], Train_loss: 0.000110
+Epoch [155/199], Train_loss: 0.000109
+Epoch [156/199], Train_loss: 0.000109
+Epoch [157/199], Train_loss: 0.000110
+Epoch [158/199], Train_loss: 0.000109
+Epoch [159/199], Train_loss: 0.000109
+Epoch [160/199], Train_loss: 0.000109
+Epoch [161/199], Train_loss: 0.000109
+Epoch [162/199], Train_loss: 0.000109
+Epoch [163/199], Train_loss: 0.000108
+Epoch [164/199], Train_loss: 0.000108
+Epoch [165/199], Train_loss: 0.000108
+Epoch [166/199], Train_loss: 0.000109
+Epoch [167/199], Train_loss: 0.000109
+Epoch [168/199], Train_loss: 0.000108
+Epoch [169/199], Train_loss: 0.000108
+Epoch [170/199], Train_loss: 0.000109
+Epoch [171/199], Train_loss: 0.000108
+Epoch [172/199], Train_loss: 0.000108
+Epoch [173/199], Train_loss: 0.000108
+Epoch [174/199], Train_loss: 0.000107
+Epoch [175/199], Train_loss: 0.000107
+Epoch [176/199], Train_loss: 0.000108
+Epoch [177/199], Train_loss: 0.000107
+Epoch [178/199], Train_loss: 0.000107
+Epoch [179/199], Train_loss: 0.000108
+Epoch [180/199], Train_loss: 0.000107
+Epoch [181/199], Train_loss: 0.000107
+Epoch [182/199], Train_loss: 0.000107
+Epoch [183/199], Train_loss: 0.000107
+Epoch [184/199], Train_loss: 0.000107
+Epoch [185/199], Train_loss: 0.000107
+Epoch [186/199], Train_loss: 0.000107
+Epoch [187/199], Train_loss: 0.000106
+Epoch [188/199], Train_loss: 0.000107
+Epoch [189/199], Train_loss: 0.000106
+Epoch [190/199], Train_loss: 0.000106
+Epoch [191/199], Train_loss: 0.000106
+Epoch [192/199], Train_loss: 0.000107
+Epoch [193/199], Train_loss: 0.000106
+Epoch [194/199], Train_loss: 0.000106
+Epoch [195/199], Train_loss: 0.000106
+Epoch [196/199], Train_loss: 0.000107
+Epoch [197/199], Train_loss: 0.000106
+Epoch [198/199], Train_loss: 0.000105
+Epoch [199/199], Train_loss: 0.000105
+Finished Training
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau08/train_normal): 5750
+Number of seqs(../logparser/demo/paper3_Drain_2_result_tau08/train_normal): 55274
+Epoch [1/199], Train_loss: 0.001544
+Epoch [2/199], Train_loss: 0.000863
+Epoch [3/199], Train_loss: 0.000771
+Epoch [4/199], Train_loss: 0.000678
+Epoch [5/199], Train_loss: 0.000596
+Epoch [6/199], Train_loss: 0.000550
+Epoch [7/199], Train_loss: 0.000525
+Epoch [8/199], Train_loss: 0.000490
+Epoch [9/199], Train_loss: 0.000466
+Epoch [10/199], Train_loss: 0.000447
+Epoch [11/199], Train_loss: 0.000428
+Epoch [12/199], Train_loss: 0.000412
+Epoch [13/199], Train_loss: 0.000399
+Epoch [14/199], Train_loss: 0.000389
+Epoch [15/199], Train_loss: 0.000380
+Epoch [16/199], Train_loss: 0.000373
+Epoch [17/199], Train_loss: 0.000366
+Epoch [18/199], Train_loss: 0.000361
+Epoch [19/199], Train_loss: 0.000407
+Epoch [20/199], Train_loss: 0.000379
+Epoch [21/199], Train_loss: 0.000353
+Epoch [22/199], Train_loss: 0.000347
+Epoch [23/199], Train_loss: 0.000342
+Epoch [24/199], Train_loss: 0.000338
+Epoch [25/199], Train_loss: 0.000333
+Epoch [26/199], Train_loss: 0.000327
+Number of sessions(../logparser/demo/paper3_Drain_result/train_normal): 5750
+Number of seqs(../logparser/demo/paper3_Drain_result/train_normal): 55274
+Epoch [1/199], Train_loss: 0.001501
+Epoch [2/199], Train_loss: 0.000894
+Epoch [3/199], Train_loss: 0.000808
+Epoch [4/199], Train_loss: 0.000702
+Epoch [5/199], Train_loss: 0.000616
+Epoch [6/199], Train_loss: 0.000568
+Epoch [7/199], Train_loss: 0.000537
+Epoch [8/199], Train_loss: 0.000536
+Epoch [9/199], Train_loss: 0.000488
+Epoch [10/199], Train_loss: 0.000453
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau08/train_normal): 5750
+Number of seqs(../logparser/demo/paper3_Drain_2_result_tau08/train_normal): 55274
+Epoch [1/199], Train_loss: 0.001541
+Epoch [2/199], Train_loss: 0.000861
+Epoch [3/199], Train_loss: 0.000705
+Epoch [4/199], Train_loss: 0.000603
+Epoch [5/199], Train_loss: 0.000553
+Epoch [6/199], Train_loss: 0.000517
+Epoch [7/199], Train_loss: 0.000509
+Epoch [8/199], Train_loss: 0.000473
+Epoch [9/199], Train_loss: 0.000438
+Epoch [10/199], Train_loss: 0.000422
+Epoch [11/199], Train_loss: 0.000411
+Epoch [12/199], Train_loss: 0.000401
+Epoch [13/199], Train_loss: 0.000392
+Epoch [14/199], Train_loss: 0.000383
+Epoch [15/199], Train_loss: 0.000376
+Epoch [16/199], Train_loss: 0.000370
+Epoch [17/199], Train_loss: 0.000364
+Epoch [18/199], Train_loss: 0.000358
+Epoch [19/199], Train_loss: 0.000354
+Epoch [20/199], Train_loss: 0.000348
+Epoch [21/199], Train_loss: 0.000344
+Epoch [22/199], Train_loss: 0.000340
+Epoch [23/199], Train_loss: 0.000335
+Epoch [24/199], Train_loss: 0.000330
+Epoch [25/199], Train_loss: 0.000325
+Epoch [26/199], Train_loss: 0.000321
+Epoch [27/199], Train_loss: 0.000317
+Epoch [28/199], Train_loss: 0.000311
+Epoch [29/199], Train_loss: 0.000303
+Epoch [30/199], Train_loss: 0.000292
+Epoch [31/199], Train_loss: 0.000276
+Epoch [32/199], Train_loss: 0.000260
+Epoch [33/199], Train_loss: 0.000252
+Epoch [34/199], Train_loss: 0.000260
+Epoch [35/199], Train_loss: 0.000239
+Epoch [36/199], Train_loss: 0.000232
+Epoch [37/199], Train_loss: 0.000228
+Epoch [38/199], Train_loss: 0.000223
+Epoch [39/199], Train_loss: 0.000219
+Epoch [40/199], Train_loss: 0.000216
+Epoch [41/199], Train_loss: 0.000213
+Epoch [42/199], Train_loss: 0.000210
+Epoch [43/199], Train_loss: 0.000206
+Epoch [44/199], Train_loss: 0.000203
+Epoch [45/199], Train_loss: 0.000199
+Epoch [46/199], Train_loss: 0.000197
+Epoch [47/199], Train_loss: 0.000193
+Epoch [48/199], Train_loss: 0.000190
+Epoch [49/199], Train_loss: 0.000188
+Epoch [50/199], Train_loss: 0.000184
+Epoch [51/199], Train_loss: 0.000182
+Epoch [52/199], Train_loss: 0.000179
+Epoch [53/199], Train_loss: 0.000176
+Epoch [54/199], Train_loss: 0.000172
+Epoch [55/199], Train_loss: 0.000170
+Epoch [56/199], Train_loss: 0.000167
+Epoch [57/199], Train_loss: 0.000165
+Epoch [58/199], Train_loss: 0.000162
+Epoch [59/199], Train_loss: 0.000160
+Epoch [60/199], Train_loss: 0.000158
+Epoch [61/199], Train_loss: 0.000157
+Epoch [62/199], Train_loss: 0.000155
+Epoch [63/199], Train_loss: 0.000154
+Epoch [64/199], Train_loss: 0.000153
+Epoch [65/199], Train_loss: 0.000151
+Epoch [66/199], Train_loss: 0.000150
+Epoch [67/199], Train_loss: 0.000149
+Epoch [68/199], Train_loss: 0.000148
+Epoch [69/199], Train_loss: 0.000147
+Epoch [70/199], Train_loss: 0.000146
+Epoch [71/199], Train_loss: 0.000145
+Epoch [72/199], Train_loss: 0.000144
+Epoch [73/199], Train_loss: 0.000144
+Epoch [74/199], Train_loss: 0.000144
+Epoch [75/199], Train_loss: 0.000142
+Epoch [76/199], Train_loss: 0.000142
+Epoch [77/199], Train_loss: 0.000141
+Epoch [78/199], Train_loss: 0.000140
+Epoch [79/199], Train_loss: 0.000139
+Epoch [80/199], Train_loss: 0.000139
+Epoch [81/199], Train_loss: 0.000138
+Epoch [82/199], Train_loss: 0.000137
+Epoch [83/199], Train_loss: 0.000136
+Epoch [84/199], Train_loss: 0.000136
+Epoch [85/199], Train_loss: 0.000135
+Epoch [86/199], Train_loss: 0.000135
+Epoch [87/199], Train_loss: 0.000134
+Epoch [88/199], Train_loss: 0.000135
+Epoch [89/199], Train_loss: 0.000133
+Epoch [90/199], Train_loss: 0.000132
+Epoch [91/199], Train_loss: 0.000132
+Epoch [92/199], Train_loss: 0.000131
+Epoch [93/199], Train_loss: 0.000131
+Epoch [94/199], Train_loss: 0.000130
+Epoch [95/199], Train_loss: 0.000130
+Epoch [96/199], Train_loss: 0.000130
+Epoch [97/199], Train_loss: 0.000130
+Epoch [98/199], Train_loss: 0.000164
+Epoch [99/199], Train_loss: 0.000134
+Epoch [100/199], Train_loss: 0.000131
+Epoch [101/199], Train_loss: 0.000129
+Epoch [102/199], Train_loss: 0.000128
+Epoch [103/199], Train_loss: 0.000129
+Epoch [104/199], Train_loss: 0.000128
+Epoch [105/199], Train_loss: 0.000128
+Epoch [106/199], Train_loss: 0.000127
+Epoch [107/199], Train_loss: 0.000127
+Epoch [108/199], Train_loss: 0.000127
+Epoch [109/199], Train_loss: 0.000126
+Epoch [110/199], Train_loss: 0.000125
+Epoch [111/199], Train_loss: 0.000125
+Epoch [112/199], Train_loss: 0.000125
+Epoch [113/199], Train_loss: 0.000124
+Epoch [114/199], Train_loss: 0.000124
+Epoch [115/199], Train_loss: 0.000124
+Epoch [116/199], Train_loss: 0.000124
+Epoch [117/199], Train_loss: 0.000123
+Epoch [118/199], Train_loss: 0.000122
+Epoch [119/199], Train_loss: 0.000122
+Epoch [120/199], Train_loss: 0.000122
+Epoch [121/199], Train_loss: 0.000122
+Epoch [122/199], Train_loss: 0.000121
+Epoch [123/199], Train_loss: 0.000121
+Epoch [124/199], Train_loss: 0.000121
+Epoch [125/199], Train_loss: 0.000121
+Epoch [126/199], Train_loss: 0.000121
+Epoch [127/199], Train_loss: 0.000121
+Epoch [128/199], Train_loss: 0.000122
+Epoch [129/199], Train_loss: 0.000121
+Epoch [130/199], Train_loss: 0.000120
+Epoch [131/199], Train_loss: 0.000119
+Epoch [132/199], Train_loss: 0.000120
+Epoch [133/199], Train_loss: 0.000119
+Epoch [134/199], Train_loss: 0.000120
+Epoch [135/199], Train_loss: 0.000119
+Epoch [136/199], Train_loss: 0.000118
+Epoch [137/199], Train_loss: 0.000118
+Epoch [138/199], Train_loss: 0.000118
+Epoch [139/199], Train_loss: 0.000117
+Epoch [140/199], Train_loss: 0.000118
+Epoch [141/199], Train_loss: 0.000118
+Epoch [142/199], Train_loss: 0.000118
+Epoch [143/199], Train_loss: 0.000117
+Epoch [144/199], Train_loss: 0.000117
+Epoch [145/199], Train_loss: 0.000117
+Epoch [146/199], Train_loss: 0.000117
+Epoch [147/199], Train_loss: 0.000117
+Epoch [148/199], Train_loss: 0.000116
+Epoch [149/199], Train_loss: 0.000117
+Epoch [150/199], Train_loss: 0.000116
+Epoch [151/199], Train_loss: 0.000116
+Epoch [152/199], Train_loss: 0.000115
+Epoch [153/199], Train_loss: 0.000116
+Epoch [154/199], Train_loss: 0.000115
+Epoch [155/199], Train_loss: 0.000115
+Epoch [156/199], Train_loss: 0.000115
+Epoch [157/199], Train_loss: 0.000115
+Epoch [158/199], Train_loss: 0.000115
+Epoch [159/199], Train_loss: 0.000115
+Epoch [160/199], Train_loss: 0.000115
+Epoch [161/199], Train_loss: 0.000115
+Epoch [162/199], Train_loss: 0.000115
+Epoch [163/199], Train_loss: 0.000114
+Epoch [164/199], Train_loss: 0.000114
+Epoch [165/199], Train_loss: 0.000114
+Epoch [166/199], Train_loss: 0.000114
+Epoch [167/199], Train_loss: 0.000113
+Epoch [168/199], Train_loss: 0.000113
+Epoch [169/199], Train_loss: 0.000123
+Epoch [170/199], Train_loss: 0.000135
+Epoch [171/199], Train_loss: 0.000117
+Epoch [172/199], Train_loss: 0.000115
+Epoch [173/199], Train_loss: 0.000114
+Epoch [174/199], Train_loss: 0.000114
+Epoch [175/199], Train_loss: 0.000113
+Epoch [176/199], Train_loss: 0.000113
+Epoch [177/199], Train_loss: 0.000112
+Epoch [178/199], Train_loss: 0.000112
+Epoch [179/199], Train_loss: 0.000113
+Epoch [180/199], Train_loss: 0.000113
+Epoch [181/199], Train_loss: 0.000112
+Epoch [182/199], Train_loss: 0.000111
+Epoch [183/199], Train_loss: 0.000112
+Epoch [184/199], Train_loss: 0.000112
+Epoch [185/199], Train_loss: 0.000112
+Epoch [186/199], Train_loss: 0.000111
+Epoch [187/199], Train_loss: 0.000111
+Epoch [188/199], Train_loss: 0.000111
+Epoch [189/199], Train_loss: 0.000111
+Epoch [190/199], Train_loss: 0.000111
+Epoch [191/199], Train_loss: 0.000111
+Epoch [192/199], Train_loss: 0.000110
+Epoch [193/199], Train_loss: 0.000110
+Epoch [194/199], Train_loss: 0.000110
+Epoch [195/199], Train_loss: 0.000111
+Epoch [196/199], Train_loss: 0.000110
+Epoch [197/199], Train_loss: 0.000110
+Epoch [198/199], Train_loss: 0.000110
+Epoch [199/199], Train_loss: 0.000110
+Finished Training
+Number of sessions(../logparser/demo/paper3_Drain_result/train_normal): 5750
+Number of seqs(../logparser/demo/paper3_Drain_result/train_normal): 55274
+Epoch [1/199], Train_loss: 0.001513
+Epoch [2/199], Train_loss: 0.000888
+Epoch [3/199], Train_loss: 0.000764
+Epoch [4/199], Train_loss: 0.000665
+Epoch [5/199], Train_loss: 0.000584
+Epoch [6/199], Train_loss: 0.000525
+Epoch [7/199], Train_loss: 0.000488
+Epoch [8/199], Train_loss: 0.000455
+Epoch [9/199], Train_loss: 0.000425
+Epoch [10/199], Train_loss: 0.000403
+Epoch [11/199], Train_loss: 0.000390
+Epoch [12/199], Train_loss: 0.000378
+Epoch [13/199], Train_loss: 0.000369
+Epoch [14/199], Train_loss: 0.000361
+Epoch [15/199], Train_loss: 0.000355
+Epoch [16/199], Train_loss: 0.000349
+Epoch [17/199], Train_loss: 0.000344
+Epoch [18/199], Train_loss: 0.000339
+Epoch [19/199], Train_loss: 0.000335
+Epoch [20/199], Train_loss: 0.000330
+Epoch [21/199], Train_loss: 0.000325
+Epoch [22/199], Train_loss: 0.000316
+Epoch [23/199], Train_loss: 0.000306
+Epoch [24/199], Train_loss: 0.000297
+Epoch [25/199], Train_loss: 0.000289
+Epoch [26/199], Train_loss: 0.000278
+Epoch [27/199], Train_loss: 0.000270
+Epoch [28/199], Train_loss: 0.000263
+Epoch [29/199], Train_loss: 0.000258
+Epoch [30/199], Train_loss: 0.000251
+Epoch [31/199], Train_loss: 0.000246
+Epoch [32/199], Train_loss: 0.000241
+Epoch [33/199], Train_loss: 0.000237
+Epoch [34/199], Train_loss: 0.000233
+Epoch [35/199], Train_loss: 0.000229
+Epoch [36/199], Train_loss: 0.000224
+Epoch [37/199], Train_loss: 0.000221
+Epoch [38/199], Train_loss: 0.000218
+Epoch [39/199], Train_loss: 0.000215
+Epoch [40/199], Train_loss: 0.000212
+Epoch [41/199], Train_loss: 0.000210
+Epoch [42/199], Train_loss: 0.000207
+Epoch [43/199], Train_loss: 0.000204
+Epoch [44/199], Train_loss: 0.000202
+Epoch [45/199], Train_loss: 0.000200
+Epoch [46/199], Train_loss: 0.000196
+Epoch [47/199], Train_loss: 0.000193
+Epoch [48/199], Train_loss: 0.000189
+Epoch [49/199], Train_loss: 0.000186
+Epoch [50/199], Train_loss: 0.000182
+Epoch [51/199], Train_loss: 0.000178
+Epoch [52/199], Train_loss: 0.000174
+Epoch [53/199], Train_loss: 0.000171
+Epoch [54/199], Train_loss: 0.000169
+Epoch [55/199], Train_loss: 0.000165
+Epoch [56/199], Train_loss: 0.000162
+Epoch [57/199], Train_loss: 0.000159
+Epoch [58/199], Train_loss: 0.000156
+Epoch [59/199], Train_loss: 0.000154
+Epoch [60/199], Train_loss: 0.000152
+Epoch [61/199], Train_loss: 0.000150
+Epoch [62/199], Train_loss: 0.000148
+Epoch [63/199], Train_loss: 0.000146
+Epoch [64/199], Train_loss: 0.000145
+Epoch [65/199], Train_loss: 0.000144
+Epoch [66/199], Train_loss: 0.000142
+Epoch [67/199], Train_loss: 0.000141
+Epoch [68/199], Train_loss: 0.000140
+Epoch [69/199], Train_loss: 0.000139
+Epoch [70/199], Train_loss: 0.000138
+Epoch [71/199], Train_loss: 0.000137
+Epoch [72/199], Train_loss: 0.000136
+Epoch [73/199], Train_loss: 0.000135
+Epoch [74/199], Train_loss: 0.000135
+Epoch [75/199], Train_loss: 0.000134
+Epoch [76/199], Train_loss: 0.000133
+Epoch [77/199], Train_loss: 0.000133
+Epoch [78/199], Train_loss: 0.000132
+Epoch [79/199], Train_loss: 0.000131
+Epoch [80/199], Train_loss: 0.000131
+Epoch [81/199], Train_loss: 0.000130
+Epoch [82/199], Train_loss: 0.000129
+Epoch [83/199], Train_loss: 0.000129
+Epoch [84/199], Train_loss: 0.000128
+Epoch [85/199], Train_loss: 0.000129
+Epoch [86/199], Train_loss: 0.000128
+Epoch [87/199], Train_loss: 0.000127
+Epoch [88/199], Train_loss: 0.000126
+Epoch [89/199], Train_loss: 0.000127
+Epoch [90/199], Train_loss: 0.000126
+Epoch [91/199], Train_loss: 0.000125
+Epoch [92/199], Train_loss: 0.000125
+Epoch [93/199], Train_loss: 0.000125
+Epoch [94/199], Train_loss: 0.000124
+Epoch [95/199], Train_loss: 0.000124
+Epoch [96/199], Train_loss: 0.000124
+Epoch [97/199], Train_loss: 0.000123
+Epoch [98/199], Train_loss: 0.000123
+Epoch [99/199], Train_loss: 0.000123
+Epoch [100/199], Train_loss: 0.000123
+Epoch [101/199], Train_loss: 0.000124
+Epoch [102/199], Train_loss: 0.000122
+Epoch [103/199], Train_loss: 0.000122
+Epoch [104/199], Train_loss: 0.000121
+Epoch [105/199], Train_loss: 0.000121
+Epoch [106/199], Train_loss: 0.000121
+Epoch [107/199], Train_loss: 0.000121
+Epoch [108/199], Train_loss: 0.000120
+Epoch [109/199], Train_loss: 0.000120
+Epoch [110/199], Train_loss: 0.000120
+Epoch [111/199], Train_loss: 0.000120
+Epoch [112/199], Train_loss: 0.000119
+Epoch [113/199], Train_loss: 0.000120
+Epoch [114/199], Train_loss: 0.000120
+Epoch [115/199], Train_loss: 0.000119
+Epoch [116/199], Train_loss: 0.000119
+Epoch [117/199], Train_loss: 0.000119
+Epoch [118/199], Train_loss: 0.000118
+Epoch [119/199], Train_loss: 0.000118
+Epoch [120/199], Train_loss: 0.000119
+Epoch [121/199], Train_loss: 0.000118
+Epoch [122/199], Train_loss: 0.000118
+Epoch [123/199], Train_loss: 0.000118
+Epoch [124/199], Train_loss: 0.000117
+Epoch [125/199], Train_loss: 0.000118
+Epoch [126/199], Train_loss: 0.000118
+Epoch [127/199], Train_loss: 0.000116
+Epoch [128/199], Train_loss: 0.000116
+Epoch [129/199], Train_loss: 0.000116
+Epoch [130/199], Train_loss: 0.000117
+Epoch [131/199], Train_loss: 0.000117
+Epoch [132/199], Train_loss: 0.000117
+Epoch [133/199], Train_loss: 0.000116
+Epoch [134/199], Train_loss: 0.000116
+Epoch [135/199], Train_loss: 0.000115
+Epoch [136/199], Train_loss: 0.000115
+Epoch [137/199], Train_loss: 0.000115
+Epoch [138/199], Train_loss: 0.000115
+Epoch [139/199], Train_loss: 0.000114
+Epoch [140/199], Train_loss: 0.000114
+Epoch [141/199], Train_loss: 0.000115
+Epoch [142/199], Train_loss: 0.000114
+Epoch [143/199], Train_loss: 0.000114
+Epoch [144/199], Train_loss: 0.000114
+Epoch [145/199], Train_loss: 0.000114
+Epoch [146/199], Train_loss: 0.000113
+Epoch [147/199], Train_loss: 0.000113
+Epoch [148/199], Train_loss: 0.000112
+Epoch [149/199], Train_loss: 0.000113
+Epoch [150/199], Train_loss: 0.000113
+Epoch [151/199], Train_loss: 0.000113
+Epoch [152/199], Train_loss: 0.000112
+Epoch [153/199], Train_loss: 0.000112
+Epoch [154/199], Train_loss: 0.000112
+Epoch [155/199], Train_loss: 0.000113
+Epoch [156/199], Train_loss: 0.000112
+Epoch [157/199], Train_loss: 0.000111
+Epoch [158/199], Train_loss: 0.000111
+Epoch [159/199], Train_loss: 0.000111
+Epoch [160/199], Train_loss: 0.000111
+Epoch [161/199], Train_loss: 0.000111
+Epoch [162/199], Train_loss: 0.000111
+Epoch [163/199], Train_loss: 0.000111
+Epoch [164/199], Train_loss: 0.000112
+Epoch [165/199], Train_loss: 0.000110
+Epoch [166/199], Train_loss: 0.000110
+Epoch [167/199], Train_loss: 0.000110
+Epoch [168/199], Train_loss: 0.000110
+Epoch [169/199], Train_loss: 0.000111
+Epoch [170/199], Train_loss: 0.000110
+Epoch [171/199], Train_loss: 0.000110
+Epoch [172/199], Train_loss: 0.000110
+Epoch [173/199], Train_loss: 0.000109
+Epoch [174/199], Train_loss: 0.000109
+Epoch [175/199], Train_loss: 0.000109
+Epoch [176/199], Train_loss: 0.000110
+Epoch [177/199], Train_loss: 0.000109
+Epoch [178/199], Train_loss: 0.000109
+Epoch [179/199], Train_loss: 0.000108
+Epoch [180/199], Train_loss: 0.000109
+Epoch [181/199], Train_loss: 0.000109
+Epoch [182/199], Train_loss: 0.000121
+Epoch [183/199], Train_loss: 0.000124
+Epoch [184/199], Train_loss: 0.000112
+Epoch [185/199], Train_loss: 0.000110
+Epoch [186/199], Train_loss: 0.000109
+Epoch [187/199], Train_loss: 0.000109
+Epoch [188/199], Train_loss: 0.000109
+Epoch [189/199], Train_loss: 0.000109
+Epoch [190/199], Train_loss: 0.000108
+Epoch [191/199], Train_loss: 0.000108
+Epoch [192/199], Train_loss: 0.000108
+Epoch [193/199], Train_loss: 0.000108
+Epoch [194/199], Train_loss: 0.000108
+Epoch [195/199], Train_loss: 0.000108
+Epoch [196/199], Train_loss: 0.000108
+Epoch [197/199], Train_loss: 0.000107
+Epoch [198/199], Train_loss: 0.000107
+Epoch [199/199], Train_loss: 0.000107
+Finished Training
+model_path: model/paper3_Drain2_tau075/best.pt
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau075/test_normal): 552473
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau075/abnormal): 16838
+model_path: model/paper3_Drain2_tau07/best.pt
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau07/test_normal): 552473
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau07/abnormal): 16838
+dir= ../logparser/demo/paper3_Drain_2_result_tau07/ count=1000 TP=809
+dir= ../logparser/demo/paper3_Drain_2_result_tau07/ count=2000 TP=1631
+dir= ../logparser/demo/paper3_Drain_2_result_tau07/ count=3000 TP=2468
+dir= ../logparser/demo/paper3_Drain_2_result_tau07/ count=4000 TP=3297
+dir= ../logparser/demo/paper3_Drain_2_result_tau07/ count=5000 TP=4114
+dir= ../logparser/demo/paper3_Drain_2_result_tau07/ count=6000 TP=4955
+dir= ../logparser/demo/paper3_Drain_2_result_tau07/ count=7000 TP=5753
+dir= ../logparser/demo/paper3_Drain_2_result_tau07/ count=8000 TP=6612
+dir= ../logparser/demo/paper3_Drain_2_result_tau07/ count=9000 TP=7451
+model_path: model/paper3_Drain/best.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:20
+model_path: model/paper3_Drain/best.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:40
+model_path: model/paper3_Drain/best.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:30
+model_path: model/paper3_Drain/best.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:10
+model_path: model/paper3_Drain/best.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:15
+model_path: model/paper3_Drain/best.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:25
+model_path: model/paper3_Drain/best.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:20
+model_path: model/paper3_Drain/best.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 11049
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+model_path: model/paper3_Drain/best.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:10
+model_path: model/paper3_Drain/best.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 11049
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=812
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1626
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2457
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=3297
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=4130
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=4924
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=5730
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=6557
+dir= ../logparser/demo/paper3_Drain_result/ count=9000 TP=7367
+dir= ../logparser/demo/paper3_Drain_result/ count=10000 TP=8172
+dir= ../logparser/demo/paper3_Drain_result/ count=11000 TP=9005
+model_path: model/paper3_Drain/best.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 9043, false negative (FN): 0, Precision: 3.582%, Recall: 100.000%, F1-measure: 6.917%
+Finished Predicting
+elapsed_time: 111.75550603866577
+model_path: model/paper3_Drain/best.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:15
+model_path: model/paper3_Drain/best.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 11049
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=810
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1624
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2455
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=3293
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=4125
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=4916
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=5722
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=6547
+dir= ../logparser/demo/paper3_Drain_result/ count=9000 TP=7353
+dir= ../logparser/demo/paper3_Drain_result/ count=10000 TP=8157
+dir= ../logparser/demo/paper3_Drain_result/ count=11000 TP=8988
+model_path: model/paper3_Drain/best.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 9026, false negative (FN): 2, Precision: 3.568%, Recall: 99.405%, F1-measure: 6.889%
+Finished Predicting
+elapsed_time: 91.22776126861572
+model_path: model/paper3_Drain/best.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:20
+model_path: model/paper3_Drain/best.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 11049
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=810
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1624
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2455
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=3293
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=4124
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=4915
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=5721
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=6546
+dir= ../logparser/demo/paper3_Drain_result/ count=9000 TP=7352
+dir= ../logparser/demo/paper3_Drain_result/ count=10000 TP=8156
+dir= ../logparser/demo/paper3_Drain_result/ count=11000 TP=8987
+model_path: model/paper3_Drain/best.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 9025, false negative (FN): 2, Precision: 3.569%, Recall: 99.405%, F1-measure: 6.890%
+Finished Predicting
+elapsed_time: 91.79528164863586
+model_path: model/paper3_Drain/best.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:25
+model_path: model/paper3_Drain/best.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 11049
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=386
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=769
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=1161
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=1537
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=1933
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=2325
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=2728
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=3101
+dir= ../logparser/demo/paper3_Drain_result/ count=9000 TP=3484
+dir= ../logparser/demo/paper3_Drain_result/ count=10000 TP=3839
+dir= ../logparser/demo/paper3_Drain_result/ count=11000 TP=4228
+model_path: model/paper3_Drain/best.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 4241, false negative (FN): 67, Precision: 5.965%, Recall: 80.060%, F1-measure: 11.102%
+Finished Predicting
+elapsed_time: 155.64002561569214
+model_path: model/paper3_Drain/best.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:30
+model_path: model/paper3_Drain/best.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 11049
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=344
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=682
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=1031
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=1356
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=1708
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=2047
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=2394
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=2724
+dir= ../logparser/demo/paper3_Drain_result/ count=9000 TP=3058
+dir= ../logparser/demo/paper3_Drain_result/ count=10000 TP=3370
+dir= ../logparser/demo/paper3_Drain_result/ count=11000 TP=3720
+model_path: model/paper3_Drain/best.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 3732, false negative (FN): 86, Precision: 6.278%, Recall: 74.405%, F1-measure: 11.579%
+Finished Predicting
+elapsed_time: 161.13356614112854
+model_path: model/paper3_Drain/best.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:40
+model_path: model/paper3_Drain/best.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 11049
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=238
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=478
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=721
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=953
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=1213
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=1455
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=1714
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=1968
+dir= ../logparser/demo/paper3_Drain_result/ count=9000 TP=2212
+dir= ../logparser/demo/paper3_Drain_result/ count=10000 TP=2427
+dir= ../logparser/demo/paper3_Drain_result/ count=11000 TP=2675
+model_path: model/paper3_Drain/best.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 2684, false negative (FN): 215, Precision: 4.314%, Recall: 36.012%, F1-measure: 7.705%
+Finished Predicting
+elapsed_time: 163.8838975429535
+model_path: model/paper3_Drain/90.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:25
+model_path: model/paper3_Drain/90.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 11049
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=443
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=891
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=1344
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=1767
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=2206
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=2649
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=3103
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=3537
+dir= ../logparser/demo/paper3_Drain_result/ count=9000 TP=3966
+dir= ../logparser/demo/paper3_Drain_result/ count=10000 TP=4393
+dir= ../logparser/demo/paper3_Drain_result/ count=11000 TP=4831
+model_path: model/paper3_Drain/90.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 4848, false negative (FN): 54, Precision: 5.497%, Recall: 83.929%, F1-measure: 10.318%
+Finished Predicting
+elapsed_time: 168.54457259178162
+model_path: model/paper3_Drain/100.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:25
+model_path: model/paper3_Drain/100.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 11049
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=447
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=896
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=1348
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=1774
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=2219
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=2664
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=3121
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=3557
+dir= ../logparser/demo/paper3_Drain_result/ count=9000 TP=3987
+dir= ../logparser/demo/paper3_Drain_result/ count=10000 TP=4413
+dir= ../logparser/demo/paper3_Drain_result/ count=11000 TP=4856
+model_path: model/paper3_Drain/100.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 4873, false negative (FN): 54, Precision: 5.470%, Recall: 83.929%, F1-measure: 10.271%
+Finished Predicting
+elapsed_time: 152.066654920578
+model_path: model/paper3_Drain/110.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:25
+model_path: model/paper3_Drain/110.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 11049
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=808
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1616
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2443
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=3278
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=4105
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=4894
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=5694
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=6518
+dir= ../logparser/demo/paper3_Drain_result/ count=9000 TP=7322
+dir= ../logparser/demo/paper3_Drain_result/ count=10000 TP=8123
+dir= ../logparser/demo/paper3_Drain_result/ count=11000 TP=8950
+model_path: model/paper3_Drain/110.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 8988, false negative (FN): 3, Precision: 3.573%, Recall: 99.107%, F1-measure: 6.897%
+Finished Predicting
+elapsed_time: 119.69356560707092
+model_path: model/paper3_Drain/120.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:25
+model_path: model/paper3_Drain/120.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 11049
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=808
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1615
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2441
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=3276
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=4103
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=4891
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=5691
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=6515
+dir= ../logparser/demo/paper3_Drain_result/ count=9000 TP=7319
+dir= ../logparser/demo/paper3_Drain_result/ count=10000 TP=8119
+dir= ../logparser/demo/paper3_Drain_result/ count=11000 TP=8946
+model_path: model/paper3_Drain/120.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 8984, false negative (FN): 3, Precision: 3.574%, Recall: 99.107%, F1-measure: 6.899%
+Finished Predicting
+elapsed_time: 127.47971272468567
+model_path: model/paper3_Drain/130.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:25
+model_path: model/paper3_Drain/130.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 11049
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=809
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1620
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2448
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=3285
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=4112
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=4901
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=5704
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=6527
+dir= ../logparser/demo/paper3_Drain_result/ count=9000 TP=7331
+dir= ../logparser/demo/paper3_Drain_result/ count=10000 TP=8132
+dir= ../logparser/demo/paper3_Drain_result/ count=11000 TP=8962
+model_path: model/paper3_Drain/130.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 9000, false negative (FN): 3, Precision: 3.568%, Recall: 99.107%, F1-measure: 6.888%
+Finished Predicting
+elapsed_time: 123.55938172340393
+model_path: model/paper3_Drain/140.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:25
+model_path: model/paper3_Drain/140.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 11049
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=789
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1587
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2398
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=3213
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=4025
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=4794
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=5576
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=6382
+dir= ../logparser/demo/paper3_Drain_result/ count=9000 TP=7174
+dir= ../logparser/demo/paper3_Drain_result/ count=10000 TP=7965
+dir= ../logparser/demo/paper3_Drain_result/ count=11000 TP=8779
+model_path: model/paper3_Drain/140.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 8817, false negative (FN): 7, Precision: 3.597%, Recall: 97.917%, F1-measure: 6.939%
+Finished Predicting
+elapsed_time: 133.62241077423096
+model_path: model/paper3_Drain/150.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:25
+model_path: model/paper3_Drain/150.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 11049
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=399
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=800
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=1207
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=1580
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=1982
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=2382
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=2784
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=3173
+dir= ../logparser/demo/paper3_Drain_result/ count=9000 TP=3560
+dir= ../logparser/demo/paper3_Drain_result/ count=10000 TP=3932
+dir= ../logparser/demo/paper3_Drain_result/ count=11000 TP=4336
+model_path: model/paper3_Drain/150.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 4351, false negative (FN): 64, Precision: 5.884%, Recall: 80.952%, F1-measure: 10.970%
+Finished Predicting
+elapsed_time: 163.83630752563477
+model_path: model/paper3_Drain/160.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:25
+model_path: model/paper3_Drain/160.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 11049
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=432
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=871
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=1309
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=1719
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=2153
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=2581
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=3022
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=3442
+dir= ../logparser/demo/paper3_Drain_result/ count=9000 TP=3862
+dir= ../logparser/demo/paper3_Drain_result/ count=10000 TP=4278
+dir= ../logparser/demo/paper3_Drain_result/ count=11000 TP=4707
+model_path: model/paper3_Drain/160.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 4724, false negative (FN): 55, Precision: 5.614%, Recall: 83.631%, F1-measure: 10.522%
+Finished Predicting
+elapsed_time: 150.04829502105713
+model_path: model/paper3_Drain/170.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:25
+model_path: model/paper3_Drain/170.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 11049
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=439
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=883
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=1320
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=1731
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=2172
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=2606
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=3052
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=3475
+dir= ../logparser/demo/paper3_Drain_result/ count=9000 TP=3898
+dir= ../logparser/demo/paper3_Drain_result/ count=10000 TP=4314
+dir= ../logparser/demo/paper3_Drain_result/ count=11000 TP=4746
+model_path: model/paper3_Drain/170.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 4763, false negative (FN): 55, Precision: 5.571%, Recall: 83.631%, F1-measure: 10.446%
+Finished Predicting
+elapsed_time: 140.60882878303528
+model_path: model/paper3_Drain/180.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:25
+model_path: model/paper3_Drain/180.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 11049
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=428
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=867
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=1303
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=1709
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=2143
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=2569
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=3010
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=3428
+dir= ../logparser/demo/paper3_Drain_result/ count=9000 TP=3848
+dir= ../logparser/demo/paper3_Drain_result/ count=10000 TP=4265
+dir= ../logparser/demo/paper3_Drain_result/ count=11000 TP=4693
+model_path: model/paper3_Drain/180.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 4710, false negative (FN): 57, Precision: 5.592%, Recall: 83.036%, F1-measure: 10.479%
+Finished Predicting
+elapsed_time: 156.12384581565857
+model_path: model/paper3_Drain/190.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:25
+model_path: model/paper3_Drain/190.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 11049
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=394
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=783
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=1180
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=1563
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=1966
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=2369
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=2784
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=3169
+dir= ../logparser/demo/paper3_Drain_result/ count=9000 TP=3560
+dir= ../logparser/demo/paper3_Drain_result/ count=10000 TP=3924
+dir= ../logparser/demo/paper3_Drain_result/ count=11000 TP=4321
+model_path: model/paper3_Drain/190.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 4335, false negative (FN): 66, Precision: 5.863%, Recall: 80.357%, F1-measure: 10.929%
+Finished Predicting
+elapsed_time: 142.54523730278015
+Number of sessions(../logparser/demo/paper3_Drain_result/train_normal): 111644
+Number of seqs(../logparser/demo/paper3_Drain_result/train_normal): 1062746
+model_path: model/paper3_Drain/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:25
+model_path: model/paper3_Drain/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 8931
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=813
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1640
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2442
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=3259
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=4066
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=4862
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=5668
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=6485
+dir=../logparser/demo/paper3_Drain_result/ count=9000 TP=67
+model_path: model/paper3_Drain/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 7248, false negative (FN): 2, Precision: 4.405%, Recall: 99.405%, F1-measure: 8.436%
+Finished Predicting
+elapsed_time: 102.23401117324829
+model_path: model/paper3_Drain/25.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:25
+model_path: model/paper3_Drain/25.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 8931
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=810
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1633
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2438
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=3258
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=4067
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=4862
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=5670
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=6486
+dir=../logparser/demo/paper3_Drain_result/ count=9000 TP=67
+model_path: model/paper3_Drain/25.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 7251, false negative (FN): 2, Precision: 4.403%, Recall: 99.405%, F1-measure: 8.433%
+Finished Predicting
+elapsed_time: 106.86110424995422
+model_path: model/paper3_Drain/30.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:25
+model_path: model/paper3_Drain/30.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 8931
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=815
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1639
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2445
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=3268
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=4081
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=4878
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=5687
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=6509
+dir=../logparser/demo/paper3_Drain_result/ count=9000 TP=67
+model_path: model/paper3_Drain/30.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 7274, false negative (FN): 2, Precision: 4.390%, Recall: 99.405%, F1-measure: 8.409%
+Finished Predicting
+elapsed_time: 102.70746207237244
+model_path: model/paper3_Drain/35.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:25
+model_path: model/paper3_Drain/35.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 8931
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=817
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1645
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2453
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=3278
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=4091
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=4893
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=5706
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=6530
+dir=../logparser/demo/paper3_Drain_result/ count=9000 TP=66
+model_path: model/paper3_Drain/35.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 7297, false negative (FN): 3, Precision: 4.364%, Recall: 99.107%, F1-measure: 8.361%
+Finished Predicting
+elapsed_time: 103.81925630569458
+model_path: model/paper3_Drain/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:25
+model_path: model/paper3_Drain/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 8931
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=813
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1640
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2442
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=3259
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=4066
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=4862
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=5668
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=6485
+dir=../logparser/demo/paper3_Drain_result/ count=9000 TP=67
+model_path: model/paper3_Drain/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 7248, false negative (FN): 2, Precision: 4.405%, Recall: 99.405%, F1-measure: 8.436%
+Finished Predicting
+elapsed_time: 125.42839431762695
+model_path: model/paper3_Drain/25.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:25
+model_path: model/paper3_Drain/25.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 8931
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+model_path: model/paper3_Drain/30.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:30
+model_path: model/paper3_Drain/30.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 8931
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=786
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1581
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2358
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=3158
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=3944
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=4711
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=5497
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=6283
+dir=../logparser/demo/paper3_Drain_result/ count=9000 TP=66
+model_path: model/paper3_Drain/30.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 7020, false negative (FN): 10, Precision: 4.438%, Recall: 97.024%, F1-measure: 8.487%
+Finished Predicting
+elapsed_time: 124.54195785522461
+model_path: model/paper3_Drain/30.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:35
+model_path: model/paper3_Drain/30.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 8931
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=698
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1411
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2101
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=2822
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=3521
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=4216
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=4923
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=5625
+dir=../logparser/demo/paper3_Drain_result/ count=9000 TP=64
+model_path: model/paper3_Drain/30.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 6283, false negative (FN): 26, Precision: 4.702%, Recall: 92.262%, F1-measure: 8.948%
+Finished Predicting
+elapsed_time: 136.59408736228943
+model_path: model/paper3_Drain/30.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:40
+model_path: model/paper3_Drain/30.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 8931
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=572
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1136
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=1706
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=2281
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=2824
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=3387
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=3939
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=4494
+dir=../logparser/demo/paper3_Drain_result/ count=9000 TP=55
+model_path: model/paper3_Drain/30.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 5023, false negative (FN): 58, Precision: 5.244%, Recall: 82.738%, F1-measure: 9.863%
+Finished Predicting
+elapsed_time: 193.07693481445312
+model_path: model/paper3_Drain/30.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+num_candidates:45
+model_path: model/paper3_Drain/30.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 8931
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=69
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=118
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=191
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 TP=263
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 TP=326
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 TP=408
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 TP=462
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 TP=517
+dir=../logparser/demo/paper3_Drain_result/ count=9000 TP=27
+model_path: model/paper3_Drain/30.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain
+false positive (FP): 591, false negative (FN): 182, Precision: 20.671%, Recall: 45.833%, F1-measure: 28.492%
+Finished Predicting
+elapsed_time: 212.85962915420532
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:25
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=828
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1646
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2470
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+false positive (FP): 2756, false negative (FN): 23, Precision: 10.199%, Recall: 93.155%, F1-measure: 18.385%
+Finished Predicting
+elapsed_time: 32.92444205284119
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:30
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=828
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1646
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2470
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+false positive (FP): 2756, false negative (FN): 63, Precision: 9.013%, Recall: 81.250%, F1-measure: 16.226%
+Finished Predicting
+elapsed_time: 37.75666165351868
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:35
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:20
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=828
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1647
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2471
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+false positive (FP): 2757, false negative (FN): 0, Precision: 10.863%, Recall: 100.000%, F1-measure: 19.598%
+Finished Predicting
+elapsed_time: 33.309897661209106
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:15
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=837
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1666
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2509
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+false positive (FP): 2802, false negative (FN): 0, Precision: 10.707%, Recall: 100.000%, F1-measure: 19.344%
+Finished Predicting
+elapsed_time: 31.374630212783813
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:10
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=841
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1675
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2520
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+false positive (FP): 2813, false negative (FN): 0, Precision: 10.670%, Recall: 100.000%, F1-measure: 19.283%
+Finished Predicting
+elapsed_time: 26.20203447341919
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:5
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=995
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1993
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2989
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+false positive (FP): 3337, false negative (FN): 0, Precision: 9.148%, Recall: 100.000%, F1-measure: 16.762%
+Finished Predicting
+elapsed_time: 16.336822271347046
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:30
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=828
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1646
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2470
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=273 false positive (FP): 2756, false negative (FN): 63, Precision: 9.013%, Recall: 81.250%, F1-measure: 16.226%
+Finished Predicting
+elapsed_time: 36.832181215286255
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:35
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=825
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1640
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2462
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=241 false positive (FP): 2747, false negative (FN): 95, Precision: 8.066%, Recall: 71.726%, F1-measure: 14.501%
+Finished Predicting
+elapsed_time: 49.08312463760376
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:40
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=809
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=1610
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=2415
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=219 false positive (FP): 2698, false negative (FN): 117, Precision: 7.508%, Recall: 65.179%, F1-measure: 13.464%
+Finished Predicting
+elapsed_time: 49.23275423049927
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:45
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 TP=355
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 TP=736
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 TP=1101
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=137 false positive (FP): 1216, false negative (FN): 199, Precision: 10.126%, Recall: 40.774%, F1-measure: 16.223%
+Finished Predicting
+elapsed_time: 57.338433027267456
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:30
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:20
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 FP=0
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=336 false positive (FP): 0, false negative (FN): 0, Precision: 100.000%, Recall: 100.000%, F1-measure: 100.000%
+Finished Predicting
+elapsed_time: 79.60301423072815
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:15
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 FP=0
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=336 false positive (FP): 0, false negative (FN): 0, Precision: 100.000%, Recall: 100.000%, F1-measure: 100.000%
+Finished Predicting
+elapsed_time: 73.1458568572998
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:10
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 FP=0
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=336 false positive (FP): 0, false negative (FN): 0, Precision: 100.000%, Recall: 100.000%, F1-measure: 100.000%
+Finished Predicting
+elapsed_time: 75.14648747444153
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:5
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 FP=0
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:20
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:15
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:10
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:5
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:25
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:15
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 FP=0
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=335 false positive (FP): 0, false negative (FN): 1, Precision: 100.000%, Recall: 99.702%, F1-measure: 99.851%
+Finished Predicting
+elapsed_time: 211.11104035377502
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:10
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 FP=0
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=336 false positive (FP): 0, false negative (FN): 0, Precision: 100.000%, Recall: 100.000%, F1-measure: 100.000%
+Finished Predicting
+elapsed_time: 224.25668740272522
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:5
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:15
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 FP=0
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=335 false positive (FP): 0, false negative (FN): 1, Precision: 100.000%, Recall: 99.702%, F1-measure: 99.851%
+Finished Predicting
+elapsed_time: 157.6308114528656
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:10
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 FP=0
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=336 false positive (FP): 0, false negative (FN): 0, Precision: 100.000%, Recall: 100.000%, F1-measure: 100.000%
+Finished Predicting
+elapsed_time: 160.99386739730835
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:5
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 FP=0
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=336 false positive (FP): 0, false negative (FN): 0, Precision: 100.000%, Recall: 100.000%, F1-measure: 100.000%
+Finished Predicting
+elapsed_time: 152.98150515556335
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:25
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 FP=0
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=217 false positive (FP): 0, false negative (FN): 119, Precision: 100.000%, Recall: 64.583%, F1-measure: 78.481%
+Finished Predicting
+elapsed_time: 149.90642786026
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:30
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 FP=0
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=217 false positive (FP): 0, false negative (FN): 119, Precision: 100.000%, Recall: 64.583%, F1-measure: 78.481%
+Finished Predicting
+elapsed_time: 150.38936305046082
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:35
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+model_path: model/paper3_Drain_result/14.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:20
+model_path: model/paper3_Drain_result/14.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 FP=0
+model_path: model/paper3_Drain_result/14.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=223 false positive (FP): 0, false negative (FN): 113, Precision: 100.000%, Recall: 66.369%, F1-measure: 79.785%
+Finished Predicting
+elapsed_time: 140.97882866859436
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:16
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:16
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 FP=0
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=335 false positive (FP): 0, false negative (FN): 1, Precision: 100.000%, Recall: 99.702%, F1-measure: 99.851%
+Finished Predicting
+elapsed_time: 166.1635081768036
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:17
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 FP=0
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=334 false positive (FP): 0, false negative (FN): 2, Precision: 100.000%, Recall: 99.405%, F1-measure: 99.701%
+Finished Predicting
+elapsed_time: 140.53300380706787
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:18
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 FP=0
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=274 false positive (FP): 0, false negative (FN): 62, Precision: 100.000%, Recall: 81.548%, F1-measure: 89.836%
+Finished Predicting
+elapsed_time: 147.27247095108032
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:19
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 3349
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 336
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau07/train_normal): 390756
+Number of seqs(../logparser/demo/paper3_Drain_2_result_tau07/train_normal): 3719171
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau07/train_normal): 390756
+Number of seqs(../logparser/demo/paper3_Drain_2_result_tau07/train_normal): 3719171
+Number of sessions(../logparser/demo/paper3_Spell_result/train_normal): 390756
+Number of seqs(../logparser/demo/paper3_Spell_result/train_normal): 3719171
+Epoch [1/30], Train_loss: 0.000287
+Epoch [2/30], Train_loss: 0.000123
+Epoch [3/30], Train_loss: 0.000113
+Epoch [4/30], Train_loss: 0.000108
+Epoch [5/30], Train_loss: 0.000105
+Epoch [6/30], Train_loss: 0.000102
+Epoch [7/30], Train_loss: 0.000100
+Epoch [8/30], Train_loss: 0.000099
+Epoch [9/30], Train_loss: 0.000100
+Epoch [10/30], Train_loss: 0.000098
+Epoch [11/30], Train_loss: 0.000098
+Epoch [12/30], Train_loss: 0.000097
+Epoch [13/30], Train_loss: 0.000096
+Epoch [14/30], Train_loss: 0.000101
+Epoch [15/30], Train_loss: 0.000097
+Epoch [16/30], Train_loss: 0.000096
+Epoch [17/30], Train_loss: 0.000095
+Epoch [18/30], Train_loss: 0.000095
+Epoch [19/30], Train_loss: 0.000095
+Epoch [20/30], Train_loss: 0.000095
+Epoch [21/30], Train_loss: 0.000094
+Epoch [22/30], Train_loss: 0.000094
+Epoch [23/30], Train_loss: 0.000094
+Epoch [24/30], Train_loss: 0.000093
+Epoch [25/30], Train_loss: 0.000093
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau08/train_normal): 390756
+Number of seqs(../logparser/demo/paper3_Drain_2_result_tau08/train_normal): 3719171
+Epoch [1/30], Train_loss: 0.000297
+Epoch [2/30], Train_loss: 0.000131
+Epoch [3/30], Train_loss: 0.000112
+Epoch [4/30], Train_loss: 0.000112
+Epoch [5/30], Train_loss: 0.000102
+Epoch [6/30], Train_loss: 0.000100
+Epoch [7/30], Train_loss: 0.000099
+Epoch [8/30], Train_loss: 0.000098
+Epoch [9/30], Train_loss: 0.000097
+Epoch [10/30], Train_loss: 0.000096
+Epoch [11/30], Train_loss: 0.000097
+Epoch [12/30], Train_loss: 0.000096
+Epoch [13/30], Train_loss: 0.000095
+Epoch [14/30], Train_loss: 0.000096
+Epoch [15/30], Train_loss: 0.000095
+Epoch [16/30], Train_loss: 0.000094
+Epoch [17/30], Train_loss: 0.000094
+Epoch [18/30], Train_loss: 0.000094
+Epoch [19/30], Train_loss: 0.000094
+Epoch [20/30], Train_loss: 0.000094
+Epoch [21/30], Train_loss: 0.000094
+Epoch [22/30], Train_loss: 0.000093
+Epoch [23/30], Train_loss: 0.000093
+Epoch [24/30], Train_loss: 0.000093
+Epoch [25/30], Train_loss: 0.000093
+Number of sessions(../logparser/demo/paper3_SHISO_result/train_normal): 390756
+Number of seqs(../logparser/demo/paper3_SHISO_result/train_normal): 3719171
+Epoch [1/30], Train_loss: 0.000214
+Epoch [2/30], Train_loss: 0.000122
+Epoch [3/30], Train_loss: 0.000110
+Epoch [4/30], Train_loss: 0.000105
+Epoch [5/30], Train_loss: 0.000101
+Epoch [6/30], Train_loss: 0.000100
+Epoch [7/30], Train_loss: 0.000098
+Epoch [8/30], Train_loss: 0.000098
+Epoch [9/30], Train_loss: 0.000097
+Epoch [10/30], Train_loss: 0.000096
+Epoch [11/30], Train_loss: 0.000096
+Epoch [12/30], Train_loss: 0.000095
+Epoch [13/30], Train_loss: 0.000095
+Epoch [14/30], Train_loss: 0.000095
+Epoch [15/30], Train_loss: 0.000094
+Epoch [16/30], Train_loss: 0.000094
+Epoch [17/30], Train_loss: 0.000094
+Epoch [18/30], Train_loss: 0.000094
+Epoch [19/30], Train_loss: 0.000094
+Epoch [20/30], Train_loss: 0.000094
+Epoch [21/30], Train_loss: 0.000094
+Epoch [22/30], Train_loss: 0.000093
+Epoch [23/30], Train_loss: 0.000093
+Epoch [24/30], Train_loss: 0.000093
+Epoch [25/30], Train_loss: 0.000093
+Epoch [26/30], Train_loss: 0.000093
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau09/train_normal): 390756
+Number of seqs(../logparser/demo/paper3_Drain_2_result_tau09/train_normal): 3719171
+Epoch [1/30], Train_loss: 0.000295
+Epoch [2/30], Train_loss: 0.000125
+Epoch [3/30], Train_loss: 0.000113
+Epoch [4/30], Train_loss: 0.000120
+Epoch [5/30], Train_loss: 0.000105
+Epoch [6/30], Train_loss: 0.000110
+Epoch [7/30], Train_lomodel_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:18
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 16746
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 1683
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=9000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=10000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=11000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=12000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=13000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=14000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=15000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=16000 FP=0
+dir=../logparser/demo/paper3_Drain_result/ count=17000 TP=200
+dir=../logparser/demo/paper3_Drain_result/ count=18000 TP=991
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=1344 false positive (FP): 0, false negative (FN): 339, Precision: 100.000%, Recall: 79.857%, F1-measure: 88.801%
+Finished Predicting
+elapsed_time: 768.5741972923279
+model_path: model/paper3_Drain_2_result_tau07/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau07/
+model_dir:paper3_Drain_2_result_tau07
+num_candidates:18
+model_path: model/paper3_Drain_2_result_tau07/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau08/
+model_dir:paper3_Drain2_tau08
+num_candidates:18
+model_path: model/paper3_Drain_2_result_tau07/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau09/
+model_dir:paper3_Drain2_tau09
+num_candidates:18
+model_path: model/paper3_Drain_2_result_tau07/15.pt
+dataset_dir:../logparser/demo/paper3_SHISO_result/
+model_dir:paper3_SHISO_result
+num_candidates:18
+model_path: model/paper3_Drain_2_result_tau07/15.pt
+dataset_dir:../logparser/demo/paper3_Spell_result/
+model_dir:paper3_Spell_result
+num_candidates:18
+model_path: model/paper3_Drain_2_result_tau07/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau09/
+model_dir:paper3_Drain2_tau09
+num_candidates:18
+model_path: model/paper3_Drain_2_result_tau07/15.pt
+dataset_dir:../logparser/demo/paper3_SHISO_result/
+model_dir:paper3_SHISO_result
+num_candidates:18
+model_path: model/paper3_Drain_2_result_tau07/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau08/
+model_dir:paper3_Drain2_tau08
+num_candidates:18
+model_path: model/paper3_Drain_2_result_tau07/15.pt
+dataset_dir:../logparser/demo/paper3_Spell_result/
+model_dir:paper3_Spell_result
+num_candidates:18
+model_path: model/paper3_Drain2_tau08/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau08/
+model_dir:paper3_Drain2_tau08
+num_candidates:18
+model_path: model/paper3_Drain2_tau08/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau08/simple_test_normal): 16746
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau08/simple_abnormal): 1683
+dir= ../logparser/demo/paper3_Drain_2_result_tau08/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau08/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau08/ count=3000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau08/ count=4000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau08/ count=5000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau08/ count=6000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau08/ count=7000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau08/ count=8000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau08/ count=9000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau08/ count=10000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau08/ count=11000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau08/ count=12000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau08/ count=13000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau08/ count=14000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau08/ count=15000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau08/ count=16000 FP=0
+dir=../logparser/demo/paper3_Drain_2_result_tau08/ count=17000 TP=253
+dir=../logparser/demo/paper3_Drain_2_result_tau08/ count=18000 TP=1246
+model_path: model/paper3_Drain2_tau08/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau08/
+model_dir:paper3_Drain2_tau08
+tp=1673 false positive (FP): 0, false negative (FN): 10, Precision: 100.000%, Recall: 99.406%, F1-measure: 99.702%
+Finished Predicting
+elapsed_time: 3068.015116453171
+model_path: model/paper3_Spell_result/15.pt
+dataset_dir:../logparser/demo/paper3_Spell_result/
+model_dir:paper3_Spell_result
+num_candidates:18
+model_path: model/paper3_Spell_result/15.pt
+Number of sessions(../logparser/demo/paper3_Spell_result/simple_test_normal): 16746
+Number of sessions(../logparser/demo/paper3_Spell_result/simple_abnormal): 1683
+dir= ../logparser/demo/paper3_Spell_result/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Spell_result/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Spell_result/ count=3000 FP=0
+dir= ../logparser/demo/paper3_Spell_result/ count=4000 FP=0
+dir= ../logparser/demo/paper3_Spell_result/ count=5000 FP=0
+dir= ../logparser/demo/paper3_Spell_result/ count=6000 FP=0
+dir= ../logparser/demo/paper3_Spell_result/ count=7000 FP=0
+dir= ../logparser/demo/paper3_Spell_result/ count=8000 FP=0
+dir= ../logparser/demo/paper3_Spell_result/ count=9000 FP=0
+dir= ../logparser/demo/paper3_Spell_result/ count=10000 FP=0
+dir= ../logparser/demo/paper3_Spell_result/ count=11000 FP=0
+dir= ../logparser/demo/paper3_Spell_result/ count=12000 FP=0
+dir= ../logparser/demo/paper3_Spell_result/ count=13000 FP=0
+dir= ../logparser/demo/paper3_Spell_result/ count=14000 FP=0
+dir= ../logparser/demo/paper3_Spell_result/ count=15000 FP=0
+dir= ../logparser/demo/paper3_Spell_result/ count=16000 FP=0
+dir=../logparser/demo/paper3_Spell_result/ count=17000 TP=253
+dir=../logparser/demo/paper3_Spell_result/ count=18000 TP=1249
+model_path: model/paper3_Spell_result/15.pt
+dataset_dir:../logparser/demo/paper3_Spell_result/
+model_dir:paper3_Spell_result
+tp=1677 false positive (FP): 0, false negative (FN): 6, Precision: 100.000%, Recall: 99.643%, F1-measure: 99.821%
+Finished Predicting
+elapsed_time: 3735.2483682632446
+model_path: model/paper3_SHISO_result/15.pt
+dataset_dir:../logparser/demo/paper3_SHISO_result/
+model_dir:paper3_SHISO_result
+num_candidates:18
+model_path: model/paper3_SHISO_result/15.pt
+Number of sessions(../logparser/demo/paper3_SHISO_result/simple_test_normal): 16746
+Number of sessions(../logparser/demo/paper3_SHISO_result/simple_abnormal): 1683
+dir= ../logparser/demo/paper3_SHISO_result/ count=1000 FP=0
+dir= ../logparser/demo/paper3_SHISO_result/ count=2000 FP=0
+dir= ../logparser/demo/paper3_SHISO_result/ count=3000 FP=0
+dir= ../logparser/demo/paper3_SHISO_result/ count=4000 FP=0
+dir= ../logparser/demo/paper3_SHISO_result/ count=5000 FP=0
+dir= ../logparser/demo/paper3_SHISO_result/ count=6000 FP=0
+dir= ../logparser/demo/paper3_SHISO_result/ count=7000 FP=0
+dir= ../logparser/demo/paper3_SHISO_result/ count=8000 FP=0
+dir= ../logparser/demo/paper3_SHISO_result/ count=9000 FP=0
+dir= ../logparser/demo/paper3_SHISO_result/ count=10000 FP=0
+dir= ../logparser/demo/paper3_SHISO_result/ count=11000 FP=0
+dir= ../logparser/demo/paper3_SHISO_result/ count=12000 FP=0
+dir= ../logparser/demo/paper3_SHISO_result/ count=13000 FP=0
+dir= ../logparser/demo/paper3_SHISO_result/ count=14000 FP=0
+dir= ../logparser/demo/paper3_SHISO_result/ count=15000 FP=0
+dir= ../logparser/demo/paper3_SHISO_result/ count=16000 FP=0
+dir=../logparser/demo/paper3_SHISO_result/ count=17000 TP=253
+dir=../logparser/demo/paper3_SHISO_result/ count=18000 TP=1253
+model_path: model/paper3_SHISO_result/15.pt
+dataset_dir:../logparser/demo/paper3_SHISO_result/
+model_dir:paper3_SHISO_result
+tp=1683 false positive (FP): 0, false negative (FN): 0, Precision: 100.000%, Recall: 100.000%, F1-measure: 100.000%
+Finished Predicting
+elapsed_time: 3888.329964160919
+model_path: model/paper3_Drain2_tau09/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau09/
+model_dir:paper3_Drain2_tau09
+num_candidates:18
+model_path: model/paper3_Drain2_tau09/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau09/simple_test_normal): 16746
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau09/simple_abnormal): 1683
+dir= ../logparser/demo/paper3_Drain_2_result_tau09/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau09/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau09/ count=3000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau09/ count=4000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau09/ count=5000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau09/ count=6000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau09/ count=7000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau09/ count=8000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau09/ count=9000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau09/ count=10000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau09/ count=11000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau09/ count=12000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau09/ count=13000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau09/ count=14000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau09/ count=15000 FP=0
+dir= ../logparser/demo/paper3_Drain_2_result_tau09/ count=16000 FP=0
+dir=../logparser/demo/paper3_Drain_2_result_tau09/ count=17000 TP=253
+dir=../logparser/demo/paper3_Drain_2_result_tau09/ count=18000 TP=1247
+model_path: model/paper3_Drain2_tau09/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau09/
+model_dir:paper3_Drain2_tau09
+tp=1675 false positive (FP): 0, false negative (FN): 8, Precision: 100.000%, Recall: 99.525%, F1-measure: 99.762%
+Finished Predicting
+elapsed_time: 3895.934614419937
+model_path: model/paper3_Drain_2_result_tau07/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau07/
+model_dir:paper3_Drain_2_result_tau07
+num_candidates:18
+model_path: model/paper3_Drain2_tau09/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau09/
+model_dir:paper3_Drain2_tau09
+num_candidates:18
+model_path: model/paper3_Drain2_tau09/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau09/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau09/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_2_result_tau09/ count=1000 FP=544
+model_path: model/paper3_Drain2_tau09/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau09/
+model_dir:paper3_Drain2_tau09
+tp=168 false positive (FP): 940, false negative (FN): 0, Precision: 15.162%, Recall: 100.000%, F1-measure: 26.332%
+Finished Predicting
+elapsed_time: 480.2491092681885
+model_path: model/paper3_Drain2_tau08/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau08/
+model_dir:paper3_Drain2_tau08
+num_candidates:18
+model_path: model/paper3_Drain2_tau08/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau08/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau08/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_2_result_tau08/ count=1000 FP=512
+model_path: model/paper3_Drain2_tau08/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau08/
+model_dir:paper3_Drain2_tau08
+tp=167 false positive (FP): 883, false negative (FN): 1, Precision: 15.905%, Recall: 99.405%, F1-measure: 27.422%
+Finished Predicting
+elapsed_time: 505.7335922718048
+model_path: model/paper3_SHISO_result/15.pt
+dataset_dir:../logparser/demo/paper3_SHISO_result/
+model_dir:paper3_SHISO_result
+num_candidates:18
+model_path: model/paper3_SHISO_result/15.pt
+Number of sessions(../logparser/demo/paper3_SHISO_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_SHISO_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_SHISO_result/ count=1000 FP=732
+model_path: model/paper3_SHISO_result/15.pt
+dataset_dir:../logparser/demo/paper3_SHISO_result/
+model_dir:paper3_SHISO_result
+tp=168 false positive (FP): 1210, false negative (FN): 0, Precision: 12.192%, Recall: 100.000%, F1-measure: 21.734%
+Finished Predicting
+elapsed_time: 520.1175084114075
+model_path: model/paper3_Spell_result/15.pt
+dataset_dir:../logparser/demo/paper3_Spell_result/
+model_dir:paper3_Spell_result
+num_candidates:18
+model_path: model/paper3_Spell_result/15.pt
+Number of sessions(../logparser/demo/paper3_Spell_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Spell_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Spell_result/ count=1000 FP=529
+model_path: model/paper3_Spell_result/15.pt
+dataset_dir:../logparser/demo/paper3_Spell_result/
+model_dir:paper3_Spell_result
+tp=167 false positive (FP): 901, false negative (FN): 1, Precision: 15.637%, Recall: 99.405%, F1-measure: 27.023%
+Finished Predicting
+elapsed_time: 525.6619482040405
+model_path: model/paper3_Drain2_tau06/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau06/
+model_dir:paper3_Drain2_tau06
+num_candidates:18
+model_path: model/paper3_Drain2_tau06/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau06/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau06/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_2_result_tau06/ count=1000 FP=544
+model_path: model/paper3_Drain2_tau06/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau06/
+model_dir:paper3_Drain2_tau06
+tp=165 false positive (FP): 901, false negative (FN): 3, Precision: 15.478%, Recall: 98.214%, F1-measure: 26.742%
+Finished Predicting
+elapsed_time: 528.5080044269562
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:18
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=528
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=137 false positive (FP): 872, false negative (FN): 31, Precision: 13.578%, Recall: 81.548%, F1-measure: 23.280%
+Finished Predicting
+elapsed_time: 529.8451662063599
+Number of sessions(../logparser/demo/paper3_SHISO_result/train_normal): 390756
+Number of seqs(../logparser/demo/paper3_SHISO_result/train_normal): 515429
+Epoch [1/25], Train_loss: 0.000510
+Epoch [2/25], Train_loss: 0.000184
+Epoch [3/25], Train_loss: 0.000144
+Epoch [4/25], Train_loss: 0.000128
+Epoch [5/25], Train_loss: 0.000114
+Epoch [6/25], Train_loss: 0.000103
+Epoch [7/25], Train_loss: 0.000094
+Epoch [8/25], Train_loss: 0.000086
+Epoch [9/25], Train_loss: 0.000081
+Epoch [10/25], Train_loss: 0.000078
+Epoch [11/25], Train_loss: 0.000075
+Epoch [12/25], Train_loss: 0.000073
+Epoch [13/25], Train_loss: 0.000071
+Epoch [14/25], Train_loss: 0.000070
+Epoch [15/25], Train_loss: 0.000069
+Epoch [16/25], Train_loss: 0.000068
+Epoch [17/25], Train_loss: 0.000066
+Epoch [18/25], Train_loss: 0.000066
+Epoch [19/25], Train_loss: 0.000066
+Epoch [20/25], Train_loss: 0.000065
+Epoch [21/25], Train_loss: 0.000064
+Epoch [22/25], Train_loss: 0.000064
+Epoch [23/25], Train_loss: 0.000063
+Epoch [24/25], Train_loss: 0.000063
+Epoch [25/25], Train_loss: 0.000063
+Finished Training
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau06/train_normal): 390756
+Number of seqs(../logparser/demo/paper3_Drain_2_result_tau06/train_normal): 515429
+Epoch [1/25], Train_loss: 0.000569
+Epoch [2/25], Train_loss: 0.000262
+Epoch [3/25], Train_loss: 0.000161
+Epoch [4/25], Train_loss: 0.000122
+Epoch [5/25], Train_loss: 0.000106
+Epoch [6/25], Train_loss: 0.000098
+Epoch [7/25], Train_loss: 0.000092
+Epoch [8/25], Train_loss: 0.000087
+Epoch [9/25], Train_loss: 0.000082
+Epoch [10/25], Train_loss: 0.000078
+Epoch [11/25], Train_loss: 0.000076
+Epoch [12/25], Train_loss: 0.000073
+Epoch [13/25], Train_loss: 0.000072
+Epoch [14/25], Train_loss: 0.000069
+Epoch [15/25], Train_loss: 0.000068
+Epoch [16/25], Train_loss: 0.000067
+Epoch [17/25], Train_loss: 0.000066
+Epoch [18/25], Train_loss: 0.000065
+Epoch [19/25], Train_loss: 0.000064
+Epoch [20/25], Train_loss: 0.000063
+Epoch [21/25], Train_loss: 0.000063
+Epoch [22/25], Train_loss: 0.000062
+Epoch [23/25], Train_loss: 0.000062
+Epoch [24/25], Train_loss: 0.000061
+Epoch [25/25], Train_loss: 0.000061
+Finished Training
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau09/train_normal): 390756
+Number of seqs(../logparser/demo/paper3_Drain_2_result_tau09/train_normal): 515429
+Epoch [1/25], Train_loss: 0.000608
+Epoch [2/25], Train_loss: 0.000223
+Epoch [3/25], Train_loss: 0.000151
+Epoch [4/25], Train_loss: 0.000125
+Epoch [5/25], Train_loss: 0.000110
+Epoch [6/25], Train_loss: 0.000101
+Epoch [7/25], Train_loss: 0.000095
+Epoch [8/25], Train_loss: 0.000090
+Epoch [9/25], Train_loss: 0.000087
+Epoch [10/25], Train_loss: 0.000083
+Epoch [11/25], Train_loss: 0.000080
+Epoch [12/25], Train_loss: 0.000078
+Epoch [13/25], Train_loss: 0.000074
+Epoch [14/25], Train_loss: 0.000072
+Epoch [15/25], Train_loss: 0.000070
+Epoch [16/25], Train_loss: 0.000069
+Epoch [17/25], Train_loss: 0.000067
+Epoch [18/25], Train_loss: 0.000067
+Epoch [19/25], Train_loss: 0.000066
+Epoch [20/25], Train_loss: 0.000065
+Epoch [21/25], Train_loss: 0.000064
+Epoch [22/25], Train_loss: 0.000063
+Epoch [23/25], Train_loss: 0.000063
+Epoch [24/25], Train_loss: 0.000062
+Epoch [25/25], Train_loss: 0.000062
+Finished Training
+Number of sessions(../logparser/demo/paper3_Spell_result/train_normal): 390756
+Number of seqs(../logparser/demo/paper3_Spell_result/train_normal): 515429
+Epoch [1/25], Train_loss: 0.000549
+Epoch [2/25], Train_loss: 0.000212
+Epoch [3/25], Train_loss: 0.000149
+Epoch [4/25], Train_loss: 0.000114
+Epoch [5/25], Train_loss: 0.000098
+Epoch [6/25], Train_loss: 0.000088
+Epoch [7/25], Train_loss: 0.000082
+Epoch [8/25], Train_loss: 0.000077
+Epoch [9/25], Train_loss: 0.000074
+Epoch [10/25], Train_loss: 0.000072
+Epoch [11/25], Train_loss: 0.000070
+Epoch [12/25], Train_loss: 0.000068
+Epoch [13/25], Train_loss: 0.000067
+Epoch [14/25], Train_loss: 0.000066
+Epoch [15/25], Train_loss: 0.000064
+Epoch [16/25], Train_loss: 0.000064
+Epoch [17/25], Train_loss: 0.000062
+Epoch [18/25], Train_loss: 0.000062
+Epoch [19/25], Train_loss: 0.000061
+Epoch [20/25], Train_loss: 0.000060
+Epoch [21/25], Train_loss: 0.000060
+Epoch [22/25], Train_loss: 0.000059
+Epoch [23/25], Train_loss: 0.000059
+Epoch [24/25], Train_loss: 0.000058
+Epoch [25/25], Train_loss: 0.000058
+Finished Training
+Number of sessions(../logparser/demo/paper3_Drain_result/train_normal): 390756
+Number of seqs(../logparser/demo/paper3_Drain_result/train_normal): 515429
+Epoch [1/25], Train_loss: 0.000588
+Epoch [2/25], Train_loss: 0.000254
+Epoch [3/25], Train_loss: 0.000151
+Epoch [4/25], Train_loss: 0.000118
+Epoch [5/25], Train_loss: 0.000104
+Epoch [6/25], Train_loss: 0.000094
+Epoch [7/25], Train_loss: 0.000088
+Epoch [8/25], Train_loss: 0.000084
+Epoch [9/25], Train_loss: 0.000078
+Epoch [10/25], Train_loss: 0.000075
+Epoch [11/25], Train_loss: 0.000072
+Epoch [12/25], Train_loss: 0.000069
+Epoch [13/25], Train_loss: 0.000068
+Epoch [14/25], Train_loss: 0.000066
+Epoch [15/25], Train_loss: 0.000065
+Epoch [16/25], Train_loss: 0.000064
+Epoch [17/25], Train_loss: 0.000063
+Epoch [18/25], Train_loss: 0.000062
+Epoch [19/25], Train_loss: 0.000062
+Epoch [20/25], Train_loss: 0.000061
+Epoch [21/25], Train_loss: 0.000060
+Epoch [22/25], Train_loss: 0.000060
+Epoch [23/25], Train_loss: 0.000059
+Epoch [24/25], Train_loss: 0.000059
+Epoch [25/25], Train_loss: 0.000059
+Finished Training
+model_path: model/paper3_SHISO_result_w20/20.pt
+dataset_dir:../logparser/demo/paper3_SHISO_result/
+model_dir:paper3_SHISO_result_w20
+num_candidates:18
+model_path: model/paper3_SHISO_result_w20/20.pt
+Number of sessions(../logparser/demo/paper3_SHISO_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_SHISO_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_SHISO_result/ count=1000 FP=736
+model_path: model/paper3_SHISO_result_w20/20.pt
+dataset_dir:../logparser/demo/paper3_SHISO_result/
+model_dir:paper3_SHISO_result_w20
+tp=168 false positive (FP): 1214, false negative (FN): 0, Precision: 12.156%, Recall: 100.000%, F1-measure: 21.677%
+Finished Predicting
+elapsed_time: 365.63440561294556
+model_path: model/paper3_Drain2_tau09_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau09/
+model_dir:paper3_Drain2_tau09_w20
+num_candidates:18
+model_path: model/paper3_Drain2_tau09_w20/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau09/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau09/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_2_result_tau09/ count=1000 FP=722
+model_path: model/paper3_Drain2_tau09_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau09/
+model_dir:paper3_Drain2_tau09_w20
+tp=110 false positive (FP): 1227, false negative (FN): 58, Precision: 8.227%, Recall: 65.476%, F1-measure: 14.618%
+Finished Predicting
+elapsed_time: 433.7423052787781
+model_path: model/paper3_Spell_result_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Spell_result/
+model_dir:paper3_Spell_result_w20
+num_candidates:18
+model_path: model/paper3_Spell_result_w20/20.pt
+Number of sessions(../logparser/demo/paper3_Spell_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Spell_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Spell_result/ count=1000 FP=197
+model_path: model/paper3_Spell_result_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Spell_result/
+model_dir:paper3_Spell_result_w20
+tp=136 false positive (FP): 338, false negative (FN): 32, Precision: 28.692%, Recall: 80.952%, F1-measure: 42.368%
+Finished Predicting
+elapsed_time: 439.5149486064911
+model_path: model/paper3_Drain2_tau06_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau06/
+model_dir:paper3_Drain2_tau06_w20
+num_candidates:18
+model_path: model/paper3_Drain2_tau06_w20/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau06/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_2_result_tau06/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_2_result_tau06/ count=1000 FP=719
+model_path: model/paper3_Drain2_tau06_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_2_result_tau06/
+model_dir:paper3_Drain2_tau06_w20
+tp=168 false positive (FP): 1205, false negative (FN): 0, Precision: 12.236%, Recall: 100.000%, F1-measure: 21.804%
+Finished Predicting
+elapsed_time: 440.4953467845917
+model_path: model/paper3_Drain_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_w20
+num_candidates:18
+model_path: model/paper3_Drain_w20/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=701
+model_path: model/paper3_Drain_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_w20
+tp=168 false positive (FP): 1173, false negative (FN): 0, Precision: 12.528%, Recall: 100.000%, F1-measure: 22.266%
+Finished Predicting
+elapsed_time: 440.65792751312256
+model_path: model/paper3_Drain_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_w20
+num_candidates:18
+model_path: model/paper3_Drain_w20/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=173
+model_path: model/paper3_Drain_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_w20
+tp=168 false positive (FP): 301, false negative (FN): 0, Precision: 35.821%, Recall: 100.000%, F1-measure: 52.747%
+Finished Predicting
+elapsed_time: 64.80390119552612
+model_path: model/paper3_Drain_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_w20
+num_candidates:17
+model_path: model/paper3_Drain_w20/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=173
+model_path: model/paper3_Drain_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_w20
+tp=168 false positive (FP): 301, false negative (FN): 0, Precision: 35.821%, Recall: 100.000%, F1-measure: 52.747%
+Finished Predicting
+elapsed_time: 61.90553617477417
+model_path: model/paper3_Drain_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_w20
+num_candidates:16
+model_path: model/paper3_Drain_w20/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=173
+model_path: model/paper3_Drain_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_w20
+tp=168 false positive (FP): 301, false negative (FN): 0, Precision: 35.821%, Recall: 100.000%, F1-measure: 52.747%
+Finished Predicting
+elapsed_time: 57.73937368392944
+model_path: model/paper3_Drain_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_w20
+num_candidates:15
+model_path: model/paper3_Drain_w20/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=173
+model_path: model/paper3_Drain_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_w20
+tp=168 false positive (FP): 301, false negative (FN): 0, Precision: 35.821%, Recall: 100.000%, F1-measure: 52.747%
+Finished Predicting
+elapsed_time: 96.35320782661438
+model_path: model/paper3_Drain_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_w20
+num_candidates:19
+model_path: model/paper3_Drain_w20/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=173
+model_path: model/paper3_Drain_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_w20
+tp=168 false positive (FP): 301, false negative (FN): 0, Precision: 35.821%, Recall: 100.000%, F1-measure: 52.747%
+Finished Predicting
+elapsed_time: 94.91625308990479
+model_path: model/paper3_Drain_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_w20
+num_candidates:20
+model_path: model/paper3_Drain_w20/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=173
+model_path: model/paper3_Drain_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_w20
+tp=168 false positive (FP): 301, false negative (FN): 0, Precision: 35.821%, Recall: 100.000%, F1-measure: 52.747%
+Finished Predicting
+elapsed_time: 91.81626963615417
+model_path: model/paper3_Drain_w20/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_w20
+num_candidates:21
+model_path: model/paper3_Drain_w20/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 168
+model_path: model/paper3_Drain_result/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:18
+model_path: model/paper3_Drain_result/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+model_path: model/paper3_Drain_result/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=107 false positive (FP): 0, false negative (FN): 61, Precision: 100.000%, Recall: 63.690%, F1-measure: 77.818%
+Finished Predicting
+elapsed_time: 67.30626916885376
+model_path: model/paper3_Drain_result/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:17
+model_path: model/paper3_Drain_result/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+model_path: model/paper3_Drain_result/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=167 false positive (FP): 0, false negative (FN): 1, Precision: 100.000%, Recall: 99.405%, F1-measure: 99.701%
+Finished Predicting
+elapsed_time: 93.87737488746643
+model_path: model/paper3_Drain_result/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:16
+model_path: model/paper3_Drain_result/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+model_path: model/paper3_Drain_result/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=167 false positive (FP): 0, false negative (FN): 1, Precision: 100.000%, Recall: 99.405%, F1-measure: 99.701%
+Finished Predicting
+elapsed_time: 70.65341234207153
+model_path: model/paper3_Drain_result/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:15
+model_path: model/paper3_Drain_result/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+model_path: model/paper3_Drain_result/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=167 false positive (FP): 0, false negative (FN): 1, Precision: 100.000%, Recall: 99.405%, F1-measure: 99.701%
+Finished Predicting
+elapsed_time: 88.84714531898499
+model_path: model/paper3_Drain_result/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:19
+model_path: model/paper3_Drain_result/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+model_path: model/paper3_Drain_result/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=106 false positive (FP): 0, false negative (FN): 62, Precision: 100.000%, Recall: 63.095%, F1-measure: 77.372%
+Finished Predicting
+elapsed_time: 91.99360227584839
+model_path: model/paper3_Drain_result/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:20
+model_path: model/paper3_Drain_result/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+model_path: model/paper3_Drain_result/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=106 false positive (FP): 0, false negative (FN): 62, Precision: 100.000%, Recall: 63.095%, F1-measure: 77.372%
+Finished Predicting
+elapsed_time: 64.34381008148193
+model_path: model/paper3_Drain_result/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:21
+model_path: model/paper3_Drain_result/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+model_path: model/paper3_Drain_result/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=105 false positive (FP): 0, false negative (FN): 63, Precision: 100.000%, Recall: 62.500%, F1-measure: 76.923%
+Finished Predicting
+elapsed_time: 62.880375146865845
+model_path: model/paper3_Drain_result/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:22
+model_path: model/paper3_Drain_result/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+model_path: model/paper3_Drain_result/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=105 false positive (FP): 0, false negative (FN): 63, Precision: 100.000%, Recall: 62.500%, F1-measure: 76.923%
+Finished Predicting
+elapsed_time: 62.39714074134827

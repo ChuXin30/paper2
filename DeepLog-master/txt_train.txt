@@ -1,0 +1,938 @@
+['new_template2vec_cnn_lstm_train.py', '3', '64', '150', '2 3 4', 'data_noise/cnn_lstm_model']
+6
+model_path: data_noise/cnn_lstm_model
+num_classes:29
+embedding_dim:400
+vocab_size:30
+window_size:10
+num_layers:3
+hidden_size:64
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/drain_noise_0/WITH_S_train): 11501
+Number of seqs(data_noise/drain_noise_0/WITH_S_train): 109316
+['new_template2vec_cnn_lstm_train.py', '3', '64', '150', '2 3 4', 'data_noise/cnn_lstm_model']
+6
+model_path: data_noise/cnn_lstm_model
+num_classes:29
+embedding_dim:400
+vocab_size:30
+window_size:10
+num_layers:3
+hidden_size:64
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/drain_noise_0/WITH_S_train): 11501
+Number of seqs(data_noise/drain_noise_0/WITH_S_train): 109316
+['new_template2vec_cnn_lstm_train.py', '3', '64', '150', '2 3 4', 'data_noise/cnn_lstm_model']
+6
+model_path: data_noise/cnn_lstm_model
+num_classes:29
+embedding_dim:400
+vocab_size:30
+window_size:10
+num_layers:3
+hidden_size:64
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/drain_noise_0/WITH_S_train): 11501
+Number of seqs(data_noise/drain_noise_0/WITH_S_train): 109316
+['new_template2vec_cnn_lstm_train.py', '3', '64', '150', '2 3 4', 'data_noise/cnn_lstm_model']
+6
+model_path: data_noise/cnn_lstm_model
+num_classes:29
+embedding_dim:400
+vocab_size:30
+window_size:10
+num_layers:3
+hidden_size:64
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/drain_noise_0/WITH_S_train): 11501
+Number of seqs(data_noise/drain_noise_0/WITH_S_train): 109316
+['new_template2vec_cnn_lstm_train.py', '3', '64', '150', '2 3 4', 'data_noise/cnn_lstm_model']
+6
+model_path: data_noise/cnn_lstm_model
+num_classes:29
+embedding_dim:400
+vocab_size:30
+window_size:10
+num_layers:3
+hidden_size:64
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/drain_noise_0/WITH_S_train): 11501
+Number of seqs(data_noise/drain_noise_0/WITH_S_train): 109316
+['new_template2vec_cnn_lstm_train.py', '3', '64', '150', '2 3 4', 'data_noise/cnn_lstm_model']
+6
+model_path: data_noise/cnn_lstm_model
+num_classes:29
+embedding_dim:400
+vocab_size:30
+window_size:10
+num_layers:3
+hidden_size:64
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/drain_noise_0/WITH_S_train): 11501
+Number of seqs(data_noise/drain_noise_0/WITH_S_train): 109316
+['new_template2vec_cnn_lstm_train.py', '3', '64', '150', '2 3 4', 'data_noise/cnn_lstm_model']
+6
+model_path: data_noise/cnn_lstm_model
+num_classes:29
+embedding_dim:400
+vocab_size:30
+window_size:10
+num_layers:3
+hidden_size:64
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/drain_noise_0/WITH_S_train): 11501
+Number of seqs(data_noise/drain_noise_0/WITH_S_train): 109316
+Epoch [1/299], Train_loss: 0.000364
+Epoch [2/299], Train_loss: 0.000184
+Epoch [3/299], Train_loss: 0.000165
+Epoch [4/299], Train_loss: 0.000153
+Epoch [5/299], Train_loss: 0.000139
+Epoch [6/299], Train_loss: 0.000133
+Epoch [7/299], Train_loss: 0.000131
+Epoch [8/299], Train_loss: 0.000128
+Epoch [9/299], Train_loss: 0.000128
+Epoch [10/299], Train_loss: 0.000125
+Epoch [11/299], Train_loss: 0.000124
+Epoch [12/299], Train_loss: 0.000123
+Epoch [13/299], Train_loss: 0.000122
+Epoch [14/299], Train_loss: 0.000122
+Epoch [15/299], Train_loss: 0.000120
+Epoch [16/299], Train_loss: 0.000120
+Epoch [17/299], Train_loss: 0.000120
+Epoch [18/299], Train_loss: 0.000119
+Epoch [19/299], Train_loss: 0.000118
+Epoch [20/299], Train_loss: 0.000118
+Epoch [21/299], Train_loss: 0.000118
+Epoch [22/299], Train_loss: 0.000118
+Epoch [23/299], Train_loss: 0.000118
+Epoch [24/299], Train_loss: 0.000117
+Epoch [25/299], Train_loss: 0.000116
+Epoch [26/299], Train_loss: 0.000116
+Epoch [27/299], Train_loss: 0.000115
+Epoch [28/299], Train_loss: 0.000115
+Epoch [29/299], Train_loss: 0.000114
+Epoch [30/299], Train_loss: 0.000114
+Epoch [31/299], Train_loss: 0.000115
+Epoch [32/299], Train_loss: 0.000114
+Epoch [33/299], Train_loss: 0.000115
+Epoch [34/299], Train_loss: 0.000114
+Epoch [35/299], Train_loss: 0.000113
+Epoch [36/299], Train_loss: 0.000113
+Epoch [37/299], Train_loss: 0.000113
+Epoch [38/299], Train_loss: 0.000113
+Epoch [39/299], Train_loss: 0.000112
+Epoch [40/299], Train_loss: 0.000115
+Epoch [41/299], Train_loss: 0.000114
+Epoch [42/299], Train_loss: 0.000112
+Epoch [43/299], Train_loss: 0.000114
+Epoch [44/299], Train_loss: 0.000111
+Epoch [45/299], Train_loss: 0.000112
+Epoch [46/299], Train_loss: 0.000111
+Epoch [47/299], Train_loss: 0.000112
+Epoch [48/299], Train_loss: 0.000120
+Epoch [49/299], Train_loss: 0.000112
+Epoch [50/299], Train_loss: 0.000110
+Epoch [51/299], Train_loss: 0.000110
+Epoch [52/299], Train_loss: 0.000110
+Epoch [53/299], Train_loss: 0.000111
+Epoch [54/299], Train_loss: 0.000110
+Epoch [55/299], Train_loss: 0.000109
+Epoch [56/299], Train_loss: 0.000109
+Epoch [57/299], Train_loss: 0.000111
+Epoch [58/299], Train_loss: 0.000110
+Epoch [59/299], Train_loss: 0.000108
+Epoch [60/299], Train_loss: 0.000109
+Epoch [61/299], Train_loss: 0.000108
+Epoch [62/299], Train_loss: 0.000108
+Epoch [63/299], Train_loss: 0.000109
+Epoch [64/299], Train_loss: 0.000111
+Epoch [65/299], Train_loss: 0.000108
+Epoch [66/299], Train_loss: 0.000107
+Epoch [67/299], Train_loss: 0.000108
+Epoch [68/299], Train_loss: 0.000107
+Epoch [69/299], Train_loss: 0.000118
+Epoch [70/299], Train_loss: 0.000112
+Epoch [71/299], Train_loss: 0.000110
+Epoch [72/299], Train_loss: 0.000109
+Epoch [73/299], Train_loss: 0.000109
+Epoch [74/299], Train_loss: 0.000108
+Epoch [75/299], Train_loss: 0.000109
+Epoch [76/299], Train_loss: 0.000108
+Epoch [77/299], Train_loss: 0.000108
+Epoch [78/299], Train_loss: 0.000108
+Epoch [79/299], Train_loss: 0.000115
+Epoch [80/299], Train_loss: 0.000107
+Epoch [81/299], Train_loss: 0.000107
+Epoch [82/299], Train_loss: 0.000107
+Epoch [83/299], Train_loss: 0.000107
+Epoch [84/299], Train_loss: 0.000106
+Epoch [85/299], Train_loss: 0.000106
+Epoch [86/299], Train_loss: 0.000165
+Epoch [87/299], Train_loss: 0.000124
+Epoch [88/299], Train_loss: 0.000120
+Epoch [89/299], Train_loss: 0.000119
+Epoch [90/299], Train_loss: 0.000117
+Epoch [91/299], Train_loss: 0.000116
+Epoch [92/299], Train_loss: 0.000115
+Epoch [93/299], Train_loss: 0.000115
+Epoch [94/299], Train_loss: 0.000114
+Epoch [95/299], Train_loss: 0.000114
+Epoch [96/299], Train_loss: 0.000114
+Epoch [97/299], Train_loss: 0.000113
+Epoch [98/299], Train_loss: 0.000113
+Epoch [99/299], Train_loss: 0.000111
+Epoch [100/299], Train_loss: 0.000115
+Epoch [101/299], Train_loss: 0.000113
+Epoch [102/299], Train_loss: 0.000111
+Epoch [103/299], Train_loss: 0.000111
+Epoch [104/299], Train_loss: 0.000111
+Epoch [105/299], Train_loss: 0.000111
+Epoch [106/299], Train_loss: 0.000110
+Epoch [107/299], Train_loss: 0.000109
+Epoch [108/299], Train_loss: 0.000109
+Epoch [109/299], Train_loss: 0.000110
+Epoch [110/299], Train_loss: 0.000113
+Epoch [111/299], Train_loss: 0.000110
+Epoch [112/299], Train_loss: 0.000110
+Epoch [113/299], Train_loss: 0.000110
+Epoch [114/299], Train_loss: 0.000108
+Epoch [115/299], Train_loss: 0.000109
+Epoch [116/299], Train_loss: 0.000108
+Epoch [117/299], Train_loss: 0.000108
+Epoch [118/299], Train_loss: 0.000108
+Epoch [119/299], Train_loss: 0.000108
+Epoch [120/299], Train_loss: 0.000107
+Epoch [121/299], Train_loss: 0.000107
+Epoch [122/299], Train_loss: 0.000107
+Epoch [123/299], Train_loss: 0.000106
+Epoch [124/299], Train_loss: 0.000106
+Epoch [125/299], Train_loss: 0.000106
+Epoch [126/299], Train_loss: 0.000106
+Epoch [127/299], Train_loss: 0.000106
+Epoch [128/299], Train_loss: 0.000112
+Epoch [129/299], Train_loss: 0.000107
+Epoch [130/299], Train_loss: 0.000107
+Epoch [131/299], Train_loss: 0.000106
+Epoch [132/299], Train_loss: 0.000106
+Epoch [133/299], Train_loss: 0.000105
+Epoch [134/299], Train_loss: 0.000106
+Epoch [135/299], Train_loss: 0.000106
+Epoch [136/299], Train_loss: 0.000105
+Epoch [137/299], Train_loss: 0.000105
+Epoch [138/299], Train_loss: 0.000106
+Epoch [139/299], Train_loss: 0.000105
+Epoch [140/299], Train_loss: 0.000105
+Epoch [141/299], Train_loss: 0.000105
+Epoch [142/299], Train_loss: 0.000105
+Epoch [143/299], Train_loss: 0.000105
+Epoch [144/299], Train_loss: 0.000105
+Epoch [145/299], Train_loss: 0.000107
+Epoch [146/299], Train_loss: 0.000110
+Epoch [147/299], Train_loss: 0.000105
+Epoch [148/299], Train_loss: 0.000104
+Epoch [149/299], Train_loss: 0.000104
+Epoch [150/299], Train_loss: 0.000105
+Epoch [151/299], Train_loss: 0.000104
+Epoch [152/299], Train_loss: 0.000103
+Epoch [153/299], Train_loss: 0.000103
+Epoch [154/299], Train_loss: 0.000104
+Epoch [155/299], Train_loss: 0.000103
+Epoch [156/299], Train_loss: 0.000103
+Epoch [157/299], Train_loss: 0.000103
+Epoch [158/299], Train_loss: 0.000108
+Epoch [159/299], Train_loss: 0.000105
+Epoch [160/299], Train_loss: 0.000104
+Epoch [161/299], Train_loss: 0.000106
+Epoch [162/299], Train_loss: 0.000104
+Epoch [163/299], Train_loss: 0.000103
+Epoch [164/299], Train_loss: 0.000104
+Epoch [165/299], Train_loss: 0.000103
+Epoch [166/299], Train_loss: 0.000103
+Epoch [167/299], Train_loss: 0.000103
+Epoch [168/299], Train_loss: 0.000103
+Epoch [169/299], Train_loss: 0.000103
+Epoch [170/299], Train_loss: 0.000102
+Epoch [171/299], Train_loss: 0.000103
+Epoch [172/299], Train_loss: 0.000103
+Epoch [173/299], Train_loss: 0.000102
+Epoch [174/299], Train_loss: 0.000114
+Epoch [175/299], Train_loss: 0.000107
+Epoch [176/299], Train_loss: 0.000105
+Epoch [177/299], Train_loss: 0.000105
+Epoch [178/299], Train_loss: 0.000104
+Epoch [179/299], Train_loss: 0.000104
+Epoch [180/299], Train_loss: 0.000103
+Epoch [181/299], Train_loss: 0.000104
+Epoch [182/299], Train_loss: 0.000104
+Epoch [183/299], Train_loss: 0.000103
+Epoch [184/299], Train_loss: 0.000107
+Epoch [185/299], Train_loss: 0.000103
+Epoch [186/299], Train_loss: 0.000103
+Epoch [187/299], Train_loss: 0.000102
+Epoch [188/299], Train_loss: 0.000102
+Epoch [189/299], Train_loss: 0.000103
+Epoch [190/299], Train_loss: 0.000103
+Epoch [191/299], Train_loss: 0.000102
+Epoch [192/299], Train_loss: 0.000102
+Epoch [193/299], Train_loss: 0.000102
+Epoch [194/299], Train_loss: 0.000103
+Epoch [195/299], Train_loss: 0.000102
+Epoch [196/299], Train_loss: 0.000102
+Epoch [197/299], Train_loss: 0.000102
+Epoch [198/299], Train_loss: 0.000102
+Epoch [199/299], Train_loss: 0.000101
+Epoch [200/299], Train_loss: 0.000102
+Epoch [201/299], Train_loss: 0.000102
+Epoch [202/299], Train_loss: 0.000102
+Epoch [203/299], Train_loss: 0.000103
+Epoch [204/299], Train_loss: 0.000102
+Epoch [205/299], Train_loss: 0.000101
+Epoch [206/299], Train_loss: 0.000102
+Epoch [207/299], Train_loss: 0.000101
+Epoch [208/299], Train_loss: 0.000101
+Epoch [209/299], Train_loss: 0.000102
+Epoch [210/299], Train_loss: 0.000101
+Epoch [211/299], Train_loss: 0.000101
+Epoch [212/299], Train_loss: 0.000102
+Epoch [213/299], Train_loss: 0.000102
+Epoch [214/299], Train_loss: 0.000102
+Epoch [215/299], Train_loss: 0.000101
+Epoch [216/299], Train_loss: 0.000101
+Epoch [217/299], Train_loss: 0.000101
+Epoch [218/299], Train_loss: 0.000102
+Epoch [219/299], Train_loss: 0.000102
+Epoch [220/299], Train_loss: 0.000101
+Epoch [221/299], Train_loss: 0.000101
+Epoch [222/299], Train_loss: 0.000101
+Epoch [223/299], Train_loss: 0.000101
+Epoch [224/299], Train_loss: 0.000101
+Epoch [225/299], Train_loss: 0.000126
+Epoch [226/299], Train_loss: 0.000110
+Epoch [227/299], Train_loss: 0.000106
+Epoch [228/299], Train_loss: 0.000105
+Epoch [229/299], Train_loss: 0.000104
+Epoch [230/299], Train_loss: 0.000104
+Epoch [231/299], Train_loss: 0.000102
+Epoch [232/299], Train_loss: 0.000102
+Epoch [233/299], Train_loss: 0.000102
+Epoch [234/299], Train_loss: 0.000102
+Epoch [235/299], Train_loss: 0.000103
+Epoch [236/299], Train_loss: 0.000104
+Epoch [237/299], Train_loss: 0.000103
+Epoch [238/299], Train_loss: 0.000101
+Epoch [239/299], Train_loss: 0.000102
+Epoch [240/299], Train_loss: 0.000101
+Epoch [241/299], Train_loss: 0.000102
+Epoch [242/299], Train_loss: 0.000101
+Epoch [243/299], Train_loss: 0.000102
+Epoch [244/299], Train_loss: 0.000101
+Epoch [245/299], Train_loss: 0.000101
+Epoch [246/299], Train_loss: 0.000101
+Epoch [247/299], Train_loss: 0.000101
+Epoch [248/299], Train_loss: 0.000100
+Epoch [249/299], Train_loss: 0.000100
+Epoch [250/299], Train_loss: 0.000101
+Epoch [251/299], Train_loss: 0.000101
+Epoch [252/299], Train_loss: 0.000101
+Epoch [253/299], Train_loss: 0.000100
+Epoch [254/299], Train_loss: 0.000100
+Epoch [255/299], Train_loss: 0.000101
+Epoch [256/299], Train_loss: 0.000101
+Epoch [257/299], Train_loss: 0.000100
+Epoch [258/299], Train_loss: 0.000100
+Epoch [259/299], Train_loss: 0.000100
+Epoch [260/299], Train_loss: 0.000100
+Epoch [261/299], Train_loss: 0.000101
+Epoch [262/299], Train_loss: 0.000100
+Epoch [263/299], Train_loss: 0.000101
+Epoch [264/299], Train_loss: 0.000100
+Epoch [265/299], Train_loss: 0.000100
+Epoch [266/299], Train_loss: 0.000100
+Epoch [267/299], Train_loss: 0.000100
+Epoch [268/299], Train_loss: 0.000100
+Epoch [269/299], Train_loss: 0.000100
+Epoch [270/299], Train_loss: 0.000100
+Epoch [271/299], Train_loss: 0.000100
+Epoch [272/299], Train_loss: 0.000100
+Epoch [273/299], Train_loss: 0.000100
+Epoch [274/299], Train_loss: 0.000099
+Epoch [275/299], Train_loss: 0.000100
+Epoch [276/299], Train_loss: 0.000101
+Epoch [277/299], Train_loss: 0.000100
+Epoch [278/299], Train_loss: 0.000100
+Epoch [279/299], Train_loss: 0.000100
+Epoch [280/299], Train_loss: 0.000101
+Epoch [281/299], Train_loss: 0.000100
+Epoch [282/299], Train_loss: 0.000100
+Epoch [283/299], Train_loss: 0.000100
+Epoch [284/299], Train_loss: 0.000100
+Epoch [285/299], Train_loss: 0.000101
+Epoch [286/299], Train_loss: 0.000100
+Epoch [287/299], Train_loss: 0.000101
+Epoch [288/299], Train_loss: 0.000100
+Epoch [289/299], Train_loss: 0.000100
+Epoch [290/299], Train_loss: 0.000100
+Epoch [291/299], Train_loss: 0.000100
+Epoch [292/299], Train_loss: 0.000099
+Epoch [293/299], Train_loss: 0.000100
+Epoch [294/299], Train_loss: 0.000100
+Epoch [295/299], Train_loss: 0.000209
+Epoch [296/299], Train_loss: 0.000143
+Epoch [297/299], Train_loss: 0.000129
+Epoch [298/299], Train_loss: 0.000123
+Epoch [299/299], Train_loss: 0.000121
+Finished Training
+['new_template2vec_cnn_lstm_train.py', '3', '64', '150', '2 3 4', 'data_noise/cnn_lstm_model_10']
+6
+model_path: data_noise/cnn_lstm_model_10
+num_classes:29
+embedding_dim:400
+vocab_size:30
+window_size:10
+num_layers:3
+hidden_size:64
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_noise/train_10/WITH_S_train): 11501
+Number of seqs(data_noise/train_10/WITH_S_train): 109316
+Epoch [1/299], Train_loss: 0.000352
+Epoch [2/299], Train_loss: 0.000179
+Epoch [3/299], Train_loss: 0.000163
+Epoch [4/299], Train_loss: 0.000154
+Epoch [5/299], Train_loss: 0.000150
+Epoch [6/299], Train_loss: 0.000138
+Epoch [7/299], Train_loss: 0.000132
+Epoch [8/299], Train_loss: 0.000130
+Epoch [9/299], Train_loss: 0.000127
+Epoch [10/299], Train_loss: 0.000126
+Epoch [11/299], Train_loss: 0.000124
+Epoch [12/299], Train_loss: 0.000123
+Epoch [13/299], Train_loss: 0.000122
+Epoch [14/299], Train_loss: 0.000122
+Epoch [15/299], Train_loss: 0.000120
+Epoch [16/299], Train_loss: 0.000120
+Epoch [17/299], Train_loss: 0.000120
+Epoch [18/299], Train_loss: 0.000120
+Epoch [19/299], Train_loss: 0.000119
+Epoch [20/299], Train_loss: 0.000120
+Epoch [21/299], Train_loss: 0.000118
+Epoch [22/299], Train_loss: 0.000117
+Epoch [23/299], Train_loss: 0.000117
+Epoch [24/299], Train_loss: 0.000116
+Epoch [25/299], Train_loss: 0.000117
+Epoch [26/299], Train_loss: 0.000116
+Epoch [27/299], Train_loss: 0.000121
+Epoch [28/299], Train_loss: 0.000117
+Epoch [29/299], Train_loss: 0.000116
+Epoch [30/299], Train_loss: 0.000116
+Epoch [31/299], Train_loss: 0.000115
+Epoch [32/299], Train_loss: 0.000115
+Epoch [33/299], Train_loss: 0.000114
+Epoch [34/299], Train_loss: 0.000114
+Epoch [35/299], Train_loss: 0.000115
+Epoch [36/299], Train_loss: 0.000113
+Epoch [37/299], Train_loss: 0.000112
+Epoch [38/299], Train_loss: 0.000118
+Epoch [39/299], Train_loss: 0.000114
+Epoch [40/299], Train_loss: 0.000114
+Epoch [41/299], Train_loss: 0.000113
+Epoch [42/299], Train_loss: 0.000112
+Epoch [43/299], Train_loss: 0.000112
+Epoch [44/299], Train_loss: 0.000111
+Epoch [45/299], Train_loss: 0.000117
+Epoch [46/299], Train_loss: 0.000114
+Epoch [47/299], Train_loss: 0.000111
+Epoch [48/299], Train_loss: 0.000111
+Epoch [49/299], Train_loss: 0.000111
+Epoch [50/299], Train_loss: 0.000111
+Epoch [51/299], Train_loss: 0.000113
+Epoch [52/299], Train_loss: 0.000110
+Epoch [53/299], Train_loss: 0.000110
+Epoch [54/299], Train_loss: 0.000113
+Epoch [55/299], Train_loss: 0.000111
+Epoch [56/299], Train_loss: 0.000109
+Epoch [57/299], Train_loss: 0.000110
+Epoch [58/299], Train_loss: 0.000126
+Epoch [59/299], Train_loss: 0.000156
+Epoch [60/299], Train_loss: 0.000124
+Epoch [61/299], Train_loss: 0.000121
+Epoch [62/299], Train_loss: 0.000119
+Epoch [63/299], Train_loss: 0.000124
+Epoch [64/299], Train_loss: 0.000118
+Epoch [65/299], Train_loss: 0.000116
+Epoch [66/299], Train_loss: 0.000117
+Epoch [67/299], Train_loss: 0.000117
+Epoch [68/299], Train_loss: 0.000116
+Epoch [69/299], Train_loss: 0.000120
+Epoch [70/299], Train_loss: 0.000116
+Epoch [71/299], Train_loss: 0.000117
+Epoch [72/299], Train_loss: 0.000116
+Epoch [73/299], Train_loss: 0.000114
+Epoch [74/299], Train_loss: 0.000117
+Epoch [75/299], Train_loss: 0.000113
+Epoch [76/299], Train_loss: 0.000113
+Epoch [77/299], Train_loss: 0.000113
+Epoch [78/299], Train_loss: 0.000113
+Epoch [79/299], Train_loss: 0.000112
+Epoch [80/299], Train_loss: 0.000116
+Epoch [81/299], Train_loss: 0.000114
+Epoch [82/299], Train_loss: 0.000112
+Epoch [83/299], Train_loss: 0.000118
+Epoch [84/299], Train_loss: 0.000114
+Epoch [85/299], Train_loss: 0.000112
+Epoch [86/299], Train_loss: 0.000111
+Epoch [87/299], Train_loss: 0.000111
+Epoch [88/299], Train_loss: 0.000111
+Epoch [89/299], Train_loss: 0.000111
+Epoch [90/299], Train_loss: 0.000111
+Epoch [91/299], Train_loss: 0.000110
+Epoch [92/299], Train_loss: 0.000110
+Epoch [93/299], Train_loss: 0.000111
+Epoch [94/299], Train_loss: 0.000110
+Epoch [95/299], Train_loss: 0.000139
+Epoch [96/299], Train_loss: 0.000126
+Epoch [97/299], Train_loss: 0.000121
+Epoch [98/299], Train_loss: 0.000118
+Epoch [99/299], Train_loss: 0.000115
+Epoch [100/299], Train_loss: 0.000127
+Epoch [101/299], Train_loss: 0.000118
+Epoch [102/299], Train_loss: 0.000116
+Epoch [103/299], Train_loss: 0.000115
+Epoch [104/299], Train_loss: 0.000113
+Epoch [105/299], Train_loss: 0.000113
+Epoch [106/299], Train_loss: 0.000112
+Epoch [107/299], Train_loss: 0.000112
+Epoch [108/299], Train_loss: 0.000111
+Epoch [109/299], Train_loss: 0.000112
+Epoch [110/299], Train_loss: 0.000111
+Epoch [111/299], Train_loss: 0.000110
+Epoch [112/299], Train_loss: 0.000110
+Epoch [113/299], Train_loss: 0.000110
+Epoch [114/299], Train_loss: 0.000110
+Epoch [115/299], Train_loss: 0.000128
+Epoch [116/299], Train_loss: 0.000120
+Epoch [117/299], Train_loss: 0.000116
+Epoch [118/299], Train_loss: 0.000114
+Epoch [119/299], Train_loss: 0.000115
+Epoch [120/299], Train_loss: 0.000116
+Epoch [121/299], Train_loss: 0.000113
+Epoch [122/299], Train_loss: 0.000113
+Epoch [123/299], Train_loss: 0.000114
+Epoch [124/299], Train_loss: 0.000112
+Epoch [125/299], Train_loss: 0.000115
+Epoch [126/299], Train_loss: 0.000113
+Epoch [127/299], Train_loss: 0.000112
+Epoch [128/299], Train_loss: 0.000116
+Epoch [129/299], Train_loss: 0.000116
+Epoch [130/299], Train_loss: 0.000113
+Epoch [131/299], Train_loss: 0.000111
+Epoch [132/299], Train_loss: 0.000111
+Epoch [133/299], Train_loss: 0.000110
+Epoch [134/299], Train_loss: 0.000110
+Epoch [135/299], Train_loss: 0.000110
+Epoch [136/299], Train_loss: 0.000109
+Epoch [137/299], Train_loss: 0.000110
+Epoch [138/299], Train_loss: 0.000110
+Epoch [139/299], Train_loss: 0.000135
+Epoch [140/299], Train_loss: 0.000117
+Epoch [141/299], Train_loss: 0.000111
+Epoch [142/299], Train_loss: 0.000110
+Epoch [143/299], Train_loss: 0.000110
+Epoch [144/299], Train_loss: 0.000110
+Epoch [145/299], Train_loss: 0.000111
+Epoch [146/299], Train_loss: 0.000109
+Epoch [147/299], Train_loss: 0.000108
+Epoch [148/299], Train_loss: 0.000109
+Epoch [149/299], Train_loss: 0.000109
+Epoch [150/299], Train_loss: 0.000108
+Epoch [151/299], Train_loss: 0.000108
+Epoch [152/299], Train_loss: 0.000109
+Epoch [153/299], Train_loss: 0.000109
+Epoch [154/299], Train_loss: 0.000108
+Epoch [155/299], Train_loss: 0.000108
+Epoch [156/299], Train_loss: 0.000108
+Epoch [157/299], Train_loss: 0.000107
+Epoch [158/299], Train_loss: 0.000108
+Epoch [159/299], Train_loss: 0.000114
+Epoch [160/299], Train_loss: 0.000112
+Epoch [161/299], Train_loss: 0.000109
+Epoch [162/299], Train_loss: 0.000109
+Epoch [163/299], Train_loss: 0.000108
+['new_template2vec_cnn_lstm_train.py', '3', '64', '150', '2 3 4', 'data_match_logkey/dataset_30']
+6
+model_path: data_match_logkey/dataset_30
+num_classes:29
+embedding_dim:400
+vocab_size:30
+window_size:10
+num_layers:3
+hidden_size:64
+kernel_dim:150
+kernel:(2, 3, 4)
+['new_template2vec_cnn_lstm_train.py', '3', '64', '150', '2 3 4', 'data_match_logkey/cnn_lstm_model_10']
+6
+model_path: data_match_logkey/cnn_lstm_model_10
+num_classes:29
+embedding_dim:400
+vocab_size:30
+window_size:10
+num_layers:3
+hidden_size:64
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_match_logkey/dataset_10/hdfs_train): 57506
+Number of seqs(data_match_logkey/dataset_10/hdfs_train): 546523
+Epoch [1/299], Train_loss: 0.000196
+Epoch [2/299], Train_loss: 0.000127
+Epoch [3/299], Train_loss: 0.000120
+Epoch [4/299], Train_loss: 0.000116
+Epoch [5/299], Train_loss: 0.000134
+Epoch [6/299], Train_loss: 0.000126
+Epoch [7/299], Train_loss: 0.000124
+Epoch [8/299], Train_loss: 0.000120
+Epoch [9/299], Train_loss: 0.000116
+Epoch [10/299], Train_loss: 0.000115
+Epoch [11/299], Train_loss: 0.000125
+Epoch [12/299], Train_loss: 0.000115
+Epoch [13/299], Train_loss: 0.000114
+Epoch [14/299], Train_loss: 0.000113
+Epoch [15/299], Train_loss: 0.000143
+Epoch [16/299], Train_loss: 0.000128
+Epoch [17/299], Train_loss: 0.000119
+Epoch [18/299], Train_loss: 0.000116
+Epoch [19/299], Train_loss: 0.000121
+Epoch [20/299], Train_loss: 0.000121
+Epoch [21/299], Train_loss: 0.000119
+Epoch [22/299], Train_loss: 0.000115
+Epoch [23/299], Train_loss: 0.000114
+Epoch [24/299], Train_loss: 0.000116
+Epoch [25/299], Train_loss: 0.000114
+Epoch [26/299], Train_loss: 0.000112
+Epoch [27/299], Train_loss: 0.000111
+Epoch [28/299], Train_loss: 0.000111
+Epoch [29/299], Train_loss: 0.000111
+Epoch [30/299], Train_loss: 0.000110
+Epoch [31/299], Train_loss: 0.000110
+Epoch [32/299], Train_loss: 0.000117
+Epoch [33/299], Train_loss: 0.000111
+Epoch [34/299], Train_loss: 0.000111
+Epoch [35/299], Train_loss: 0.000115
+Epoch [36/299], Train_loss: 0.000111
+Epoch [37/299], Train_loss: 0.000110
+Epoch [38/299], Train_loss: 0.000109
+Epoch [39/299], Train_loss: 0.000135
+Epoch [40/299], Train_loss: 0.000118
+Epoch [41/299], Train_loss: 0.000113
+Epoch [42/299], Train_loss: 0.000112
+Epoch [43/299], Train_loss: 0.000111
+Epoch [44/299], Train_loss: 0.000110
+Epoch [45/299], Train_loss: 0.000110
+Epoch [46/299], Train_loss: 0.000109
+Epoch [47/299], Train_loss: 0.000109
+Epoch [48/299], Train_loss: 0.000108
+Epoch [49/299], Train_loss: 0.000109
+Epoch [50/299], Train_loss: 0.000108
+Epoch [51/299], Train_loss: 0.000108
+Epoch [52/299], Train_loss: 0.000110
+Epoch [53/299], Train_loss: 0.000108
+Epoch [54/299], Train_loss: 0.000107
+Epoch [55/299], Train_loss: 0.000107
+Epoch [56/299], Train_loss: 0.000107
+Epoch [57/299], Train_loss: 0.000106
+Epoch [58/299], Train_loss: 0.000106
+Epoch [59/299], Train_loss: 0.000106
+Epoch [60/299], Train_loss: 0.000113
+Epoch [61/299], Train_loss: 0.000110
+Epoch [62/299], Train_loss: 0.000108
+Epoch [63/299], Train_loss: 0.000107
+Epoch [64/299], Train_loss: 0.000107
+Epoch [65/299], Train_loss: 0.000108
+Epoch [66/299], Train_loss: 0.000106
+Epoch [67/299], Train_loss: 0.000105
+Epoch [68/299], Train_loss: 0.000105
+Epoch [69/299], Train_loss: 0.000105
+Epoch [70/299], Train_loss: 0.000105
+Epoch [71/299], Train_loss: 0.000104
+Epoch [72/299], Train_loss: 0.000106
+Epoch [73/299], Train_loss: 0.000105
+Epoch [74/299], Train_loss: 0.000105
+Epoch [75/299], Train_loss: 0.000105
+Epoch [76/299], Train_loss: 0.000104
+Epoch [77/299], Train_loss: 0.000123
+Epoch [78/299], Train_loss: 0.000114
+Epoch [79/299], Train_loss: 0.000110
+Epoch [80/299], Train_loss: 0.000108
+Epoch [81/299], Train_loss: 0.000107
+Epoch [82/299], Train_loss: 0.000107
+Epoch [83/299], Train_loss: 0.000106
+Epoch [84/299], Train_loss: 0.000105
+Epoch [85/299], Train_loss: 0.000105
+Epoch [86/299], Train_loss: 0.000104
+Epoch [87/299], Train_loss: 0.000104
+Epoch [88/299], Train_loss: 0.000110
+Epoch [89/299], Train_loss: 0.000109
+Epoch [90/299], Train_loss: 0.000107
+Epoch [91/299], Train_loss: 0.000105
+Epoch [92/299], Train_loss: 0.000105
+Epoch [93/299], Train_loss: 0.000104
+Epoch [94/299], Train_loss: 0.000104
+Epoch [95/299], Train_loss: 0.000127
+Epoch [96/299], Train_loss: 0.000112
+Epoch [97/299], Train_loss: 0.000108
+Epoch [98/299], Train_loss: 0.000107
+Epoch [99/299], Train_loss: 0.000108
+Epoch [100/299], Train_loss: 0.000106
+Epoch [101/299], Train_loss: 0.000106
+Epoch [102/299], Train_loss: 0.000105
+Epoch [103/299], Train_loss: 0.000105
+Epoch [104/299], Train_loss: 0.000105
+Epoch [105/299], Train_loss: 0.000104
+Epoch [106/299], Train_loss: 0.000104
+Epoch [107/299], Train_loss: 0.000104
+Epoch [108/299], Train_loss: 0.000104
+Epoch [109/299], Train_loss: 0.000104
+Epoch [110/299], Train_loss: 0.000104
+Epoch [111/299], Train_loss: 0.000103
+Epoch [112/299], Train_loss: 0.000102
+Epoch [113/299], Train_loss: 0.000140
+Epoch [114/299], Train_loss: 0.000115
+Epoch [115/299], Train_loss: 0.000110
+Epoch [116/299], Train_loss: 0.000108
+Epoch [117/299], Train_loss: 0.000126
+Epoch [118/299], Train_loss: 0.000120
+Epoch [119/299], Train_loss: 0.000110
+Epoch [120/299], Train_loss: 0.000110
+Epoch [121/299], Train_loss: 0.000109
+Epoch [122/299], Train_loss: 0.000107
+Epoch [123/299], Train_loss: 0.000106
+Epoch [124/299], Train_loss: 0.000106
+Epoch [125/299], Train_loss: 0.000104
+Epoch [126/299], Train_loss: 0.000104
+Epoch [127/299], Train_loss: 0.000104
+Epoch [128/299], Train_loss: 0.000103
+Epoch [129/299], Train_loss: 0.000104
+Epoch [130/299], Train_loss: 0.000103
+Epoch [131/299], Train_loss: 0.000105
+Epoch [132/299], Train_loss: 0.000106
+Epoch [133/299], Train_loss: 0.000104
+Epoch [134/299], Train_loss: 0.000104
+Epoch [135/299], Train_loss: 0.000103
+Epoch [136/299], Train_loss: 0.000103
+Epoch [137/299], Train_loss: 0.000104
+Epoch [138/299], Train_loss: 0.000104
+Epoch [139/299], Train_loss: 0.000131
+Epoch [140/299], Train_loss: 0.000138
+Epoch [141/299], Train_loss: 0.000119
+Epoch [142/299], Train_loss: 0.000111
+Epoch [143/299], Train_loss: 0.000108
+Epoch [144/299], Train_loss: 0.000106
+Epoch [145/299], Train_loss: 0.000106
+Epoch [146/299], Train_loss: 0.000105
+Epoch [147/299], Train_loss: 0.000105
+Epoch [148/299], Train_loss: 0.000105
+Epoch [149/299], Train_loss: 0.000104
+Epoch [150/299], Train_loss: 0.000104
+Epoch [151/299], Train_loss: 0.000105
+Epoch [152/299], Train_loss: 0.000104
+Epoch [153/299], Train_loss: 0.000120
+Epoch [154/299], Train_loss: 0.000111
+Epoch [155/299], Train_loss: 0.000106
+Epoch [156/299], Train_loss: 0.000105
+Epoch [157/299], Train_loss: 0.000105
+Epoch [158/299], Train_loss: 0.000108
+Epoch [159/299], Train_loss: 0.000109
+Epoch [160/299], Train_loss: 0.000105
+Epoch [161/299], Train_loss: 0.000105
+Epoch [162/299], Train_loss: 0.000105
+Epoch [163/299], Train_loss: 0.000104
+Epoch [164/299], Train_loss: 0.000104
+Epoch [165/299], Train_loss: 0.000104
+Epoch [166/299], Train_loss: 0.000104
+Epoch [167/299], Train_loss: 0.000108
+Epoch [168/299], Train_loss: 0.000108
+Epoch [169/299], Train_loss: 0.000104
+Epoch [170/299], Train_loss: 0.000103
+Epoch [171/299], Train_loss: 0.000103
+Epoch [172/299], Train_loss: 0.000103
+Epoch [173/299], Train_loss: 0.000103
+Epoch [174/299], Train_loss: 0.000103
+Epoch [175/299], Train_loss: 0.000103
+Epoch [176/299], Train_loss: 0.000103
+Epoch [177/299], Train_loss: 0.000124
+Epoch [178/299], Train_loss: 0.000109
+Epoch [179/299], Train_loss: 0.000105
+Epoch [180/299], Train_loss: 0.000104
+Epoch [181/299], Train_loss: 0.000105
+Epoch [182/299], Train_loss: 0.000104
+Epoch [183/299], Train_loss: 0.000103
+Epoch [184/299], Train_loss: 0.000104
+Epoch [185/299], Train_loss: 0.000105
+Epoch [186/299], Train_loss: 0.000107
+Epoch [187/299], Train_loss: 0.000103
+Epoch [188/299], Train_loss: 0.000102
+Epoch [189/299], Train_loss: 0.000103
+Epoch [190/299], Train_loss: 0.000102
+Epoch [191/299], Train_loss: 0.000102
+Epoch [192/299], Train_loss: 0.000103
+Epoch [193/299], Train_loss: 0.000103
+Epoch [194/299], Train_loss: 0.000115
+Epoch [195/299], Train_loss: 0.000107
+Epoch [196/299], Train_loss: 0.000105
+Epoch [197/299], Train_loss: 0.000104
+Epoch [198/299], Train_loss: 0.000103
+Epoch [199/299], Train_loss: 0.000103
+Epoch [200/299], Train_loss: 0.000103
+Epoch [201/299], Train_loss: 0.000103
+Epoch [202/299], Train_loss: 0.000103
+Epoch [203/299], Train_loss: 0.000103
+Epoch [204/299], Train_loss: 0.000103
+Epoch [205/299], Train_loss: 0.000103
+Epoch [206/299], Train_loss: 0.000102
+Epoch [207/299], Train_loss: 0.000102
+Epoch [208/299], Train_loss: 0.000104
+Epoch [209/299], Train_loss: 0.000107
+Epoch [210/299], Train_loss: 0.000114
+Epoch [211/299], Train_loss: 0.000108
+Epoch [212/299], Train_loss: 0.000106
+Epoch [213/299], Train_loss: 0.000105
+Epoch [214/299], Train_loss: 0.000105
+Epoch [215/299], Train_loss: 0.000104
+Epoch [216/299], Train_loss: 0.000104
+Epoch [217/299], Train_loss: 0.000103
+Epoch [218/299], Train_loss: 0.000105
+Epoch [219/299], Train_loss: 0.000104
+Epoch [220/299], Train_loss: 0.000104
+Epoch [221/299], Train_loss: 0.000103
+Epoch [222/299], Train_loss: 0.000104
+Epoch [223/299], Train_loss: 0.000105
+Epoch [224/299], Train_loss: 0.000103
+Epoch [225/299], Train_loss: 0.000103
+Epoch [226/299], Train_loss: 0.000103
+Epoch [227/299], Train_loss: 0.000103
+Epoch [228/299], Train_loss: 0.000103
+Epoch [229/299], Train_loss: 0.000102
+Epoch [230/299], Train_loss: 0.000102
+Epoch [231/299], Train_loss: 0.000102
+Epoch [232/299], Train_loss: 0.000102
+Epoch [233/299], Train_loss: 0.000103
+Epoch [234/299], Train_loss: 0.000102
+Epoch [235/299], Train_loss: 0.000107
+Epoch [236/299], Train_loss: 0.000103
+Epoch [237/299], Train_loss: 0.000105
+Epoch [238/299], Train_loss: 0.000104
+Epoch [239/299], Train_loss: 0.000103
+Epoch [240/299], Train_loss: 0.000103
+Epoch [241/299], Train_loss: 0.000102
+Epoch [242/299], Train_loss: 0.000102
+Epoch [243/299], Train_loss: 0.000110
+Epoch [244/299], Train_loss: 0.000136
+Epoch [245/299], Train_loss: 0.000118
+Epoch [246/299], Train_loss: 0.000113
+Epoch [247/299], Train_loss: 0.000111
+Epoch [248/299], Train_loss: 0.000109
+Epoch [249/299], Train_loss: 0.000108
+Epoch [250/299], Train_loss: 0.000107
+Epoch [251/299], Train_loss: 0.000106
+Epoch [252/299], Train_loss: 0.000124
+Epoch [253/299], Train_loss: 0.000117
+Epoch [254/299], Train_loss: 0.000111
+Epoch [255/299], Train_loss: 0.000109
+Epoch [256/299], Train_loss: 0.000109
+Epoch [257/299], Train_loss: 0.000107
+Epoch [258/299], Train_loss: 0.000106
+Epoch [259/299], Train_loss: 0.000106
+Epoch [260/299], Train_loss: 0.000121
+Epoch [261/299], Train_loss: 0.000116
+Epoch [262/299], Train_loss: 0.000108
+Epoch [263/299], Train_loss: 0.000107
+Epoch [264/299], Train_loss: 0.000107
+Epoch [265/299], Train_loss: 0.000106
+Epoch [266/299], Train_loss: 0.000106
+Epoch [267/299], Train_loss: 0.000105
+Epoch [268/299], Train_loss: 0.000105
+Epoch [269/299], Train_loss: 0.000104
+Epoch [270/299], Train_loss: 0.000104
+Epoch [271/299], Train_loss: 0.000104
+Epoch [272/299], Train_loss: 0.000103
+Epoch [273/299], Train_loss: 0.000103
+Epoch [274/299], Train_loss: 0.000103
+Epoch [275/299], Train_loss: 0.000102
+Epoch [276/299], Train_loss: 0.000103
+Epoch [277/299], Train_loss: 0.000102
+Epoch [278/299], Train_loss: 0.000102
+Epoch [279/299], Train_loss: 0.000102
+Epoch [280/299], Train_loss: 0.000103
+Epoch [281/299], Train_loss: 0.000102
+Epoch [282/299], Train_loss: 0.000102
+Epoch [283/299], Train_loss: 0.000102
+Epoch [284/299], Train_loss: 0.000104
+Epoch [285/299], Train_loss: 0.000102
+Epoch [286/299], Train_loss: 0.000102
+Epoch [287/299], Train_loss: 0.000102
+Epoch [288/299], Train_loss: 0.000102
+Epoch [289/299], Train_loss: 0.000102
+Epoch [290/299], Train_loss: 0.000103
+Epoch [291/299], Train_loss: 0.000107
+Epoch [292/299], Train_loss: 0.000103
+Epoch [293/299], Train_loss: 0.000103
+Epoch [294/299], Train_loss: 0.000103
+Epoch [295/299], Train_loss: 0.000103
+Epoch [296/299], Train_loss: 0.000102
+Epoch [297/299], Train_loss: 0.000102
+Epoch [298/299], Train_loss: 0.000102
+Epoch [299/299], Train_loss: 0.000102
+Finished Training
+['new_template2vec_cnn_lstm_train.py', '3', '64', '150', '2 3 4', 'data_match_logkey/cnn_lstm_model_10']
+6
+model_path: data_match_logkey/cnn_lstm_model_10
+num_classes:29
+embedding_dim:400
+vocab_size:30
+window_size:10
+num_layers:3
+hidden_size:64
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_match_logkey/dataset_10/hdfs_train): 57506
+Number of seqs(data_match_logkey/dataset_10/hdfs_train): 546523
+['new_template2vec_cnn_lstm_train.py', '3', '64', '150', '2 3 4', 'data_match_logkey/cnn_lstm_model_10']
+6
+model_path: data_match_logkey/cnn_lstm_model_10
+num_classes:29
+embedding_dim:400
+vocab_size:30
+window_size:10
+num_layers:3
+hidden_size:64
+kernel_dim:150
+kernel:(2, 3, 4)
+Number of sessions(data_match_logkey/dataset_10/hdfs_train): 57506
+Number of seqs(data_match_logkey/dataset_10/hdfs_train): 546523
+Epoch [1/299], Train_loss: 0.000198
+Epoch [2/299], Train_loss: 0.000140
+Epoch [3/299], Train_loss: 0.000132
+Epoch [4/299], Train_loss: 0.000122
+Epoch [5/299], Train_loss: 0.000120
+Epoch [6/299], Train_loss: 0.000123
+Epoch [7/299], Train_loss: 0.000118
+Epoch [8/299], Train_loss: 0.000115
+Epoch [9/299], Train_loss: 0.000114
+Epoch [10/299], Train_loss: 0.000114
+Epoch [11/299], Train_loss: 0.000113
+Epoch [12/299], Train_loss: 0.000112
+Epoch [13/299], Train_loss: 0.000117
+Epoch [14/299], Train_loss: 0.000113
+Epoch [15/299], Train_loss: 0.000116
+Epoch [16/299], Train_loss: 0.000113
+Epoch [17/299], Train_loss: 0.000112
+Epoch [18/299], Train_loss: 0.000112
+Epoch [19/299], Train_loss: 0.000111
+Epoch [20/299], Train_loss: 0.000154
+Epoch [21/299], Train_loss: 0.000146

@@ -1,0 +1,3 @@
+conda activate python2_parse
+(python2_parse) chenh@ta:~/paper2/logparser/demo$ nohub ./paper3_parse2.sh & 
+du -sh /home/*

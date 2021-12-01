@@ -1,0 +1,100 @@
+
+=== Evaluation on BGL10k ===
+Parsing file: ../logs/BGL/BGL_10k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Parsing done. [Time taken: 0:00:00.417566]
+Precision: 1.0000, Recall: 0.5758, F1_measure: 0.7308, Parsing_Accuracy: 0.4870
+
+=== Evaluation on Spark100k ===
+Parsing file: ../logs/Spark/Spark_100k_match.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 10 > logcluster_output.txt
+Parsing done. [Time taken: 0:00:07.357535]
+Precision: 1.0000, Recall: 0.8484, F1_measure: 0.9180, Parsing_Accuracy: 0.4882
+
+=== Evaluation on Spark1k ===
+Parsing file: ../logs/Spark/Spark_1k_match.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 10 > logcluster_output.txt
+Parsing done. [Time taken: 0:00:00.183671]
+Precision: 1.0000, Recall: 0.8099, F1_measure: 0.8950, Parsing_Accuracy: 0.6234
+
+=== Evaluation on HDFS100k ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 10 > logcluster_output.txt
+Parsing done. [Time taken: 0:00:04.999155]
+Precision: 1.0000, Recall: 0.9242, F1_measure: 0.9606, Parsing_Accuracy: 0.4584
+
+=== Evaluation on HDFS41m ===
+Parsing file: ../logs/HDFS/HDFS_1m.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 10 > logcluster_output.txt
+Parsing done. [Time taken: 0:01:09.325448]
+Precision: 1.0000, Recall: 0.8784, F1_measure: 0.9353, Parsing_Accuracy: 0.3911
+
+=== Evaluation on Spark1m ===
+Parsing file: ../logs/Spark/Spark_1m_match.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 10 > logcluster_output.txt
+Parsing done. [Time taken: 0:01:17.364782]
+Precision: 1.0000, Recall: 0.7817, F1_measure: 0.8775, Parsing_Accuracy: 0.4594
+
+=== Evaluation on HDFS10k ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 10 > logcluster_output.txt
+Parsing done. [Time taken: 0:00:00.538179]
+Precision: 1.0000, Recall: 0.9864, F1_measure: 0.9932, Parsing_Accuracy: 0.5897
+
+=== Evaluation on Spark10k ===
+Parsing file: ../logs/Spark/Spark_10k_match.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 10 > logcluster_output.txt
+Parsing done. [Time taken: 0:00:00.890339]
+Precision: 1.0000, Recall: 0.8641, F1_measure: 0.9271, Parsing_Accuracy: 0.4785
+
+=== Evaluation on HDFS1k ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 10 > logcluster_output.txt
+Parsing done. [Time taken: 0:00:00.146014]
+Precision: 1.0000, Recall: 0.9979, F1_measure: 0.9990, Parsing_Accuracy: 0.9380
+
+=== Evaluation on BGL100k ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Parsing done. [Time taken: 0:00:03.343706]
+Precision: 1.0000, Recall: 0.9997, F1_measure: 0.9998, Parsing_Accuracy: 0.9606
+
+=== Evaluation on BGL1k ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Parsing done. [Time taken: 0:00:00.114350]
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Evaluation on BGL1m ===
+Parsing file: ../logs/BGL/BGL_1m.log
+Run LogCluster command...
+>> perl ../logparser/LogCluster/logcluster.pl --input logcluster_input.log -rsupport 2 > logcluster_output.txt
+Parsing done. [Time taken: 0:00:48.204509]
+Precision: 0.9771, Recall: 0.9958, F1_measure: 0.9863, Parsing_Accuracy: 0.6400
+
+=== Overall evaluation results ===
+           F1_measure  Accuracy
+Dataset                        
+BGL10k       0.730767  0.487049
+Spark100k    0.917979  0.488244
+Spark1k      0.894950  0.623364
+HDFS100k     0.960601  0.458370
+HDFS41m      0.935292  0.391126
+Spark1m      0.877487  0.459415
+HDFS10k      0.993176  0.589700
+Spark10k     0.927089  0.478535
+HDFS1k       0.998968  0.938000
+BGL100k      0.999841  0.960600
+BGL1k        1.000000  1.000000
+BGL1m        0.986345  0.640030

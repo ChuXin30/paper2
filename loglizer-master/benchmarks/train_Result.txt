@@ -1,0 +1,631 @@
+['HDFS_bechmark.py', '/media/hao/file/paper2_code/BGL/noise/noise_0/WITH_S_train', '/media/hao/file/paper2_code/BGL/noise/noise_0/WITH_S_test_normal_simple', '/media/hao/file/paper2_code/BGL/noise/noise_0/WITH_S_test_abnormal_simple']
+/media/hao/file/paper2_code/BGL/noise/noise_0/WITH_S_train
+/media/hao/file/paper2_code/BGL/noise/noise_0/WITH_S_test_normal_simple
+/media/hao/file/paper2_code/BGL/noise/noise_0/WITH_S_test_abnormal_simple
+train length=41881
+test normal length=8377
+test total length=9207
+['49' '639' '49' '49' '49' '49' '49' '49' '49' '49' '49' '49' '49' '639'
+ '49' '639' '49' '49' '49' '639' '49']
+0
+['8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '11' '8' '8' '8'
+ '8' '431' '11']
+0
+Evaluating PCA on HDFS:
+====== Transformed train data summary ======
+Train data shape: 41881-by-571
+
+====== Model summary ======
+n_components: 77
+Project matrix shape: 571-by-571
+SPE threshold: 141.60423633578085
+
+====== Transformed test data summary ======
+Test data shape: 9207-by-571
+
+              precision    recall  f1-score   support
+
+           0    0.99675   0.91501   0.95413      8377
+           1    0.53065   0.96988   0.68598       830
+
+    accuracy                        0.91995      9207
+   macro avg    0.76370   0.94244   0.82006      9207
+weighted avg    0.95473   0.91995   0.92996      9207
+
+[[7665  712]
+ [  25  805]]
+Evaluating LogClustering on HDFS:
+====== Transformed train data summary ======
+Train data shape: 41881-by-571
+
+====== Model summary ======
+Starting offline clustering...
+Processed 1000 instances.
+Found 196 clusters offline.
+
+Starting online clustering...
+Processed 2000 instances.
+Processed 4000 instances.
+Processed 6000 instances.
+Processed 8000 instances.
+Processed 10000 instances.
+Processed 12000 instances.
+Processed 14000 instances.
+Processed 16000 instances.
+Processed 18000 instances.
+Processed 20000 instances.
+Processed 22000 instances.
+Processed 24000 instances.
+['HDFS_bechmark.py', '/media/hao/file/paper2_code/BGL/noise/noise_0/WITH_S_train', '/media/hao/file/paper2_code/BGL/noise/noise_0/WITH_S_test_normal_simple', '/media/hao/file/paper2_code/BGL/noise/noise_0/WITH_S_test_abnormal_simple']
+/media/hao/file/paper2_code/BGL/noise/noise_0/WITH_S_train
+/media/hao/file/paper2_code/BGL/noise/noise_0/WITH_S_test_normal_simple
+/media/hao/file/paper2_code/BGL/noise/noise_0/WITH_S_test_abnormal_simple
+train length=41881
+test normal length=8377
+test total length=9207
+['49' '639' '49' '49' '49' '49' '49' '49' '49' '49' '49' '49' '49' '639'
+ '49' '639' '49' '49' '49' '639' '49']
+0
+['8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '11' '8' '8' '8'
+ '8' '431' '11']
+0
+Evaluating PCA on HDFS:
+====== Transformed train data summary ======
+Train data shape: 41881-by-571
+
+====== Model summary ======
+n_components: 77
+Project matrix shape: 571-by-571
+SPE threshold: 141.60423633578085
+
+====== Transformed test data summary ======
+Test data shape: 9207-by-571
+
+              precision    recall  f1-score   support
+
+           0    0.99675   0.91501   0.95413      8377
+           1    0.53065   0.96988   0.68598       830
+
+    accuracy                        0.91995      9207
+   macro avg    0.76370   0.94244   0.82006      9207
+weighted avg    0.95473   0.91995   0.92996      9207
+
+[[7665  712]
+ [  25  805]]
+Evaluating LogClustering on HDFS:
+====== Transformed train data summary ======
+Train data shape: 41881-by-571
+
+====== Model summary ======
+Starting offline clustering...
+Processed 1000 instances.
+Found 196 clusters offline.
+
+Starting online clustering...
+Processed 2000 instances.
+Processed 4000 instances.
+Processed 6000 instances.
+Processed 8000 instances.
+Processed 10000 instances.
+Processed 12000 instances.
+Processed 14000 instances.
+Processed 16000 instances.
+Processed 18000 instances.
+Processed 20000 instances.
+Processed 22000 instances.
+Processed 24000 instances.
+Processed 26000 instances.
+Processed 28000 instances.
+Processed 30000 instances.
+Processed 32000 instances.
+Processed 34000 instances.
+Processed 36000 instances.
+Processed 38000 instances.
+Processed 40000 instances.
+Processed 41881 instances.
+Found 1790 clusters online.
+
+====== Transformed test data summary ======
+Test data shape: 9207-by-571
+
+              precision    recall  f1-score   support
+
+           0    0.96969   0.97374   0.97171      8377
+           1    0.72327   0.69277   0.70769       830
+
+    accuracy                        0.94841      9207
+   macro avg    0.84648   0.83325   0.83970      9207
+weighted avg    0.94747   0.94841   0.94791      9207
+
+[[8157  220]
+ [ 255  575]]
+['HDFS_bechmark.py', '/media/hao/file/paper2_code/BGL/noise/noise_0/WITH_S_train', '/media/hao/file/paper2_code/BGL/noise/noise_5/WITH_S_test_normal_simple', '/media/hao/file/paper2_code/BGL/noise/noise_5/WITH_S_test_abnormal_simple']
+/media/hao/file/paper2_code/BGL/noise/noise_0/WITH_S_train
+/media/hao/file/paper2_code/BGL/noise/noise_5/WITH_S_test_normal_simple
+/media/hao/file/paper2_code/BGL/noise/noise_5/WITH_S_test_abnormal_simple
+train length=41881
+test normal length=8377
+test total length=9207
+['5' '6' '6' '6' '6' '6' '6' '6' '5' '6' '6' '6' '6' '6' '6' '6' '6' '5'
+ '6' '6' '7']
+0
+['8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '11' '8' '8' '8'
+ '8' '431' '11']
+0
+Evaluating PCA on HDFS:
+====== Transformed train data summary ======
+Train data shape: 41881-by-571
+
+====== Model summary ======
+n_components: 77
+Project matrix shape: 571-by-571
+SPE threshold: 141.60423633578085
+
+====== Transformed test data summary ======
+Test data shape: 9207-by-571
+
+              precision    recall  f1-score   support
+
+           0    0.99686   0.90856   0.95066      8377
+           1    0.51272   0.97108   0.67111       830
+
+    accuracy                        0.91420      9207
+   macro avg    0.75479   0.93982   0.81088      9207
+weighted avg    0.95321   0.91420   0.92546      9207
+
+[[7611  766]
+ [  24  806]]
+Evaluating LogClustering on HDFS:
+====== Transformed train data summary ======
+Train data shape: 41881-by-571
+
+====== Model summary ======
+Starting offline clustering...
+Processed 1000 instances.
+Found 196 clusters offline.
+
+Starting online clustering...
+Processed 2000 instances.
+Processed 4000 instances.
+Processed 6000 instances.
+Processed 8000 instances.
+Processed 10000 instances.
+Processed 12000 instances.
+Processed 14000 instances.
+Processed 16000 instances.
+Processed 18000 instances.
+Processed 20000 instances.
+Processed 22000 instances.
+Processed 24000 instances.
+Processed 26000 instances.
+Processed 28000 instances.
+Processed 30000 instances.
+Processed 32000 instances.
+Processed 34000 instances.
+Processed 36000 instances.
+Processed 38000 instances.
+Processed 40000 instances.
+Processed 41881 instances.
+Found 1790 clusters online.
+
+====== Transformed test data summary ======
+Test data shape: 9207-by-571
+
+              precision    recall  f1-score   support
+
+           0    0.96871   0.97207   0.97039      8377
+           1    0.70787   0.68313   0.69528       830
+
+    accuracy                        0.94602      9207
+   macro avg    0.83829   0.82760   0.83283      9207
+weighted avg    0.94520   0.94602   0.94559      9207
+
+[[8143  234]
+ [ 263  567]]
+['HDFS_bechmark.py', '/media/hao/file/paper2_code/BGL/noise/noise_0/WITH_S_train', '/media/hao/file/paper2_code/BGL/noise/noise_10/WITH_S_test_normal_simple', '/media/hao/file/paper2_code/BGL/noise/noise_10/WITH_S_test_abnormal_simple']
+/media/hao/file/paper2_code/BGL/noise/noise_0/WITH_S_train
+/media/hao/file/paper2_code/BGL/noise/noise_10/WITH_S_test_normal_simple
+/media/hao/file/paper2_code/BGL/noise/noise_10/WITH_S_test_abnormal_simple
+train length=41881
+test normal length=8377
+test total length=9207
+['431' '431' '431' '12' '431' '12' '431' '431' '8' '431' '431' '431' '431'
+ '431' '431' '8' '8' '431' '431' '8' '431']
+0
+['8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '11' '8' '8' '8'
+ '8' '431' '11']
+0
+Evaluating PCA on HDFS:
+====== Transformed train data summary ======
+Train data shape: 41881-by-571
+
+====== Model summary ======
+n_components: 77
+Project matrix shape: 571-by-571
+SPE threshold: 141.60423633578085
+
+====== Transformed test data summary ======
+Test data shape: 9207-by-571
+
+              precision    recall  f1-score   support
+
+           0    0.99687   0.91274   0.95295      8377
+           1    0.52440   0.97108   0.68103       830
+
+    accuracy                        0.91800      9207
+   macro avg    0.76063   0.94191   0.81699      9207
+weighted avg    0.95428   0.91800   0.92844      9207
+
+[[7646  731]
+ [  24  806]]
+Evaluating LogClustering on HDFS:
+====== Transformed train data summary ======
+Train data shape: 41881-by-571
+
+====== Model summary ======
+Starting offline clustering...
+Processed 1000 instances.
+Found 196 clusters offline.
+
+Starting online clustering...
+Processed 2000 instances.
+Processed 4000 instances.
+Processed 6000 instances.
+Processed 8000 instances.
+Processed 10000 instances.
+Processed 12000 instances.
+Processed 14000 instances.
+Processed 16000 instances.
+Processed 18000 instances.
+Processed 20000 instances.
+Processed 22000 instances.
+Processed 24000 instances.
+Processed 26000 instances.
+Processed 28000 instances.
+Processed 30000 instances.
+Processed 32000 instances.
+Processed 34000 instances.
+Processed 36000 instances.
+Processed 38000 instances.
+Processed 40000 instances.
+Processed 41881 instances.
+Found 1790 clusters online.
+
+====== Transformed test data summary ======
+Test data shape: 9207-by-571
+
+              precision    recall  f1-score   support
+
+           0    0.96584   0.97553   0.97066      8377
+           1    0.72520   0.65181   0.68655       830
+
+    accuracy                        0.94635      9207
+   macro avg    0.84552   0.81367   0.82860      9207
+weighted avg    0.94415   0.94635   0.94505      9207
+
+[[8172  205]
+ [ 289  541]]
+['HDFS_bechmark.py', '/media/hao/file/paper2_code/BGL/noise/noise_0/WITH_S_train', '/media/hao/file/paper2_code/BGL/noise/noise_15/WITH_S_test_normal_simple', '/media/hao/file/paper2_code/BGL/noise/noise_15/WITH_S_test_abnormal_simple']
+/media/hao/file/paper2_code/BGL/noise/noise_0/WITH_S_train
+/media/hao/file/paper2_code/BGL/noise/noise_15/WITH_S_test_normal_simple
+/media/hao/file/paper2_code/BGL/noise/noise_15/WITH_S_test_abnormal_simple
+train length=41881
+test normal length=8377
+test total length=9207
+['431' '431' '12' '431' '431' '431' '431' '12' '8' '12' '431' '431' '8'
+ '431' '431' '431' '431' '12' '8' '431' '8']
+0
+['8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '8' '11' '8' '8' '8'
+ '8' '431' '11']
+0
+Evaluating PCA on HDFS:
+====== Transformed train data summary ======
+Train data shape: 41881-by-571
+
+====== Model summary ======
+n_components: 77
+Project matrix shape: 571-by-571
+SPE threshold: 141.60423633578085
+
+====== Transformed test data summary ======
+Test data shape: 9207-by-571
+
+              precision    recall  f1-score   support
+
+           0    0.99766   0.91417   0.95409      8377
+           1    0.53037   0.97831   0.68784       830
+
+    accuracy                        0.91995      9207
+   macro avg    0.76401   0.94624   0.82097      9207
+weighted avg    0.95553   0.91995   0.93009      9207
+
+[[7658  719]
+ [  18  812]]
+Evaluating LogClustering on HDFS:
+====== Transformed train data summary ======
+Train data shape: 41881-by-571
+
+====== Model summary ======
+Starting offline clustering...
+Processed 1000 instances.
+Found 196 clusters offline.
+
+Starting online clustering...
+Processed 2000 instances.
+Processed 4000 instances.
+Processed 6000 instances.
+Processed 8000 instances.
+Processed 10000 instances.
+Processed 12000 instances.
+Processed 14000 instances.
+Processed 16000 instances.
+Processed 18000 instances.
+Processed 20000 instances.
+Processed 22000 instances.
+Processed 24000 instances.
+Processed 26000 instances.
+Processed 28000 instances.
+Processed 30000 instances.
+Processed 32000 instances.
+Processed 34000 instances.
+Processed 36000 instances.
+Processed 38000 instances.
+Processed 40000 instances.
+Processed 41881 instances.
+Found 1790 clusters online.
+
+====== Transformed test data summary ======
+Test data shape: 9207-by-571
+
+              precision    recall  f1-score   support
+
+           0    0.97011   0.97242   0.97127      8377
+           1    0.71481   0.69759   0.70610       830
+
+    accuracy                        0.94765      9207
+   macro avg    0.84246   0.83501   0.83868      9207
+weighted avg    0.94709   0.94765   0.94736      9207
+
+[[8146  231]
+ [ 251  579]]
+['HDFS_bechmark.py', '/media/hao/file/paper2_code/BGL/noise/drain_random_with_level_20/train', '/media/hao/file/paper2_code/BGL/noise_2/noise_0/WITH_S_test_normal_simple', '/media/hao/file/paper2_code/BGL/noise_2/noise_0/WITH_S_test_abnormal_simple']
+/media/hao/file/paper2_code/BGL/noise/drain_random_with_level_20/train
+/media/hao/file/paper2_code/BGL/noise_2/noise_0/WITH_S_test_normal_simple
+/media/hao/file/paper2_code/BGL/noise_2/noise_0/WITH_S_test_abnormal_simple
+train length=43995
+test normal length=8380
+test total length=9210
+['638' '638' '638' '638' '638' '638' '638' '638' '638' '638' '638' '638'
+ '638' '638' '638' '638' '638' '638' '638' '638' '638']
+0
+['3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3'
+ '3' '3' '3']
+0
+Evaluating PCA on HDFS:
+====== Transformed train data summary ======
+Train data shape: 43995-by-804
+
+====== Model summary ======
+n_components: 87
+Project matrix shape: 804-by-804
+SPE threshold: 271.8628335591565
+
+====== Transformed test data summary ======
+Test data shape: 9210-by-804
+
+              precision    recall  f1-score   support
+
+           0    0.90366   0.92900   0.91615      8380
+           1    0.00000   0.00000   0.00000       830
+
+    accuracy                        0.84528      9210
+   macro avg    0.45183   0.46450   0.45808      9210
+weighted avg    0.82222   0.84528   0.83359      9210
+
+[[7785  595]
+ [ 830    0]]
+Evaluating LogClustering on HDFS:
+====== Transformed train data summary ======
+Train data shape: 43995-by-804
+
+====== Model summary ======
+Starting offline clustering...
+Processed 1000 instances.
+Found 139 clusters offline.
+
+Starting online clustering...
+Processed 2000 instances.
+Processed 4000 instances.
+Processed 6000 instances.
+Processed 8000 instances.
+Processed 10000 instances.
+Processed 12000 instances.
+Processed 14000 instances.
+Processed 16000 instances.
+Processed 18000 instances.
+Processed 20000 instances.
+Processed 22000 instances.
+Processed 24000 instances.
+Processed 26000 instances.
+Processed 28000 instances.
+Processed 30000 instances.
+Processed 32000 instances.
+Processed 34000 instances.
+Processed 36000 instances.
+Processed 38000 instances.
+Processed 40000 instances.
+Processed 42000 instances.
+Processed 43995 instances.
+Found 1097 clusters online.
+
+====== Transformed test data summary ======
+Test data shape: 9210-by-804
+
+              precision    recall  f1-score   support
+
+           0    0.99897   0.92983   0.96316      8380
+           1    0.58298   0.99036   0.73393       830
+
+    accuracy                        0.93529      9210
+   macro avg    0.79098   0.96010   0.84855      9210
+weighted avg    0.96149   0.93529   0.94251      9210
+
+[[7792  588]
+ [   8  822]]
+['HDFS_bechmark.py', '/media/hao/file/paper2_code/BGL/noise/drain_random_with_level_20/train', '/media/hao/file/paper2_code/BGL/noise_2/noise_25/Deeplog_test_normal_simple', '/media/hao/file/paper2_code/BGL/noise_2/noise_25/Deeplog_test_abnormal_simple']
+/media/hao/file/paper2_code/BGL/noise/drain_random_with_level_20/train
+/media/hao/file/paper2_code/BGL/noise_2/noise_25/Deeplog_test_normal_simple
+/media/hao/file/paper2_code/BGL/noise_2/noise_25/Deeplog_test_abnormal_simple
+train length=43995
+test normal length=8377
+test total length=9207
+['1' '1' '1' '1' '1' '1' '1' '2' '1' '1' '1' '1' '2' '1' '1' '1' '1' '1'
+ '1' '1' '1']
+0
+['3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3'
+ '3' '3' '3']
+0
+Evaluating PCA on HDFS:
+====== Transformed train data summary ======
+Train data shape: 43995-by-804
+
+====== Model summary ======
+n_components: 87
+Project matrix shape: 804-by-804
+SPE threshold: 271.8628335591565
+
+====== Transformed test data summary ======
+Test data shape: 9207-by-804
+
+              precision    recall  f1-score   support
+
+           0    0.90677   0.96371   0.93438      8377
+           1    0.00000   0.00000   0.00000       830
+
+    accuracy                        0.87683      9207
+   macro avg    0.45339   0.48186   0.46719      9207
+weighted avg    0.82503   0.87683   0.85014      9207
+
+[[8073  304]
+ [ 830    0]]
+Evaluating LogClustering on HDFS:
+====== Transformed train data summary ======
+Train data shape: 43995-by-804
+
+====== Model summary ======
+Starting offline clustering...
+Processed 1000 instances.
+Found 139 clusters offline.
+
+Starting online clustering...
+Processed 2000 instances.
+Processed 4000 instances.
+Processed 6000 instances.
+Processed 8000 instances.
+Processed 10000 instances.
+Processed 12000 instances.
+Processed 14000 instances.
+Processed 16000 instances.
+Processed 18000 instances.
+Processed 20000 instances.
+Processed 22000 instances.
+Processed 24000 instances.
+Processed 26000 instances.
+Processed 28000 instances.
+Processed 30000 instances.
+Processed 32000 instances.
+Processed 34000 instances.
+Processed 36000 instances.
+Processed 38000 instances.
+Processed 40000 instances.
+Processed 42000 instances.
+Processed 43995 instances.
+Found 1097 clusters online.
+
+====== Transformed test data summary ======
+Test data shape: 9207-by-804
+
+              precision    recall  f1-score   support
+
+           0    0.89135   0.60033   0.71745      8377
+           1    0.06087   0.26145   0.09875       830
+
+    accuracy                        0.56978      9207
+   macro avg    0.47611   0.43089   0.40810      9207
+weighted avg    0.81648   0.56978   0.66168      9207
+
+[[5029 3348]
+ [ 613  217]]
+['HDFS_bechmark.py', '/media/hao/file/paper2_code/BGL/noise/drain_random_with_level_20/train', '/media/hao/file/paper2_code/BGL/noise_3/noise_0/WITH_S_test_normal', '/media/hao/file/paper2_code/BGL/noise_3/noise_0/WITH_S_test_abnormal']
+/media/hao/file/paper2_code/BGL/noise/drain_random_with_level_20/train
+/media/hao/file/paper2_code/BGL/noise_3/noise_0/WITH_S_test_normal
+/media/hao/file/paper2_code/BGL/noise_3/noise_0/WITH_S_test_abnormal
+train length=43995
+test normal length=167599
+test total length=184192
+['324' '324' '324' '324' '324' '324' '324' '324' '324' '324' '324' '324'
+ '324' '324' '324' '324' '324' '324' '324' '324' '324']
+0
+['3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3' '3'
+ '3' '3' '3']
+0
+Evaluating PCA on HDFS:
+====== Transformed train data summary ======
+Train data shape: 43995-by-804
+
+====== Model summary ======
+n_components: 87
+Project matrix shape: 804-by-804
+SPE threshold: 271.8628335591565
+
+====== Transformed test data summary ======
+Test data shape: 184192-by-804
+
+              precision    recall  f1-score   support
+
+           0    0.90382   0.93011   0.91678    167599
+           1    0.00043   0.00030   0.00035     16593
+
+    accuracy                        0.84635    184192
+   macro avg    0.45212   0.46520   0.45856    184192
+weighted avg    0.82244   0.84635   0.83422    184192
+
+[[155885  11714]
+ [ 16588      5]]
+Evaluating LogClustering on HDFS:
+====== Transformed train data summary ======
+Train data shape: 43995-by-804
+
+====== Model summary ======
+Starting offline clustering...
+Processed 1000 instances.
+Found 139 clusters offline.
+
+Starting online clustering...
+Processed 2000 instances.
+Processed 4000 instances.
+Processed 6000 instances.
+Processed 8000 instances.
+Processed 10000 instances.
+Processed 12000 instances.
+Processed 14000 instances.
+Processed 16000 instances.
+Processed 18000 instances.
+Processed 20000 instances.
+Processed 22000 instances.
+Processed 24000 instances.
+Processed 26000 instances.
+Processed 28000 instances.
+Processed 30000 instances.
+Processed 32000 instances.
+Processed 34000 instances.
+Processed 36000 instances.
+Processed 38000 instances.
+Processed 40000 instances.
+Processed 42000 instances.
+Processed 43995 instances.
+Found 1097 clusters online.
+
+====== Transformed test data summary ======
+Test data shape: 184192-by-804
+

@@ -1,0 +1,421 @@
+
+=== Evaluation on Spark100k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=0.7
+Parsing file: ../logs/Spark/Spark_100k_match.log
+0.7
+count_p=28 count_lcs_match=0
+Parsing done. [Time taken: 0:00:00.464816]
+Parsing done. [Time taken: 0:00:01.007282]
+real_pairs:  673277491.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+best_st=0.5, best_tau=0.7 , F1_measure=0.9999999970294566, best_acc=0.999959997199804 time_use=0.656336, 
+
+=== Evaluation on Spark10k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=0.7
+Parsing file: ../logs/Spark/Spark_10k_match.log
+0.7
+count_p=28 count_lcs_match=0
+Parsing done. [Time taken: 0:00:00.218863]
+Parsing done. [Time taken: 0:00:00.272161]
+real_pairs:  6797185.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9996
+best_st=0.5, best_tau=0.7 , F1_measure=0.9999997057604598, best_acc=0.9995997198038628 time_use=0.36964, 
+
+=== Evaluation on Spark1k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=0.7
+Parsing file: ../logs/Spark/Spark_1k_match.log
+0.7
+count_p=28 count_lcs_match=0
+Parsing done. [Time taken: 0:00:00.193865]
+Parsing done. [Time taken: 0:00:00.205240]
+real_pairs:  50603.0
+Precision: 1.0000, Recall: 0.9999, F1_measure: 1.0000, Parsing_Accuracy: 0.9960
+best_st=0.5, best_tau=0.7 , F1_measure=0.9999604750894251, best_acc=0.9959718026183283 time_use=0.21918, 
+
+=== Evaluation on Spark1m ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=0.7
+Parsing file: ../logs/Spark/Spark_1m_match.log
+0.7
+count_p=29 count_lcs_match=0
+Parsing done. [Time taken: 0:00:02.883095]
+Parsing done. [Time taken: 0:00:07.796221]
+real_pairs:  54232979716.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9999
+best_st=0.5, best_tau=0.7 , F1_measure=0.9999999787583121, best_acc=0.9998969456184176 time_use=0.602224, 
+
+=== Evaluation on BGL1m ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=1.1
+Parsing file: ../logs/BGL/BGL_1m.log
+1.1
+count_p=6613 count_lcs_match=0
+Parsing done. [Time taken: 0:01:54.478716]
+Parsing done. [Time taken: 0:02:01.199227]
+real_pairs:  63584927510.0
+Precision: 0.9903, Recall: 0.9954, F1_measure: 0.9929, Parsing_Accuracy: 0.8844
+best_st=0.5, best_tau=1.1 , F1_measure=0.9928604648149931, best_acc=0.8843978843978844 time_use=0.217829, 
+
+=== Evaluation on BGL1k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=1.1
+Parsing file: ../logs/BGL/BGL_1k.log
+1.1
+count_p=1 count_lcs_match=0
+Parsing done. [Time taken: 0:00:00.010277]
+Parsing done. [Time taken: 0:00:00.025620]
+real_pairs:  498501.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+best_st=0.5, best_tau=1.1 , F1_measure=1.0, best_acc=1.0 time_use=0.375106, 
+
+=== Evaluation on BGL10k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=1.1
+Parsing file: ../logs/BGL/BGL_10k.log
+1.1
+count_p=11 count_lcs_match=0
+Parsing done. [Time taken: 0:00:00.106590]
+Parsing done. [Time taken: 0:00:00.172176]
+real_pairs:  23062683.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+best_st=0.5, best_tau=1.1 , F1_measure=1.0, best_acc=1.0 time_use=0.248881, 
+
+=== Evaluation on BGL100k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=1.1
+Parsing file: ../logs/BGL/BGL_100k.log
+1.1
+count_p=206 count_lcs_match=0
+Parsing done. [Time taken: 0:00:01.777638]
+Parsing done. [Time taken: 0:00:02.341223]
+real_pairs:  3427124179.0
+Precision: 1.0000, Recall: 0.9999, F1_measure: 1.0000, Parsing_Accuracy: 0.9918
+best_st=0.5, best_tau=1.1 , F1_measure=0.9999552356847602, best_acc=0.991809918099181 time_use=0.131043, 
+
+=== Evaluation on HDFS1k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.2 tau_tmp=0.7
+Parsing file: ../logs/HDFS/HDFS_1k.log
+0.7
+count_p=317 count_lcs_match=308
+Parsing done. [Time taken: 0:00:00.082953]
+Parsing done. [Time taken: 0:00:00.094452]
+real_pairs:  165868.0
+Precision: 0.9927, Recall: 1.0000, F1_measure: 0.9963, Parsing_Accuracy: 0.6900
+best_st=0.2, best_tau=0.7 , F1_measure=0.9963238827486786, best_acc=0.69 time_use=0.182829, 
+
+=== Evaluation on HDFS10k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.2 tau_tmp=0.7
+Parsing file: ../logs/HDFS/HDFS_10k.log
+0.7
+count_p=421 count_lcs_match=409
+Parsing done. [Time taken: 0:00:00.134279]
+Parsing done. [Time taken: 0:00:00.198196]
+real_pairs:  10276742.0
+Precision: 0.9998, Recall: 1.0000, F1_measure: 0.9999, Parsing_Accuracy: 0.9589
+best_st=0.2, best_tau=0.7 , F1_measure=0.9999207982909556, best_acc=0.9589 time_use=0.256545, 
+
+=== Evaluation on HDFS100k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.2 tau_tmp=0.7
+Parsing file: ../logs/HDFS/HDFS_2k.log
+0.7
+count_p=17 count_lcs_match=3
+Parsing done. [Time taken: 0:00:00.104649]
+Parsing done. [Time taken: 0:00:00.122149]
+real_pairs:  254823.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+best_st=0.2, best_tau=0.7 , F1_measure=1.0, best_acc=1.0 time_use=0.140941, 
+
+=== Evaluation on HDFS1m ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.2 tau_tmp=0.7
+Parsing file: ../logs/HDFS/HDFS_1m.log
+0.7
+count_p=35602 count_lcs_match=35575
+Parsing done. [Time taken: 0:00:05.489122]
+Parsing done. [Time taken: 0:00:12.142713]
+real_pairs:  83195137434.0
+Precision: 0.9997, Recall: 1.0000, F1_measure: 0.9998, Parsing_Accuracy: 0.5709
+best_st=0.2, best_tau=0.7 , F1_measure=0.9998263917799428, best_acc=0.570949 time_use=0.978147, 
+
+=== Overall evaluation results ===
+           best_st  best_tau  F1_measure  Accuracy      time
+Dataset                                                     
+Spark100k      0.5       0.7    1.000000  0.999960  0.656336
+Spark10k       0.5       0.7    1.000000  0.999600  0.369640
+Spark1k        0.5       0.7    0.999960  0.995972  0.219180
+Spark1m        0.5       0.7    1.000000  0.999897  0.602224
+BGL1m          0.5       1.1    0.992860  0.884398  0.217829
+BGL1k          0.5       1.1    1.000000  1.000000  0.375106
+BGL10k         0.5       1.1    1.000000  1.000000  0.248881
+BGL100k        0.5       1.1    0.999955  0.991810  0.131043
+HDFS1k         0.2       0.7    0.996324  0.690000  0.182829
+HDFS10k        0.2       0.7    0.999921  0.958900  0.256545
+HDFS100k       0.2       0.7    1.000000  1.000000  0.140941
+HDFS1m         0.2       0.7    0.999826  0.570949  0.978147
+avarage accuracy is 0.9242904389781231
+
+=== Evaluation on HDFS_all ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.2 tau_tmp=0.7
+Parsing file: ../logs/HDFS/HDFS.log
+0.7
+count_p=442552 count_lcs_match=442517
+Parsing done. [Time taken: 0:00:59.789862]
+Parsing done. [Time taken: 0:02:00.274846]
+
+=== Evaluation on Spark100k ===
+
+=== Evaluation on Spark100k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=0.7
+Parsing file: ../logs/Spark/Spark_100k_match.log
+0.7
+count_p=28 count_lcs_match=0
+Parsing done. [Time taken: 0:00:09.608952]
+real_pairs:  673277491.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Evaluation on Spark100k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=0.7
+Parsing file: ../logs/Spark/Spark_100k_match.log
+0.7
+count_p=28 count_lcs_match=0
+Parsing done. [Time taken: 0:00:09.514658]
+real_pairs:  673277491.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Evaluation on Spark100k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=0.7
+Parsing file: ../logs/Spark/Spark_100k_match.log
+0.7
+count_p=28 count_lcs_match=0
+Parsing done. [Time taken: 0:00:09.486624]
+real_pairs:  673277491.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Evaluation on Spark100k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=0.7
+Parsing file: ../logs/Spark/Spark_100k_match.log
+0.7
+count_p=28 count_lcs_match=0
+Parsing done. [Time taken: 0:00:09.626685]
+real_pairs:  673277491.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+best_st=0.5, best_tau=0.7 , F1_measure=0.9999999970294566, best_acc=0.999959997199804 , 
+
+=== Evaluation on Spark10k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=0.7
+Parsing file: ../logs/Spark/Spark_10k_match.log
+0.7
+count_p=28 count_lcs_match=0
+Parsing done. [Time taken: 0:00:01.140410]
+real_pairs:  6797185.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9996
+best_st=0.5, best_tau=0.7 , F1_measure=0.9999997057604598, best_acc=0.9995997198038628 , 
+
+=== Evaluation on Spark1k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=0.7
+Parsing file: ../logs/Spark/Spark_1k_match.log
+0.7
+count_p=28 count_lcs_match=0
+Parsing done. [Time taken: 0:00:00.315727]
+real_pairs:  50603.0
+Precision: 1.0000, Recall: 0.9999, F1_measure: 1.0000, Parsing_Accuracy: 0.9960
+best_st=0.5, best_tau=0.7 , F1_measure=0.9999604750894251, best_acc=0.9959718026183283 , 
+
+=== Evaluation on Spark1m ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=0.7
+Parsing file: ../logs/Spark/Spark_1m_match.log
+0.7
+count_p=29 count_lcs_match=0
+Parsing done. [Time taken: 0:01:29.369600]
+real_pairs:  54232979716.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9999
+best_st=0.5, best_tau=0.7 , F1_measure=0.9999999787583121, best_acc=0.9998969456184176 , 
+
+=== Evaluation on BGL1m ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=1.1
+Parsing file: ../logs/BGL/BGL_1m.log
+1.1
+count_p=6613 count_lcs_match=0
+Parsing done. [Time taken: 0:02:40.771407]
+real_pairs:  63584927510.0
+Precision: 0.9903, Recall: 0.9954, F1_measure: 0.9929, Parsing_Accuracy: 0.8844
+best_st=0.5, best_tau=1.1 , F1_measure=0.9928604648149931, best_acc=0.8843978843978844 , 
+
+=== Evaluation on BGL1k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=1.1
+Parsing file: ../logs/BGL/BGL_1k.log
+1.1
+count_p=1 count_lcs_match=0
+Parsing done. [Time taken: 0:00:01.461748]
+real_pairs:  498501.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+best_st=0.5, best_tau=1.1 , F1_measure=1.0, best_acc=1.0 , 
+
+=== Evaluation on BGL10k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=1.1
+Parsing file: ../logs/BGL/BGL_10k.log
+1.1
+count_p=11 count_lcs_match=0
+Parsing done. [Time taken: 0:00:00.498785]
+real_pairs:  23062683.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+best_st=0.5, best_tau=1.1 , F1_measure=1.0, best_acc=1.0 , 
+
+=== Evaluation on BGL100k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=1.1
+Parsing file: ../logs/BGL/BGL_100k.log
+1.1
+count_p=206 count_lcs_match=0
+Parsing done. [Time taken: 0:00:05.053598]
+real_pairs:  3427124179.0
+Precision: 1.0000, Recall: 0.9999, F1_measure: 1.0000, Parsing_Accuracy: 0.9918
+best_st=0.5, best_tau=1.1 , F1_measure=0.9999552356847602, best_acc=0.991809918099181 , 
+
+=== Evaluation on HDFS1k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.2 tau_tmp=0.7
+Parsing file: ../logs/HDFS/HDFS_1k.log
+0.7
+count_p=317 count_lcs_match=308
+Parsing done. [Time taken: 0:00:00.284447]
+real_pairs:  165868.0
+Precision: 0.9927, Recall: 1.0000, F1_measure: 0.9963, Parsing_Accuracy: 0.6900
+best_st=0.2, best_tau=0.7 , F1_measure=0.9963238827486786, best_acc=0.69 , 
+
+=== Evaluation on HDFS10k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.2 tau_tmp=0.7
+Parsing file: ../logs/HDFS/HDFS_10k.log
+0.7
+count_p=421 count_lcs_match=409
+Parsing done. [Time taken: 0:00:01.420753]
+real_pairs:  10276742.0
+Precision: 0.9998, Recall: 1.0000, F1_measure: 0.9999, Parsing_Accuracy: 0.9589
+best_st=0.2, best_tau=0.7 , F1_measure=0.9999207982909556, best_acc=0.9589 , 
+
+=== Evaluation on HDFS100k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.2 tau_tmp=0.7
+Parsing file: ../logs/HDFS/HDFS_2k.log
+0.7
+count_p=17 count_lcs_match=3
+Parsing done. [Time taken: 0:00:00.374534]
+real_pairs:  254823.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+best_st=0.2, best_tau=0.7 , F1_measure=1.0, best_acc=1.0 , 
+
+=== Evaluation on HDFS1m ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.2 tau_tmp=0.7
+Parsing file: ../logs/HDFS/HDFS_1m.log
+0.7
+count_p=35602 count_lcs_match=35575
+Parsing done. [Time taken: 0:02:17.901452]
+real_pairs:  83195137434.0
+Precision: 0.9997, Recall: 1.0000, F1_measure: 0.9998, Parsing_Accuracy: 0.5709
+best_st=0.2, best_tau=0.7 , F1_measure=0.9998263917799428, best_acc=0.570949 , 
+
+=== Evaluation on HDFS_all ===
+
+=== Overall evaluation results ===
+Empty DataFrame
+Columns: [best_st, best_tau, F1_measure, Accuracy]
+Index: []
+
+=== Evaluation on HDFS100k ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.2 tau_tmp=0.7
+Parsing file: ../logs/HDFS/HDFS_100k.log
+0.7
+count_p=468 count_lcs_match=451
+Parsing done. [Time taken: 0:00:14.106290]
+real_pairs:  1053173730.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9950
+best_st=0.2, best_tau=0.7 , F1_measure=0.9999951100418846, best_acc=0.99504 , 
+
+=== Overall evaluation results ===
+          best_st  best_tau  F1_measure  Accuracy
+Dataset                                          
+HDFS100k      0.2       0.7    0.999995   0.99504
+avarage accuracy is 0.99504
+
+=== Overall evaluation results ===
+Empty DataFrame
+Columns: [best_st, best_tau, F1_measure, Accuracy]
+Index: []
