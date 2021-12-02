@@ -66,3 +66,19 @@ Precision: 1.0000, Recall: 0.9967, F1_measure: 0.9983, Parsing_Accuracy: 0.9134
 110
 Parsing done. [Time taken: 0:00:03.408332]
 Precision: 1.0000, Recall: 0.9847, F1_measure: 0.9923, Parsing_Accuracy: 0.9083
+(pytorch_python3) chenh@ta:/data/chenh/paper2/logram/LogAbstractionOffline$ /home/chenh/.conda/envs/pytorch_python3/bin/python /data/chenh/paper2/logram/LogAbstractionOffline/Main.py 
+../TestLogs/Spark/Spark_1m_match.log
+817174
+971824
+Parsing done. [Time taken: 0:00:41.167839]
+Precision: 1.0000, Recall: 0.2229, F1_measure: 0.3645, Parsing_Accuracy: 0.2141
+../TestLogs/BGL/BGL_1m.log
+39302
+41570
+Parsing done. [Time taken: 0:00:17.795497]
+Precision: 0.9999, Recall: 0.9620, F1_measure: 0.9806, Parsing_Accuracy: 0.6190
+../TestLogs/HDFS/HDFS_1m.log
+336
+346
+Parsing done. [Time taken: 0:00:36.236093]
+Precision: 1.0000, Recall: 0.9793, F1_measure: 0.9896, Parsing_Accuracy: 0.9113

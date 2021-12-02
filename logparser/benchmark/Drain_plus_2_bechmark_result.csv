@@ -1,5 +1,5 @@
 ,HDFS_all
-best_st,0.2
+best_st,0.5
 best_tau,0.7
-F1_measure,0.9991117984696095
-Accuracy,0.5284415758611887
+F1_measure,0.9999948142890726
+Accuracy,0.8079687505732339
