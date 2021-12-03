@@ -66,7 +66,23 @@ def generate_logformat_regex(logformat):
 
 benchmark_settings = {
 
+    'HDFS_all': {
+        'log_file': 'HDFS/HDFS.log',
+        'log_format': '<Date> <Time> <Pid> <Level> <Component>: <Content>',
+        'regex': [r'blk_-?\d+', r'(\d+\.){3}\d+(:\d+)?'],
+        'st': 0.5,
+        'depth': 4,
+        'tau': 0.7
+    },
 
+    'BGL_all': {
+        'log_file': 'BGL/BGL.log',
+        'log_format': '<Label> <Timestamp> <Date> <Node> <Time> <NodeRepeat> <Type> <Component> <Level> <Content>',
+        'regex': [r'core\.\d+'],
+        'st': 0.5,
+        'depth': 4,
+        'tau': 1.1
+    },
 
 
     # 'Spark100k': {
@@ -192,15 +208,7 @@ benchmark_settings = {
     #     'tau': 0.7
     # },
 
-    'HDFS_all': {
-        'log_file': 'HDFS/HDFS.log',
-        # 'log_file': 'HDFS/HDFS_1k.log',
-        'log_format': '<Date> <Time> <Pid> <Level> <Component>: <Content>',
-        'regex': [r'blk_-?\d+', r'(\d+\.){3}\d+(:\d+)?'],
-        'st': 0.5,
-        'depth': 4,
-        'tau': 0.7
-    },
+
 
     # 'HDFS': {
     #     'log_file': 'HDFS/HDFS_2k.log',

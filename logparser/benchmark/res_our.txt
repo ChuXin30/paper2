@@ -419,3 +419,25 @@ avarage accuracy is 0.99504
 Empty DataFrame
 Columns: [best_st, best_tau, F1_measure, Accuracy]
 Index: []
+
+=== Evaluation on HDFS_all ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=0.7
+Parsing file: ../logs/HDFS/HDFS.log
+0.7
+count_p=442570 count_lcs_match=442531
+Parsing done. [Time taken: 0:25:10.648089]
+real_pairs:  8161522146087.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.8080
+best_st=0.5, best_tau=0.7 , F1_measure=0.9999948142890726, best_acc=0.8079687505732339 , 
+
+=== Evaluation on BGL_all ===
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+st_tmp=0.5 tau_tmp=1.1
+Parsing file: ../logs/BGL/BGL.log
+1.1
+count_p=10082 count_lcs_match=0
