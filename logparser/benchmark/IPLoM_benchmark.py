@@ -64,6 +64,8 @@ benchmark_settings = {
         },
 
 
+
+
     'BGL10k': {
         'log_file': 'BGL/BGL_10k.log',
         'log_format': '<Label> <Timestamp> <Date> <Node> <Time> <NodeRepeat> <Type> <Component> <Level> <Content>',
