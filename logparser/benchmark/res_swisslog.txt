@@ -1,0 +1,374 @@
+
+=== Evaluation on Spark100k ===
+Parsing file: ../logs/Spark/Spark_100k_match.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 29 bin(s)
+After mask layer finish, tot, total: 29 bin(s)
+Parsing done. [Time taken: 0:00:14.812263]
+real_pairs:  673277491.0
+Precision: 1.0000, Recall: 0.9976, F1_measure: 0.9988, Parsing_Accuracy: 0.9526
+Parsing done. [Time taken: 0:00:15.327198]
+
+=== Evaluation on Spark10k ===
+Parsing file: ../logs/Spark/Spark_10k_match.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 29 bin(s)
+After mask layer finish, tot, total: 29 bin(s)
+Parsing done. [Time taken: 0:00:01.561752]
+real_pairs:  6797185.0
+Precision: 1.0000, Recall: 0.9968, F1_measure: 0.9984, Parsing_Accuracy: 0.9462
+Parsing done. [Time taken: 0:00:01.637013]
+
+=== Evaluation on Spark1k ===
+Parsing file: ../logs/Spark/Spark_1k_match.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 29 bin(s)
+After mask layer finish, tot, total: 29 bin(s)
+Parsing done. [Time taken: 0:00:00.175669]
+real_pairs:  50603.0
+Precision: 1.0000, Recall: 0.9873, F1_measure: 0.9936, Parsing_Accuracy: 0.9235
+Parsing done. [Time taken: 0:00:00.211370]
+
+=== Evaluation on BGL1k ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 1 bin(s)
+After mask layer finish, tot, total: 1 bin(s)
+Parsing done. [Time taken: 0:00:00.072916]
+real_pairs:  498501.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+Parsing done. [Time taken: 0:00:00.083513]
+
+=== Evaluation on BGL10k ===
+Parsing file: ../logs/BGL/BGL_10k.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 11 bin(s)
+After mask layer finish, tot, total: 11 bin(s)
+Parsing done. [Time taken: 0:00:00.618370]
+real_pairs:  23062683.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+Parsing done. [Time taken: 0:00:00.666376]
+
+=== Evaluation on BGL100k ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 658 bin(s)
+After mask layer finish, tot, total: 56 bin(s)
+Parsing done. [Time taken: 0:00:05.063928]
+real_pairs:  3427124179.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9930
+Parsing done. [Time taken: 0:00:05.880385]
+
+=== Evaluation on HDFS1k ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 10 bin(s)
+After mask layer finish, tot, total: 10 bin(s)
+Parsing done. [Time taken: 0:00:00.256972]
+real_pairs:  165868.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+Parsing done. [Time taken: 0:00:00.272897]
+
+=== Evaluation on HDFS10k ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 13 bin(s)
+After mask layer finish, tot, total: 13 bin(s)
+Parsing done. [Time taken: 0:00:01.758323]
+real_pairs:  10276742.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+Parsing done. [Time taken: 0:00:01.797680]
+
+=== Evaluation on HDFS100k ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 18 bin(s)
+After mask layer finish, tot, total: 18 bin(s)
+Parsing done. [Time taken: 0:00:18.433925]
+real_pairs:  1053173730.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9994
+Parsing done. [Time taken: 0:00:18.706789]
+
+=== Overall evaluation results ===
+  F1_measure   dataset  Accuracy
+0  Spark100k  0.998799  0.952567
+1   Spark10k  0.998391  0.946162
+2    Spark1k  0.993606  0.923464
+3      BGL1k  1.000000  1.000000
+4     BGL10k  1.000000  1.000000
+5    BGL100k  0.999996  0.992980
+6     HDFS1k  1.000000  1.000000
+7    HDFS10k  1.000000  1.000000
+8   HDFS100k  1.000000  0.999360
+avarage accuracy is 0.979392574759405
+
+=== Evaluation on Spark100k ===
+Parsing file: ../logs/Spark/Spark_100k_match.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 29 bin(s)
+After mask layer finish, tot, total: 29 bin(s)
+Parsing done. [Time taken: 0:00:14.419916]
+real_pairs:  673277491.0
+Precision: 1.0000, Recall: 0.9976, F1_measure: 0.9988, Parsing_Accuracy: 0.9526
+
+=== Evaluation on Spark10k ===
+Parsing file: ../logs/Spark/Spark_10k_match.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 29 bin(s)
+After mask layer finish, tot, total: 29 bin(s)
+Parsing done. [Time taken: 0:00:01.598354]
+real_pairs:  6797185.0
+Precision: 1.0000, Recall: 0.9968, F1_measure: 0.9984, Parsing_Accuracy: 0.9462
+
+=== Evaluation on Spark1k ===
+Parsing file: ../logs/Spark/Spark_1k_match.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 29 bin(s)
+After mask layer finish, tot, total: 29 bin(s)
+Parsing done. [Time taken: 0:00:00.171994]
+real_pairs:  50603.0
+Precision: 1.0000, Recall: 0.9873, F1_measure: 0.9936, Parsing_Accuracy: 0.9235
+
+=== Evaluation on BGL1k ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 1 bin(s)
+After mask layer finish, tot, total: 1 bin(s)
+Parsing done. [Time taken: 0:00:00.075705]
+real_pairs:  498501.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Evaluation on BGL10k ===
+Parsing file: ../logs/BGL/BGL_10k.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 11 bin(s)
+After mask layer finish, tot, total: 11 bin(s)
+Parsing done. [Time taken: 0:00:00.614602]
+real_pairs:  23062683.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Evaluation on BGL100k ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 658 bin(s)
+After mask layer finish, tot, total: 56 bin(s)
+Parsing done. [Time taken: 0:00:04.967943]
+real_pairs:  3427124179.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9930
+
+=== Evaluation on HDFS1k ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 10 bin(s)
+After mask layer finish, tot, total: 10 bin(s)
+Parsing done. [Time taken: 0:00:00.248635]
+real_pairs:  165868.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Evaluation on HDFS10k ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 13 bin(s)
+After mask layer finish, tot, total: 13 bin(s)
+Parsing done. [Time taken: 0:00:01.651278]
+real_pairs:  10276742.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Evaluation on HDFS100k ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 18 bin(s)
+After mask layer finish, tot, total: 18 bin(s)
+Parsing done. [Time taken: 0:00:18.109960]
+real_pairs:  1053173730.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9994
+
+=== Overall evaluation results ===
+     dataset  F1_measure  Accuracy
+0  Spark100k    0.998799  0.952567
+1   Spark10k    0.998391  0.946162
+2    Spark1k    0.993606  0.923464
+3      BGL1k    1.000000  1.000000
+4     BGL10k    1.000000  1.000000
+5    BGL100k    0.999996  0.992980
+6     HDFS1k    1.000000  1.000000
+7    HDFS10k    1.000000  1.000000
+8   HDFS100k    1.000000  0.999360
+avarage accuracy is 0.979392574759405
+
+=== Evaluation on Spark100k ===
+Parsing file: ../logs/Spark/Spark_100k_match.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 29 bin(s)
+After mask layer finish, tot, total: 29 bin(s)
+Parsing done. [Time taken: 0:00:14.427898]
+real_pairs:  673277491.0
+Precision: 1.0000, Recall: 0.9976, F1_measure: 0.9988, Parsing_Accuracy: 0.9526
+
+=== Evaluation on Spark10k ===
+Parsing file: ../logs/Spark/Spark_10k_match.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 29 bin(s)
+After mask layer finish, tot, total: 29 bin(s)
+Parsing done. [Time taken: 0:00:01.547830]
+real_pairs:  6797185.0
+Precision: 1.0000, Recall: 0.9968, F1_measure: 0.9984, Parsing_Accuracy: 0.9462
+
+=== Evaluation on Spark1k ===
+Parsing file: ../logs/Spark/Spark_1k_match.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 29 bin(s)
+After mask layer finish, tot, total: 29 bin(s)
+Parsing done. [Time taken: 0:00:00.179633]
+real_pairs:  50603.0
+Precision: 1.0000, Recall: 0.9873, F1_measure: 0.9936, Parsing_Accuracy: 0.9235
+
+=== Evaluation on Spark1m ===
+Parsing file: ../logs/Spark/Spark_1m_match.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 30 bin(s)
+After mask layer finish, tot, total: 30 bin(s)
+Parsing done. [Time taken: 0:02:18.217573]
+real_pairs:  54232979716.0
+Precision: 1.0000, Recall: 0.9713, F1_measure: 0.9854, Parsing_Accuracy: 0.9090
+
+=== Evaluation on BGL1m ===
+Parsing file: ../logs/BGL/BGL_1m.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 13263 bin(s)
+After mask layer finish, tot, total: 185 bin(s)
+Parsing done. [Time taken: 0:01:09.380947]
+real_pairs:  63584927510.0
+Precision: 0.9925, Recall: 0.9968, F1_measure: 0.9946, Parsing_Accuracy: 0.7430
+
+=== Evaluation on BGL1k ===
+Parsing file: ../logs/BGL/BGL_1k.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 1 bin(s)
+After mask layer finish, tot, total: 1 bin(s)
+Parsing done. [Time taken: 0:00:00.838795]
+real_pairs:  498501.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Evaluation on BGL10k ===
+Parsing file: ../logs/BGL/BGL_10k.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 11 bin(s)
+After mask layer finish, tot, total: 11 bin(s)
+Parsing done. [Time taken: 0:00:00.559083]
+real_pairs:  23062683.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Evaluation on BGL100k ===
+Parsing file: ../logs/BGL/BGL_100k.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 658 bin(s)
+After mask layer finish, tot, total: 56 bin(s)
+Parsing done. [Time taken: 0:00:04.317306]
+real_pairs:  3427124179.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9930
+
+=== Evaluation on HDFS1k ===
+Parsing file: ../logs/HDFS/HDFS_1k.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 10 bin(s)
+After mask layer finish, tot, total: 10 bin(s)
+Parsing done. [Time taken: 0:00:00.210966]
+real_pairs:  165868.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Evaluation on HDFS10k ===
+Parsing file: ../logs/HDFS/HDFS_10k.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 13 bin(s)
+After mask layer finish, tot, total: 13 bin(s)
+Parsing done. [Time taken: 0:00:01.654046]
+real_pairs:  10276742.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 1.0000
+
+=== Evaluation on HDFS100k ===
+Parsing file: ../logs/HDFS/HDFS_100k.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 18 bin(s)
+After mask layer finish, tot, total: 18 bin(s)
+Parsing done. [Time taken: 0:00:16.979987]
+real_pairs:  1053173730.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9994
+
+=== Evaluation on HDFS1m ===
+Parsing file: ../logs/HDFS/HDFS_1m.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 35 bin(s)
+After mask layer finish, tot, total: 35 bin(s)
+Parsing done. [Time taken: 0:02:55.070491]
+real_pairs:  83195137434.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9993
+
+=== Overall evaluation results ===
+     Accuracy  F1_measure   dataset
+0   Spark100k    0.998799  0.952567
+1    Spark10k    0.998391  0.946162
+2     Spark1k    0.993606  0.923464
+3     Spark1m    0.985418  0.908964
+4       BGL1m    0.994608  0.742966
+5       BGL1k    1.000000  1.000000
+6      BGL10k    1.000000  1.000000
+7     BGL100k    0.999996  0.992980
+8      HDFS1k    1.000000  1.000000
+9     HDFS10k    1.000000  1.000000
+10   HDFS100k    1.000000  0.999360
+11     HDFS1m    1.000000  0.999340
+avarage accuracy is 0.9554836042891649
+
+=== Evaluation on BGL_all ===
+Parsing file: ../logs/BGL/BGL.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 18517 bin(s)
+After mask layer finish, tot, total: 1198 bin(s)
+Parsing done. [Time taken: 0:11:24.138755]
+
+=== Evaluation on HDFS_all ===
+Parsing file: ../logs/HDFS/HDFS.log
+Knowledge group layer finished.
+Tokenization layer finished.
+After Dictionary Group, total: 48 bin(s)
+After mask layer finish, tot, total: 48 bin(s)
+Parsing done. [Time taken: 0:33:31.878397]
+real_pairs:  8161522146087.0
+Precision: 1.0000, Recall: 1.0000, F1_measure: 1.0000, Parsing_Accuracy: 0.9997
+
+=== Overall evaluation results ===
+    dataset  F1_measure  Accuracy
+0  HDFS_all         1.0  0.999671
+avarage accuracy is 0.9996708015271445
