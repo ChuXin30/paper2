@@ -85,10 +85,10 @@ if __name__ == '__main__':
     model.load_state_dict(torch.load(model_path))
     model.eval()
     print('model_path: {}'.format(model_path))
-    # test_normal_loader = generate( dir + 'test_normal')
-    # test_abnormal_loader = generate(dir + 'abnormal')
-    test_normal_loader = generate( dir + 'simple_test_normal')
-    test_abnormal_loader = generate(dir + 'simple_abnormal')
+    test_normal_loader = generate( dir + 'test_normal')
+    test_abnormal_loader = generate(dir + 'abnormal')
+    # test_normal_loader = generate( dir + 'simple_test_normal')
+    # test_abnormal_loader = generate(dir + 'simple_abnormal')
     TP = 0
     FP = 0
     # Test the model
@@ -116,12 +116,13 @@ if __name__ == '__main__':
                     # FP += 1
                     countFP += 1
             # print("countFP/len(line)={} countFP={} len(line)={}".format(countFP*1.0/len(line) , countFP , len(line)))
-            num_wind = (len(line) - window_size)
-            if num_wind < 0:
-                num_wind = 1
+            # num_wind = (len(line) - window_size)
+            # if num_wind < 0:
+            #     num_wind = 1
             
             # print("num_wind={} countFP={} countFP*1.0/num_wind={}".format( num_wind , countFP , countFP*1.0/num_wind ))
-            if(countFP*1.0/num_wind > 1.0/9 ):
+            # if(countFP*1.0/num_wind >= 1.0/10 ):
+            if(countFP > 1 ):
                 FP+= 1
 
 

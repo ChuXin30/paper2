@@ -4,5 +4,12 @@
 # python Drain_plus_2_demo.py ../logs/HDFS/ paper3_Drain_2_result_tau085/ HDFS.log 0.85 >> paper3_res.txt 
 # python Drain_plus_2_demo.py ../logs/HDFS/ paper3_Drain_2_result_tau09/ HDFS.log 0.9 >> paper3_res.txt 
 # python Drain_plus_2_demo.py ../logs/HDFS/ paper3_Drain_2_result_tau095/ HDFS.log 0.95 >> paper3_res.txt 
-python lcs_demo.py ../logs/HDFS/ paper3_lcs_/ HDFS_2k.log 0.6 
-python Drain_plus_2_demo.py ../logs/HDFS/ paper3_Drain_2_result_test/ HDFS_2k.log 0.6 
+# python lcs_demo.py ../logs/HDFS/ paper3_lcs_/ HDFS_2k.log 0.6 
+# python Drain_plus_2_demo.py ../logs/HDFS/ paper3_Drain_2_result_test/ HDFS_2k.log 0.6 
+
+
+# python Drain_plus_2_demo.py ../logs/HDFS/ paper3_Drain_plus_2_result_tau07_d4_st05/ HDFS_2k.log 0.7 4 0.5 >> paper3_res.txt 
+
+# python Drain_plus_2_demo.py ../logs/HDFS/ paper3_Drain_plus_2_result_tau07_d4_st05/ HDFS.log 0.7 4 0.5 >> paper3_res.txt 
+
+python noise_data_preposses.py paper3_Drain_plus_2_result_tau07_d4_st05 

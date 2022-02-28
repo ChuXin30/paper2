@@ -101269,3 +101269,56 @@ HDFS.log
 0.6
 Parsing file: ../logs/HDFS/HDFS.log
 0.6
+
+------------Drain_plus---------------
+../logs/HDFS/
+paper3_Drain_plus_2_result_tau07_d4_st05/
+HDFS_sk.log
+0.5
+
+------------Drain_plus---------------
+../logs/HDFS/
+paper3_Drain_plus_2_result_tau07_d4_st05/
+HDFS_2k.log
+0.5
+Knowledge group layer finished.
+
+------------Drain_plus---------------
+../logs/HDFS/
+paper3_Drain_plus_2_result_tau07_d4_st05/
+HDFS_2k.log
+0.7
+Knowledge group layer finished.
+
+------------Drain_plus---------------
+../logs/HDFS/
+paper3_Drain_plus_2_result_tau07_d4_st05/
+HDFS_2k.log
+0.7
+Knowledge group layer finished.
+
+------------Drain_plus---------------
+
+------------Drain_plus---------------
+../logs/HDFS/
+paper3_Drain_plus_2_result_tau07_d4_st05/
+HDFS_2k.log
+0.7
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+Parsing file: ../logs/HDFS/HDFS_2k.log
+0.7
+count_p=17 count_lcs_match=3
+
+------------Drain_plus---------------
+../logs/HDFS/
+paper3_Drain_plus_2_result_tau07_d4_st05/
+HDFS.log
+0.7
+Knowledge group layer finished.
+Tokenization layer finished.
+Tokenization layer finished.
+Parsing file: ../logs/HDFS/HDFS.log
+0.7
+count_p=442570 count_lcs_match=442531

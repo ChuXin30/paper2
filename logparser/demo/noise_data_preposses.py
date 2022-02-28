@@ -1283,10 +1283,12 @@ def count_logkey_0_in_map_0(map_0):
 if __name__ == "__main__":
     input_dir = sys.argv[1]
 
-    # csvtemplates_to_templates(input_dir + '/HDFS.log_templates.csv', input_dir + '/templates')
-    # get_map_logkey_to_num(input_dir + '/templates', input_dir + '/map_logkey_to_num')
+    csvtemplates_to_templates(input_dir + '/HDFS.log_templates.csv', input_dir + '/templates')
+    get_map_logkey_to_num(input_dir + '/templates', input_dir + '/map_logkey_to_num')
 
-    # group(input_dir + '/HDFS.log_structured.csv', 'anomaly_label.csv', input_dir + '/map_logkey_to_num',  input_dir + '/normal',input_dir + '/abnormal')
-    # train_dataset_split( input_dir + '/normal', 0.7 , input_dir + '/train_normal',input_dir + '/test_normal')
+    group(input_dir + '/HDFS.log_structured.csv', 'anomaly_label.csv', input_dir + '/map_logkey_to_num',  input_dir + '/normal',input_dir + '/abnormal')
+    train_dataset_split( input_dir + '/normal', 0.7 , input_dir + '/train_normal',input_dir + '/test_normal')
+
+
     simple_dataset( input_dir + '/test_normal', 0.01 , input_dir + '/simple_test_normal')
     simple_dataset( input_dir + '/abnormal', 0.01 , input_dir + '/simple_abnormal')

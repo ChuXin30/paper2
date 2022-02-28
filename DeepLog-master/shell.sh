@@ -108,11 +108,107 @@
 # python LogKeyModel_predict.py ../logparser/demo/paper3_Spell_result/ paper3_Spell_result_w20 38 18 model/paper3_Spell_result_w20/20.pt >> res.txt &
 
 
-python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_result/ paper3_Drain_result 49 18  model/paper3_Drain_result/20.pt >> res.txt
-python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_result/ paper3_Drain_result 49 17  model/paper3_Drain_result/20.pt >> res.txt
-python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_result/ paper3_Drain_result 49 16  model/paper3_Drain_result/20.pt >> res.txt
-python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_result/ paper3_Drain_result 49 15  model/paper3_Drain_result/20.pt >> res.txt
-python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_result/ paper3_Drain_result 49 19  model/paper3_Drain_result/20.pt >> res.txt
-python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_result/ paper3_Drain_result 49 20  model/paper3_Drain_result/20.pt >> res.txt
-python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_result/ paper3_Drain_result 49 21  model/paper3_Drain_result/20.pt >> res.txt
-python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_result/ paper3_Drain_result 49 22  model/paper3_Drain_result/20.pt >> res.txt
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_result/ paper3_Drain_result 49 18  model/paper3_Drain_result/20.pt >> res.txt
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_result/ paper3_Drain_result 49 17  model/paper3_Drain_result/20.pt >> res.txt
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_result/ paper3_Drain_result 49 16  model/paper3_Drain_result/20.pt >> res.txt
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_result/ paper3_Drain_result 49 15  model/paper3_Drain_result/20.pt >> res.txt
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_result/ paper3_Drain_result 49 19  model/paper3_Drain_result/20.pt >> res.txt
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_result/ paper3_Drain_result 49 20  model/paper3_Drain_result/20.pt >> res.txt
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_result/ paper3_Drain_result 49 21  model/paper3_Drain_result/20.pt >> res.txt
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_result/ paper3_Drain_result 49 22  model/paper3_Drain_result/20.pt >> res.txt
+
+
+# python LogKeyModel_train.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 41 2 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 41 18  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 41 12  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 41 22  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 41 27  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 41 25  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_result/ paper3_Drain_result 49 22  model/paper3_Drain_result/20.pt >> res.txt
+
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 41 25  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+
+# python LogKeyModel_train.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 2  >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 15  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 16  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 17  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 18  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 5  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 6  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 7  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 8  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 9  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 10  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 20  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 25  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 30  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 35  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 35  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 31  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 32  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 33  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 34  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 35  model/paper3_Drain_plus_2_result_tau07_d4_st05/5.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 35  model/paper3_Drain_plus_2_result_tau07_d4_st05/25.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 35  model/paper3_Drain_plus_2_result_tau07_d4_st05/10.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 22  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 10  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 15  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 20  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 21  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 5  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 6  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 7  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 8  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 9  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+# python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 4  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt 
+
+
+python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_result/ paper3_Drain_result 49 18  model/paper3_Drain_result/15.pt >> res.txt &
+
+python LogKeyModel_predict.py ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ paper3_Drain_plus_2_result_tau07_d4_st05 40 10  model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt >> res.txt &

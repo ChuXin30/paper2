@@ -4047,3 +4047,611 @@ model_dir:paper3_Drain_result
 tp=105 false positive (FP): 0, false negative (FN): 63, Precision: 100.000%, Recall: 62.500%, F1-measure: 76.923%
 Finished Predicting
 elapsed_time: 62.39714074134827
+
+
+
+
+
+
+
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/train_normal): 390756
+Number of seqs(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/train_normal): 728963
+Epoch [1/25], Train_loss: 0.000479
+Epoch [2/25], Train_loss: 0.000170
+Epoch [3/25], Train_loss: 0.000118
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:18
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=412
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=168 false positive (FP): 675, false negative (FN): 0, Precision: 19.929%, Recall: 100.000%, F1-measure: 33.234%
+Finished Predicting
+elapsed_time: 18.083431005477905
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:12
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=413
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=168 false positive (FP): 676, false negative (FN): 0, Precision: 19.905%, Recall: 100.000%, F1-measure: 33.202%
+Finished Predicting
+elapsed_time: 18.08453631401062
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:22
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=412
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=168 false positive (FP): 675, false negative (FN): 0, Precision: 19.929%, Recall: 100.000%, F1-measure: 33.234%
+Finished Predicting
+elapsed_time: 18.454386234283447
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:27
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=387
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=104 false positive (FP): 634, false negative (FN): 64, Precision: 14.092%, Recall: 61.905%, F1-measure: 22.958%
+Finished Predicting
+elapsed_time: 18.2620747089386
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:25
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=406
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=144 false positive (FP): 665, false negative (FN): 24, Precision: 17.800%, Recall: 85.714%, F1-measure: 29.478%
+Finished Predicting
+elapsed_time: 18.18552827835083
+
+
+model_path: model/paper3_Drain_result/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:22
+model_path: model/paper3_Drain_result/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_result/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+model_path: model/paper3_Drain_result/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+tp=105 false positive (FP): 0, false negative (FN): 63, Precision: 100.000%, Recall: 62.500%, F1-measure: 76.923%
+Finished Predicting
+elapsed_time: 27.23266911506653
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:18
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=394
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=97 false positive (FP): 641, false negative (FN): 71, Precision: 13.144%, Recall: 57.738%, F1-measure: 21.413%
+Finished Predicting
+elapsed_time: 17.96595287322998
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:16
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=394
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=135 false positive (FP): 641, false negative (FN): 33, Precision: 17.397%, Recall: 80.357%, F1-measure: 28.602%
+Finished Predicting
+elapsed_time: 18.060381174087524
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:17
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=394
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=97 false positive (FP): 641, false negative (FN): 71, Precision: 13.144%, Recall: 57.738%, F1-measure: 21.413%
+Finished Predicting
+elapsed_time: 18.245460510253906
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:18
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=394
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=97 false positive (FP): 641, false negative (FN): 71, Precision: 13.144%, Recall: 57.738%, F1-measure: 21.413%
+Finished Predicting
+elapsed_time: 18.274532556533813
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:10
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=401
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=168 false positive (FP): 655, false negative (FN): 0, Precision: 20.413%, Recall: 100.000%, F1-measure: 33.905%
+Finished Predicting
+elapsed_time: 19.24041223526001
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:5
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=999
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=168 false positive (FP): 1671, false negative (FN): 0, Precision: 9.135%, Recall: 100.000%, F1-measure: 16.741%
+Finished Predicting
+elapsed_time: 18.49719476699829
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:7
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=997
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=168 false positive (FP): 1668, false negative (FN): 0, Precision: 9.150%, Recall: 100.000%, F1-measure: 16.766%
+Finished Predicting
+elapsed_time: 18.100924253463745
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:8
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=997
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=168 false positive (FP): 1668, false negative (FN): 0, Precision: 9.150%, Recall: 100.000%, F1-measure: 16.766%
+Finished Predicting
+elapsed_time: 18.050217866897583
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:9
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=991
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=168 false positive (FP): 1657, false negative (FN): 0, Precision: 9.205%, Recall: 100.000%, F1-measure: 16.859%
+Finished Predicting
+elapsed_time: 18.449614763259888
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:10
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=987
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=168 false positive (FP): 1650, false negative (FN): 0, Precision: 9.241%, Recall: 100.000%, F1-measure: 16.918%
+Finished Predicting
+elapsed_time: 18.09048366546631
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:20
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=980
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=97 false positive (FP): 1636, false negative (FN): 71, Precision: 5.597%, Recall: 57.738%, F1-measure: 10.205%
+Finished Predicting
+elapsed_time: 18.390658855438232
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:25
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=979
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=97 false positive (FP): 1635, false negative (FN): 71, Precision: 5.600%, Recall: 57.738%, F1-measure: 10.211%
+Finished Predicting
+elapsed_time: 18.230978965759277
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:30
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=978
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=97 false positive (FP): 1633, false negative (FN): 71, Precision: 5.607%, Recall: 57.738%, F1-measure: 10.221%
+Finished Predicting
+elapsed_time: 18.964338541030884
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:35
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=10
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=85 false positive (FP): 12, false negative (FN): 83, Precision: 87.629%, Recall: 50.595%, F1-measure: 64.151%
+Finished Predicting
+elapsed_time: 18.3513286113739
+
+
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:31
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=976
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=97 false positive (FP): 1629, false negative (FN): 71, Precision: 5.620%, Recall: 57.738%, F1-measure: 10.243%
+Finished Predicting
+elapsed_time: 18.41392707824707
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:32
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=894
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=96 false positive (FP): 1503, false negative (FN): 72, Precision: 6.004%, Recall: 57.143%, F1-measure: 10.866%
+Finished Predicting
+elapsed_time: 17.888792514801025
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:33
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=447
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=95 false positive (FP): 724, false negative (FN): 73, Precision: 11.600%, Recall: 56.548%, F1-measure: 19.250%
+Finished Predicting
+elapsed_time: 18.911887407302856
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:34
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=134
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=91 false positive (FP): 212, false negative (FN): 77, Precision: 30.033%, Recall: 54.167%, F1-measure: 38.641%
+Finished Predicting
+elapsed_time: 18.66660213470459
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/5.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:35
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/5.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=396
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/5.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=91 false positive (FP): 644, false negative (FN): 77, Precision: 12.381%, Recall: 54.167%, F1-measure: 20.155%
+Finished Predicting
+elapsed_time: 18.84195327758789
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/25.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:35
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/10.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:35
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/10.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=393
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/10.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=89 false positive (FP): 640, false negative (FN): 79, Precision: 12.209%, Recall: 52.976%, F1-measure: 19.844%
+Finished Predicting
+elapsed_time: 18.74245285987854
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:35
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=393
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=89 false positive (FP): 640, false negative (FN): 79, Precision: 12.209%, Recall: 52.976%, F1-measure: 19.844%
+Finished Predicting
+elapsed_time: 18.442101001739502
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:22
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+
+
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:22
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=0
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=97 false positive (FP): 0, false negative (FN): 71, Precision: 100.000%, Recall: 57.738%, F1-measure: 73.208%
+Finished Predicting
+elapsed_time: 18.256120443344116
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:10
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=0
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=168 false positive (FP): 0, false negative (FN): 0, Precision: 100.000%, Recall: 100.000%, F1-measure: 100.000%
+Finished Predicting
+elapsed_time: 18.06669855117798
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:15
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=0
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=135 false positive (FP): 0, false negative (FN): 33, Precision: 100.000%, Recall: 80.357%, F1-measure: 89.109%
+Finished Predicting
+elapsed_time: 17.94548749923706
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:20
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=0
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=97 false positive (FP): 0, false negative (FN): 71, Precision: 100.000%, Recall: 57.738%, F1-measure: 73.208%
+Finished Predicting
+elapsed_time: 18.445414066314697
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:21
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=0
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=97 false positive (FP): 0, false negative (FN): 71, Precision: 100.000%, Recall: 57.738%, F1-measure: 73.208%
+Finished Predicting
+elapsed_time: 18.138020038604736
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:5
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:5
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=0
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=168 false positive (FP): 0, false negative (FN): 0, Precision: 100.000%, Recall: 100.000%, F1-measure: 100.000%
+Finished Predicting
+elapsed_time: 18.183109760284424
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:6
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=0
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=168 false positive (FP): 0, false negative (FN): 0, Precision: 100.000%, Recall: 100.000%, F1-measure: 100.000%
+Finished Predicting
+elapsed_time: 18.781115293502808
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:7
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=0
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=168 false positive (FP): 0, false negative (FN): 0, Precision: 100.000%, Recall: 100.000%, F1-measure: 100.000%
+Finished Predicting
+elapsed_time: 18.03346037864685
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:8
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=0
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=168 false positive (FP): 0, false negative (FN): 0, Precision: 100.000%, Recall: 100.000%, F1-measure: 100.000%
+Finished Predicting
+elapsed_time: 17.94943904876709
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:9
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=0
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=168 false positive (FP): 0, false negative (FN): 0, Precision: 100.000%, Recall: 100.000%, F1-measure: 100.000%
+Finished Predicting
+elapsed_time: 18.27413249015808
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+num_candidates:4
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_test_normal): 1674
+Number of sessions(../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/simple_abnormal): 168
+dir= ../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/ count=1000 FP=0
+model_path: model/paper3_Drain_plus_2_result_tau07_d4_st05/20.pt
+dataset_dir:../logparser/demo/paper3_Drain_plus_2_result_tau07_d4_st05/
+model_dir:paper3_Drain_plus_2_result_tau07_d4_st05
+tp=168 false positive (FP): 0, false negative (FN): 0, Precision: 100.000%, Recall: 100.000%, F1-measure: 100.000%
+Finished Predicting
+elapsed_time: 17.946648836135864
+
+
+model_path: model/paper3_Drain_result/15.pt
+dataset_dir:../logparser/demo/paper3_Drain_result/
+model_dir:paper3_Drain_result
+num_candidates:18
+model_path: model/paper3_Drain_result/15.pt
+Number of sessions(../logparser/demo/paper3_Drain_result/test_normal): 167467
+Number of sessions(../logparser/demo/paper3_Drain_result/abnormal): 16838
+dir= ../logparser/demo/paper3_Drain_result/ count=1000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=2000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=3000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=4000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=5000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=6000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=7000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=8000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=9000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=10000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=11000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=12000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=13000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=14000 FP=0
+dir= ../logparser/demo/paper3_Drain_result/ count=15000 FP=0
