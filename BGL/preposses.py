@@ -42,6 +42,7 @@ def get_blk_id(line):
      #   print('1')
         #print(obj.group(1))
         blk_id = obj.group(1)
+        print("1")
     else:
         obj2 = re.search(r" blk_([0-9]*?)\n", line)
         if obj2 != None:
